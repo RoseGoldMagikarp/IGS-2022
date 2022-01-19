@@ -795,3 +795,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.19-21.12.15:866][108]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
 [2022.01.19-21.12.57:583][964]LogSlate: Window 'Project Settings' being destroyed
 [2022.01.19-21.12.57:585][964]LogSlate: Window 'Project Settings' being destroyed
+[2022.01.19-21.15.18:329][967]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.19-21.15.18:344][967]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.19-21.15.21:253][267]LogContentBrowser: Attempting asset rename: NewFolder -> Sprites
+[2022.01.19-21.15.21:253][267]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.19-21.15.23:965][540]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.19-21.15.23:977][540]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.19-21.15.28:177][968]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2022.01.19-21.15.28:178][968]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.19-21.15.30:184][167]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.19-21.15.30:194][167]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.19-21.15.37:200][877]LogContentBrowser: Attempting asset rename: NewFolder -> Flipbooks
+[2022.01.19-21.15.37:200][877]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.19-21.15.40:326][219]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.19-21.15.40:343][219]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.19-21.15.47:054][898]LogContentBrowser: Attempting asset rename: NewFolder -> TileSets
+[2022.01.19-21.15.47:054][898]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.19-21.15.58:902][133]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.19-21.16.17:512][153]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.19-21.17.59:339][542]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.01.19-21.18.02:813][926]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.01.19-21.18.17:028][ 80]LogSlate: Window 'Save Level As' being destroyed
+[2022.01.19-21.18.17:046][ 80]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.19-21.18.17:060][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Practice" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Practice.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.19-21.18.17:067][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.01.19-21.18.17:085][ 80]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/Practice830BC5154F4397A06DAC08B71461DEE5.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Practice.umap'
+[2022.01.19-21.18.17:092][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Practice_BuiltData" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Practice_BuiltData.uasset" SILENT=true
+[2022.01.19-21.18.17:108][ 80]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/Practice_BuiltDataC1EB96CD45C606FF0F98ED832EEA83A6.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Practice_BuiltData.uasset'
+[2022.01.19-21.18.17:118][ 80]LogFileHelpers: Saving map 'Practice' took 0.075
+[2022.01.19-21.18.17:121][ 80]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.19-21.18.17:121][ 80]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Practice_BuiltData.Practice_BuiltData
+[2022.01.19-21.18.17:121][ 80]LogContentValidation: Display: Validating World /Game/Maps/Practice.Practice
+[2022.01.19-21.19.20:288][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Practice" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Practice.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.19-21.19.20:294][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.01.19-21.19.20:320][717]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/Practice1DDBDA46455C4F839252CB9B5FBDF1E4.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Practice.umap'
+[2022.01.19-21.19.20:332][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Practice_BuiltData" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Practice_BuiltData.uasset" SILENT=true
+[2022.01.19-21.19.20:352][717]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/Practice_BuiltData05E1FE674ACD8371CC688AB1FC55719A.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Practice_BuiltData.uasset'
+[2022.01.19-21.19.20:365][717]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.19-21.19.20:365][717]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Practice_BuiltData.Practice_BuiltData
+[2022.01.19-21.19.20:365][717]LogContentValidation: Display: Validating World /Game/Maps/Practice.Practice
