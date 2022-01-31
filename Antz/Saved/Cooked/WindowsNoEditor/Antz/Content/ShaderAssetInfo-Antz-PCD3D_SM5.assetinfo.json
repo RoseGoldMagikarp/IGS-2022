@@ -226,9 +226,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0B937A43ACC4F504298BDE7328631067BD15F3D9",
+			"Assets": [
+				"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
 			"Assets": [
 				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B62C6666139A3872CDCE231F5F5AA833A65C5BEE",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AC6399B020E149A40983904404C430186B56CDCB",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset"
 			]
 		},
 		{
