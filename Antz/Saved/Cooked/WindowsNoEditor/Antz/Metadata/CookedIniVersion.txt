@@ -1665,14 +1665,13 @@ Windows.Input:/Script/Engine.InputSettings:DefaultViewportMouseCaptureMode:0=Cap
 Windows.Input:/Script/Engine.InputSettings:DefaultViewportMouseLockMode:0=LockOnCapture
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:0=(ActionName="Jump",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=SpaceBar)
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:1=(ActionName="Jump",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Gamepad_FaceButton_Bottom)
-Windows.Input:/Script/Engine.InputSettings:ActionMappings:2=(ActionName="Climb",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Z)
-Windows.Input:/Script/Engine.InputSettings:ActionMappings:3=(ActionName="Climb",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Gamepad_RightTrigger)
+Windows.Input:/Script/Engine.InputSettings:ActionMappings:2=(ActionName="Glide",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Z)
+Windows.Input:/Script/Engine.InputSettings:ActionMappings:3=(ActionName="Quest Log",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Q)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:0=(AxisName="MoveRight",Scale=1.000000,Key=D)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:1=(AxisName="MoveRight",Scale=-1.000000,Key=A)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:2=(AxisName="MoveRight",Scale=1.000000,Key=Right)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:3=(AxisName="MoveRight",Scale=-1.000000,Key=Left)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:4=(AxisName="MoveRight",Scale=1.000000,Key=Gamepad_LeftX)
-Windows.Input:/Script/Engine.InputSettings:AxisMappings:5=(AxisName="Climb",Scale=1.000000,Key=X)
 Windows.Input:/Script/Engine.InputSettings:DefaultPlayerInputClass:0=/Script/Engine.PlayerInput
 Windows.Input:/Script/Engine.InputSettings:DefaultInputComponentClass:0=/Script/Engine.InputComponent
 Windows.Input:/Script/Engine.InputSettings:ConsoleKeys:0=Tilde

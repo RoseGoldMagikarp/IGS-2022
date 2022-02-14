@@ -1284,3 +1284,86 @@ Make sure 'BP_GameModeBase_C' has been compiled for  Set HUD_Widget
 [2022.02.14-20.05.12:077][904]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/BP_PlayerBaseCD111AEE4E49C4442099B2B86EA04516.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Blueprints/BP_PlayerBase.uasset'
 [2022.02.14-20.05.12:097][904]AssetCheck: New page: Asset Save: BP_PlayerBase
 [2022.02.14-20.05.12:097][904]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PlayerBase.BP_PlayerBase
+[2022.02.14-20.07.40:244][700]LogLauncherProfile: Project does not require temp target
+[2022.02.14-20.07.40:246][700]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game-Win64-Shipping.target
+[2022.02.14-20.07.41:385][822]LogLauncherProfile: Project does not require temp target
+[2022.02.14-20.07.41:387][822]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game-Win64-Shipping.target
+[2022.02.14-20.08.11:826][129]BlueprintLog: New page: Compile BP_GameModeBase
+[2022.02.14-20.08.11:956][129]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2022.02.14-20.08.13:681][320]LogSlate: Window 'ProjectLauncher' being destroyed
+[2022.02.14-20.08.13:687][320]LogSlate: Window 'ProjectLauncher' being destroyed
+[2022.02.14-20.08.24:762][537]BlueprintLog: New page: Compile QuestLogUI
+[2022.02.14-20.08.24:834][537]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2022.02.14-20.08.26:509][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/QuestLogUI" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestLogUI.uasset" SILENT=true
+[2022.02.14-20.08.26:521][725]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/QuestLogUIC9C61C9849E8A46D8BDD4D8CF3BC3F1C.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestLogUI.uasset'
+[2022.02.14-20.08.26:534][725]AssetCheck: New page: Asset Save: QuestLogUI
+[2022.02.14-20.08.26:534][725]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/QuestLogUI.QuestLogUI
+[2022.02.14-20.08.45:957][955]LogLauncherProfile: Project does not require temp target
+[2022.02.14-20.08.45:959][955]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game-Win64-Shipping.target
+[2022.02.14-20.10.01:472][ 48]LogSlate: Window 'ProjectLauncher' being destroyed
+[2022.02.14-20.10.01:480][ 48]LogSlate: Window 'ProjectLauncher' being destroyed
+[2022.02.14-20.10.03:536][218]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.14-20.10.03:544][218]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.14-20.10.03:544][218]PIE: New page: PIE session: Practice (Feb 14, 2022, 10:10:03 AM)
+[2022.02.14-20.10.03:545][218]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Practice
+[2022.02.14-20.10.03:550][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005832s)
+[2022.02.14-20.10.03:551][218]LogAIModule: Creating AISystem for world Practice
+[2022.02.14-20.10.03:552][218]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2022.02.14-20.10.03:552][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Practice.Practice to /Game/Maps/UEDPIE_0_Practice.Practice (0.007072s)
+[2022.02.14-20.10.03:595][218]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2022.02.14-20.10.03:600][218]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.02.14-20.10.03:600][218]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.14-20.10.03:600][218]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.14-20.10.03:600][218]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.14-20.10.03:600][218]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.14-20.10.03:600][218]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.14-20.10.03:600][218]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.14-20.10.03:600][218]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.14-20.10.03:600][218]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.14-20.10.03:601][218]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.14-20.10.03:601][218]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.14-20.10.03:611][218]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.14-20.10.03:611][218]LogAudioMixer: Display: 1: FrontRight
+[2022.02.14-20.10.03:623][218]LogAudioMixer: Display: Using Audio Device Speakers (Conexant ISST Audio)
+[2022.02.14-20.10.03:623][218]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.14-20.10.03:623][218]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.14-20.10.03:623][218]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.14-20.10.03:623][218]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.14-20.10.03:623][218]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.14-20.10.03:623][218]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.14-20.10.03:638][218]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.14-20.10.03:638][218]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.14-20.10.03:638][218]LogInit: FAudioDevice initialized.
+[2022.02.14-20.10.03:638][218]LogAudio: Display: Audio Device (ID: 6) registered with world 'Practice'.
+[2022.02.14-20.10.03:689][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.14-20.10.03:689][218]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.02.14-20.10.03:691][218]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Practice.Practice up for play (max tick rate 0) at 2022.02.14-15.10.03
+[2022.02.14-20.10.03:692][218]LogWorld: Bringing up level for play took: 0.001904
+[2022.02.14-20.10.03:692][218]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.02.14-20.10.03:699][218]PIE: Server logged in
+[2022.02.14-20.10.03:701][218]PIE: Play in editor total start time 0.159 seconds.
+[2022.02.14-20.10.03:741][220]LogRenderer: Reallocating scene render targets to support 1404x888 Format 10 NumSamples 1 (Frame:1).
+[2022.02.14-20.10.29:459][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.14-20.10.29:459][783]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Practice
+[2022.02.14-20.10.29:459][783]LogSlate: Window 'Antz Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.14-20.10.29:468][783]LogWorld: UWorld::CleanupWorld for Practice, bSessionEnded=true, bCleanupResources=true
+[2022.02.14-20.10.29:468][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.14-20.10.29:474][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.14-20.10.29:480][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.14-20.10.29:515][783]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.14-20.10.29:515][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.14-20.10.29:516][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.14-20.10.29:538][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.02.14-20.10.29:567][784]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.02.14-20.11.27:825][889]BlueprintLog: New page: Compile BP_GameModeBase
+[2022.02.14-20.11.27:898][889]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.02.14-20.11.30:035][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameModeBase" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Blueprints/BP_GameModeBase.uasset" SILENT=true
+[2022.02.14-20.11.30:044][139]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/BP_GameModeBase81F43C1F4DA24AAFB36FEC91B26E150A.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Blueprints/BP_GameModeBase.uasset'
+[2022.02.14-20.11.30:057][139]AssetCheck: New page: Asset Save: BP_GameModeBase
+[2022.02.14-20.11.30:057][139]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GameModeBase.BP_GameModeBase
+[2022.02.14-20.11.30:968][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameModeBase" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Blueprints/BP_GameModeBase.uasset" SILENT=true
+[2022.02.14-20.11.30:976][232]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/BP_GameModeBaseE34485294927BC9A5649D2B8F9B135BD.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Blueprints/BP_GameModeBase.uasset'
+[2022.02.14-20.11.30:996][232]AssetCheck: New page: Asset Save: BP_GameModeBase
+[2022.02.14-20.11.30:996][232]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GameModeBase.BP_GameModeBase
+[2022.02.14-20.11.37:453][935]LogLauncherProfile: Project does not require temp target
+[2022.02.14-20.11.37:454][935]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game-Win64-Shipping.target
