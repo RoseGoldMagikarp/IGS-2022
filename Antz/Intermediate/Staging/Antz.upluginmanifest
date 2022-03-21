@@ -2676,7 +2676,7 @@
 				"DocsURL": "",
 				"MarketplaceURL": "",
 				"SupportURL": "",
-				"EnabledByDefault": true,
+				"EnabledByDefault": false,
 				"CanContainContent": true,
 				"SupportedTargetPlatforms": [
 					"Win32",

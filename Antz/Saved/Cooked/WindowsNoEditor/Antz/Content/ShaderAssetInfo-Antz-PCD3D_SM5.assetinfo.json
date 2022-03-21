@@ -220,33 +220,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
-			"Assets": [
-				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "0B937A43ACC4F504298BDE7328631067BD15F3D9",
-			"Assets": [
-				"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
-			"Assets": [
-				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "B62C6666139A3872CDCE231F5F5AA833A65C5BEE",
 			"Assets": [
 				"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "AC6399B020E149A40983904404C430186B56CDCB",
-			"Assets": [
-				"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset"
 			]
 		},
 		{
@@ -259,6 +235,91 @@
 			"ShaderMapHash": "040BB8DCB003F495FD9AD7E67786CBEADDF172C5",
 			"Assets": [
 				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "89CDB15F29051EFEC81A34BD97ABBD370DDE506B",
+			"Assets": [
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/M_RenderCustomHeightmap_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0389CAD32BB562A2A67F1858DDEAB4BCE6DD4674",
+			"Assets": [
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MRock_5.uasset",
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MRock_4.uasset",
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MRock_3.uasset",
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MLeaf_8.uasset",
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MLeaf_7.uasset",
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MLeaf_5.uasset",
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MLeaf_4.uasset",
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MLeaf_3.uasset",
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MLeaf_2.uasset",
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MLeaf_1.uasset",
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MGrass_7.uasset",
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MGrass_6.uasset",
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MGrass_5.uasset",
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MGrass_4.uasset",
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MGrass_3.uasset",
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MGrass_2.uasset",
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MGrass_1.uasset",
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MBackground_TEMP.uasset",
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/MElderAnt.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9631166B361E217364B3103689ACB43DD06A78C2",
+			"Assets": [
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MRock_2.uasset",
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MRock_1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "62E4BDFC5A9EA0213436306B87B8BC6C4C14F371",
+			"Assets": [
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/ItemThumbnails/bread_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C37AF2CEB23C3E24007DEB558639772883C76B3C",
+			"Assets": [
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/MTileSand.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "951113B4CDF76BD1CD49A26BED60CE4F61DE8769",
+			"Assets": [
+				"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/M_EV_Lightbeam_Master_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
+			"Assets": [
+				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E26B8E5CB327836D3B14ECE993B4E9B9C67B09EC",
+			"Assets": [
+				"../../../Engine/Content/MapTemplates/Materials/BasicAsset03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A5423ABC3F75A8BBFEBCCA3F5302FBA632750290",
+			"Assets": [
+				"../../../Engine/Content/BufferVisualization/BaseColor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0B937A43ACC4F504298BDE7328631067BD15F3D9",
+			"Assets": [
+				"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset"
 			]
 		}
 	]
