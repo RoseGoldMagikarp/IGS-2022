@@ -915,3 +915,124 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.21-21.42.24:666][875]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/NewPaperTileSetCC8403DF4A7D64F4118157A914957831.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/NewPaperTileSet.uasset'
 [2022.03.21-21.42.24:681][875]AssetCheck: New page: Asset Save: NewPaperTileSet
 [2022.03.21-21.42.24:681][875]LogContentValidation: Display: Validating PaperTileSet /Game/Assets/2D_Assets/NewPaperTileSet.NewPaperTileSet
+[2022.03.21-21.42.46:136][562]LogLauncherProfile: Project does not require temp target
+[2022.03.21-21.42.46:138][562]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game-Win64-Shipping.target
+[2022.03.21-21.43.44:111][418]LogSlate: Window 'ProjectLauncher' being destroyed
+[2022.03.21-21.43.44:116][418]LogSlate: Window 'ProjectLauncher' being destroyed
+[2022.03.21-21.43.51:258][816]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.03.21-21.44.03:326][521]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/2D_Assets/NewPaperTileMap.NewPaperTileMap
+[2022.03.21-21.44.03:402][521]LogRenderer: Reallocating scene render targets to support 2340x1800 Format 10 NumSamples 1 (Frame:1).
+[2022.03.21-21.44.22:245][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tutorial_Map0" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Tutorial_Map0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.21-21.44.22:251][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.03.21-21.44.22:398][636]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/Tutorial_Map00FF4BF2546767D0BB4E2DFB5FEC65D46.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Tutorial_Map0.umap'
+[2022.03.21-21.44.22:409][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tutorial_Map0_BuiltData" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Tutorial_Map0_BuiltData.uasset" SILENT=true
+[2022.03.21-21.44.22:462][636]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/Tutorial_Map0_BuiltData4705C5FE430FD660C50947A0BA881438.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Tutorial_Map0_BuiltData.uasset'
+[2022.03.21-21.44.22:472][636]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.21-21.44.22:472][636]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Tutorial_Map0_BuiltData.Tutorial_Map0_BuiltData
+[2022.03.21-21.44.22:472][636]LogContentValidation: Display: Validating World /Game/Maps/Tutorial_Map0.Tutorial_Map0
+[2022.03.21-21.44.27:626][941]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-21.44.27:636][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-21.44.27:636][941]PIE: New page: PIE session: Tutorial_Map0 (Mar 21, 2022, 1:44:27 PM)
+[2022.03.21-21.44.27:638][941]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.21-21.44.27:639][941]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.21-21.44.27:639][941]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tutorial_Map0
+[2022.03.21-21.44.27:652][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013890s)
+[2022.03.21-21.44.27:654][941]LogAIModule: Creating AISystem for world Tutorial_Map0
+[2022.03.21-21.44.27:654][941]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2022.03.21-21.44.27:654][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tutorial_Map0.Tutorial_Map0 to /Game/Maps/UEDPIE_0_Tutorial_Map0.Tutorial_Map0 (0.015138s)
+[2022.03.21-21.44.27:660][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.03.21-21.44.27:660][941]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.21-21.44.27:660][941]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-21.44.27:660][941]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-21.44.27:660][941]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-21.44.27:660][941]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-21.44.27:660][941]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-21.44.27:660][941]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-21.44.27:660][941]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-21.44.27:660][941]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-21.44.27:660][941]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.21-21.44.27:660][941]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-21.44.27:671][941]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-21.44.27:671][941]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-21.44.27:692][941]LogAudioMixer: Display: Using Audio Device Headphones (Conexant ISST Audio)
+[2022.03.21-21.44.27:693][941]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-21.44.27:693][941]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-21.44.27:693][941]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-21.44.27:693][941]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-21.44.27:693][941]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-21.44.27:693][941]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-21.44.27:706][941]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-21.44.27:706][941]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-21.44.27:706][941]LogInit: FAudioDevice initialized.
+[2022.03.21-21.44.27:706][941]LogAudio: Display: Audio Device (ID: 2) registered with world 'Tutorial_Map0'.
+[2022.03.21-21.44.27:759][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-21.44.27:759][941]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.03.21-21.44.27:767][941]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tutorial_Map0.Tutorial_Map0 up for play (max tick rate 60) at 2022.03.21-17.44.27
+[2022.03.21-21.44.27:767][941]LogWorld: Bringing up level for play took: 0.007096
+[2022.03.21-21.44.27:768][941]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.03.21-21.44.27:772][941]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.03.21-21.44.27:778][941]PIE: Server logged in
+[2022.03.21-21.44.27:779][941]PIE: Play in editor total start time 0.148 seconds.
+[2022.03.21-21.44.38:529][547]LogLauncherProfile: Project does not require temp target
+[2022.03.21-21.44.38:531][547]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game-Win64-Shipping.target
+[2022.03.21-21.45.38:304][610]LogSlate: Window 'ProjectLauncher' being destroyed
+[2022.03.21-21.45.38:310][610]LogSlate: Window 'ProjectLauncher' being destroyed
+[2022.03.21-21.45.41:721][778]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerBase.BP_PlayerBase
+[2022.03.21-21.45.41:881][778]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.03.21-21.45.43:200][779]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.21-21.45.49:738][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-21.45.49:738][133]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Tutorial_Map0
+[2022.03.21-21.45.49:738][133]LogSlate: Window 'Antz Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-21.45.49:743][133]LogWorld: UWorld::CleanupWorld for Tutorial_Map0, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-21.45.49:744][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-21.45.49:753][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-21.45.49:774][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-21.45.49:794][133]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-21.45.49:795][133]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-21.45.49:797][133]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-21.45.49:823][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.03.21-21.45.49:845][134]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.03.21-21.46.00:992][784]BlueprintLog: New page: Compile BP_PlayerBase
+[2022.03.21-21.46.01:070][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.03.21-21.46.01:275][784]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.21-21.46.01:938][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerBase" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Blueprints/BP_PlayerBase.uasset" SILENT=true
+[2022.03.21-21.46.02:034][820]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/BP_PlayerBase461A3D054FD3EE9B05A6D3B2C9C51791.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Blueprints/BP_PlayerBase.uasset'
+[2022.03.21-21.46.02:054][820]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2022.03.21-21.46.02:054][820]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PlayerBase.BP_PlayerBase
+[2022.03.21-21.46.09:409][238]LogLauncherProfile: Project does not require temp target
+[2022.03.21-21.46.09:410][238]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game-Win64-Shipping.target
+[2022.03.21-21.47.32:273][403]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.03.21-21.47.34:485][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tutorial_Map0" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Tutorial_Map0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.21-21.47.34:506][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.03.21-21.47.34:659][532]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/Tutorial_Map01D001C9843B2BC57B8CE81A77ADEFC96.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Tutorial_Map0.umap'
+[2022.03.21-21.47.34:670][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tutorial_Map0_BuiltData" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Tutorial_Map0_BuiltData.uasset" SILENT=true
+[2022.03.21-21.47.34:705][532]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/Tutorial_Map0_BuiltData6BD866CD473E1E9B56D0A4854D1774A4.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Tutorial_Map0_BuiltData.uasset'
+[2022.03.21-21.47.34:716][532]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.21-21.47.34:716][532]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Tutorial_Map0_BuiltData.Tutorial_Map0_BuiltData
+[2022.03.21-21.47.34:717][532]LogContentValidation: Display: Validating World /Game/Maps/Tutorial_Map0.Tutorial_Map0
+[2022.03.21-21.47.39:674][794]LogLauncherProfile: Project does not require temp target
+[2022.03.21-21.47.39:676][794]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game-Win64-Shipping.target
+[2022.03.21-21.48.31:915][687]LogSlate: Window 'ProjectLauncher' being destroyed
+[2022.03.21-21.48.31:921][687]LogSlate: Window 'ProjectLauncher' being destroyed
+[2022.03.21-21.48.35:591][873]LogActorFactory: Actor Factory created Cube
+[2022.03.21-21.48.36:174][907]LogActorFactory: Actor Factory created Cube
+[2022.03.21-21.48.59:082][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tutorial_Map0" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Tutorial_Map0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.21-21.48.59:112][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.03.21-21.48.59:355][260]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/Tutorial_Map0160DB43347360F24F05407A836EF358B.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Tutorial_Map0.umap'
+[2022.03.21-21.48.59:369][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tutorial_Map0_BuiltData" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Tutorial_Map0_BuiltData.uasset" SILENT=true
+[2022.03.21-21.48.59:419][260]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/Tutorial_Map0_BuiltData6823047C413948EBF7E8D3993E613A33.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Tutorial_Map0_BuiltData.uasset'
+[2022.03.21-21.48.59:439][260]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.21-21.48.59:439][260]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Tutorial_Map0_BuiltData.Tutorial_Map0_BuiltData
+[2022.03.21-21.48.59:439][260]LogContentValidation: Display: Validating World /Game/Maps/Tutorial_Map0.Tutorial_Map0
+[2022.03.21-21.49.06:782][675]LogLauncherProfile: Project does not require temp target
+[2022.03.21-21.49.06:784][675]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game-Win64-Shipping.target
+[2022.03.21-21.50.07:528][614]LogSlate: Window 'ProjectLauncher' being destroyed
+[2022.03.21-21.50.07:533][614]LogSlate: Window 'ProjectLauncher' being destroyed
+[2022.03.21-21.50.12:693][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tutorial_Map0" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Tutorial_Map0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.21-21.50.12:713][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.03.21-21.50.12:877][889]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/Tutorial_Map0DE6B12224D191A2EFE2CEFADEB2F4FCB.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Tutorial_Map0.umap'
+[2022.03.21-21.50.12:887][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tutorial_Map0_BuiltData" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Tutorial_Map0_BuiltData.uasset" SILENT=true
+[2022.03.21-21.50.12:923][889]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/Tutorial_Map0_BuiltData4C02A97D4E533412877F46933F69DB83.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Tutorial_Map0_BuiltData.uasset'
+[2022.03.21-21.50.12:935][889]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.21-21.50.12:935][889]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Tutorial_Map0_BuiltData.Tutorial_Map0_BuiltData
+[2022.03.21-21.50.12:935][889]LogContentValidation: Display: Validating World /Game/Maps/Tutorial_Map0.Tutorial_Map0
