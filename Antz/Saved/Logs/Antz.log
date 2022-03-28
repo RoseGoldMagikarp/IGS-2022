@@ -1302,3 +1302,14 @@ Continue: Skip saving this asset only.
 [2022.03.28-19.01.37:668][545]LogFileHelpers: Saving map 'Tutorial_Map0' took 0.750
 [2022.03.28-19.01.37:749][545]AssetCheck: New page: Asset Save: Tutorial_Map0
 [2022.03.28-19.01.37:749][545]LogContentValidation: Display: Validating World /Game/Maps/Tutorial_Map0.Tutorial_Map0
+[2022.03.28-19.03.30:439][907]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (NewPaperTileMap)
+[2022.03.28-19.03.44:098][714]LogSlate: Took 0.001160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.28-19.04.28:368][765]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/2D_Assets/NewPaperTileSet_WithCollision_Hub_Map0.NewPaperTileSet_WithCollision_Hub_Map0
+[2022.03.28-19.04.28:556][765]LogRenderer: Reallocating scene render targets to support 1512x1712 Format 10 NumSamples 1 (Frame:1).
+[2022.03.28-19.04.35:187][231]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/2D_Assets/NewPaperTileMap1.NewPaperTileMap1
+[2022.03.28-19.04.38:691][447]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/2D_Assets/NewPaperTileMap.NewPaperTileMap
+[2022.03.28-19.06.26:248][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.03.28-19.06.26:275][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/NewPaperTileMap" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/NewPaperTileMap.uasset" SILENT=true
+[2022.03.28-19.06.26:460][613]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/NewPaperTileMap2A7240FC4E984BB0D143E38CA02EB42F.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/NewPaperTileMap.uasset'
+[2022.03.28-19.06.26:504][613]AssetCheck: New page: Asset Save: NewPaperTileMap
+[2022.03.28-19.06.26:505][613]LogContentValidation: Display: Validating PaperTileMap /Game/Assets/2D_Assets/NewPaperTileMap.NewPaperTileMap
