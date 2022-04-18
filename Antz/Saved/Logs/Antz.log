@@ -1051,3 +1051,1871 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.18-19.34.18:288][754]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game-Win64-Shipping.target
 [2022.04.18-19.34.19:229][802]LogLauncherProfile: Project does not require temp target
 [2022.04.18-19.34.19:231][802]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game-Win64-Shipping.target
+[2022.04.18-19.36.52:660][572]LogSlate: Window 'ProjectLauncher' being destroyed
+[2022.04.18-19.36.52:686][572]LogSlate: Window 'ProjectLauncher' being destroyed
+[2022.04.18-19.40.17:189][661]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Collectables/TutorialFood.TutorialFood
+[2022.04.18-19.40.26:803][139]BlueprintLog: New page: Compile TutorialFood
+[2022.04.18-19.40.26:948][139]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2022.04.18-19.40.27:547][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Collectables/TutorialFood" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/Collectables/TutorialFood.uasset" SILENT=true
+[2022.04.18-19.40.27:563][167]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/TutorialFood1452340F478AB875FA8B51BB3F6EE826.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/Collectables/TutorialFood.uasset'
+[2022.04.18-19.40.27:589][167]AssetCheck: New page: Asset Save: TutorialFood
+[2022.04.18-19.40.27:589][167]LogContentValidation: Display: Validating Blueprint /Game/Assets/Collectables/TutorialFood.TutorialFood
+[2022.04.18-19.40.33:490][516]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.18-19.40.33:502][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.18-19.40.33:502][516]PIE: New page: PIE session: Main_menu_Map (Apr 18, 2022, 11:40:33 AM)
+[2022.04.18-19.40.33:502][516]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-19.40.33:503][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001062s)
+[2022.04.18-19.40.33:505][516]LogAIModule: Creating AISystem for world Main_menu_Map
+[2022.04.18-19.40.33:505][516]LogPlayLevel: PIE: World Init took: (0.001425s)
+[2022.04.18-19.40.33:505][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_menu_Map.Main_menu_Map to /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map (0.002608s)
+[2022.04.18-19.40.33:565][516]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2022.04.18-19.40.33:566][516]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.18-19.40.33:566][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.18-19.40.33:566][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.18-19.40.33:566][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.18-19.40.33:566][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.18-19.40.33:566][516]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.18-19.40.33:566][516]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.18-19.40.33:566][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.18-19.40.33:566][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.18-19.40.33:566][516]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.18-19.40.33:566][516]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.18-19.40.33:587][516]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.18-19.40.33:587][516]LogAudioMixer: Display: 1: FrontRight
+[2022.04.18-19.40.33:613][516]LogAudioMixer: Display: Using Audio Device Headphones (Conexant ISST Audio)
+[2022.04.18-19.40.33:613][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.18-19.40.33:613][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.18-19.40.33:613][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.18-19.40.33:613][516]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.18-19.40.33:614][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.18-19.40.33:614][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.18-19.40.33:630][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.18-19.40.33:630][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.18-19.40.33:630][516]LogInit: FAudioDevice initialized.
+[2022.04.18-19.40.33:630][516]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main_menu_Map'.
+[2022.04.18-19.40.33:681][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-19.40.33:681][516]LogLoad: Game class is 'BP_Main_Menu_GameMode_C'
+[2022.04.18-19.40.33:683][516]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map up for play (max tick rate 60) at 2022.04.18-15.40.33
+[2022.04.18-19.40.33:683][516]LogWorld: Bringing up level for play took: 0.000778
+[2022.04.18-19.40.33:684][516]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.04.18-19.40.33:688][516]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.04.18-19.40.33:691][516]PIE: Server logged in
+[2022.04.18-19.40.33:693][516]PIE: Play in editor total start time 0.195 seconds.
+[2022.04.18-19.40.35:870][626]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.18-19.40.35:871][626]LogNet: Browse: /Game/Maps/Tutorial_Map0
+[2022.04.18-19.40.35:871][626]LogLoad: LoadMap: /Game/Maps/Tutorial_Map0
+[2022.04.18-19.40.35:871][626]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-19.40.35:871][626]LogWorld: UWorld::CleanupWorld for Main_menu_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-19.40.35:872][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-19.40.35:911][626]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-19.40.35:917][626]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2022.04.18-19.40.35:969][626]LogAudio: Display: Audio Device (ID: 3) registered with world 'Tutorial_Map0'.
+[2022.04.18-19.40.35:970][626]LogAIModule: Creating AISystem for world Tutorial_Map0
+[2022.04.18-19.40.35:970][626]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.04.18-19.40.36:031][626]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tutorial_Map0.Tutorial_Map0 up for play (max tick rate 60) at 2022.04.18-15.40.36
+[2022.04.18-19.40.36:031][626]LogWorld: Bringing up level for play took: 0.059704
+[2022.04.18-19.40.36:038][626]LogLoad: Took 0.166333 seconds to LoadMap(/Game/Maps/Tutorial_Map0)
+[2022.04.18-19.40.43:015][999]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.18-19.40.43:015][999]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.18-19.40.44:405][ 70]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.18-19.40.44:405][ 70]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.18-19.40.51:154][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-19.40.51:154][442]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Tutorial_Map0
+[2022.04.18-19.40.51:156][442]LogSlate: Window 'Antz Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.18-19.40.51:172][442]LogWorld: UWorld::CleanupWorld for Tutorial_Map0, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-19.40.51:182][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-19.40.51:208][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.18-19.40.51:229][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-19.40.51:327][442]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-19.40.51:327][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-19.40.51:329][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-19.40.51:379][442]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2022.04.18-19.40.51:413][443]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.04.18-19.44.29:186][800]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InventorySystem/InventoryUI/InventorySlot.InventorySlot
+[2022.04.18-19.45.22:663][ 12]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/InventoryComponent.InventoryComponent
+[2022.04.18-19.46.04:528][711]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Collectables/Collectables_BP.Collectables_BP
+[2022.04.18-19.54.45:440][269]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.18-19.54.45:455][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.18-19.54.45:455][269]PIE: New page: PIE session: Main_menu_Map (Apr 18, 2022, 11:54:45 AM)
+[2022.04.18-19.54.45:456][269]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-19.54.45:457][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001415s)
+[2022.04.18-19.54.45:458][269]LogAIModule: Creating AISystem for world Main_menu_Map
+[2022.04.18-19.54.45:459][269]LogPlayLevel: PIE: World Init took: (0.001575s)
+[2022.04.18-19.54.45:459][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_menu_Map.Main_menu_Map to /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map (0.003181s)
+[2022.04.18-19.54.45:548][269]LogUObjectHash: Compacting FUObjectHashTables data took   6.82ms
+[2022.04.18-19.54.45:549][269]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.18-19.54.45:550][269]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.18-19.54.45:550][269]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.18-19.54.45:550][269]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.18-19.54.45:550][269]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.18-19.54.45:550][269]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.18-19.54.45:550][269]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.18-19.54.45:550][269]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.18-19.54.45:550][269]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.18-19.54.45:550][269]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.18-19.54.45:550][269]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.18-19.54.45:566][269]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.18-19.54.45:566][269]LogAudioMixer: Display: 1: FrontRight
+[2022.04.18-19.54.45:593][269]LogAudioMixer: Display: Using Audio Device Headphones (Conexant ISST Audio)
+[2022.04.18-19.54.45:594][269]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.18-19.54.45:594][269]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.18-19.54.45:594][269]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.18-19.54.45:594][269]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.18-19.54.45:594][269]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.18-19.54.45:594][269]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.18-19.54.45:612][269]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.18-19.54.45:612][269]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.18-19.54.45:612][269]LogInit: FAudioDevice initialized.
+[2022.04.18-19.54.45:612][269]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main_menu_Map'.
+[2022.04.18-19.54.45:673][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-19.54.45:674][269]LogLoad: Game class is 'BP_Main_Menu_GameMode_C'
+[2022.04.18-19.54.45:675][269]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map up for play (max tick rate 0) at 2022.04.18-15.54.45
+[2022.04.18-19.54.45:675][269]LogWorld: Bringing up level for play took: 0.000630
+[2022.04.18-19.54.45:675][269]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.04.18-19.54.45:677][269]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.04.18-19.54.45:681][269]PIE: Server logged in
+[2022.04.18-19.54.45:682][269]PIE: Play in editor total start time 0.231 seconds.
+[2022.04.18-19.54.46:693][365]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.18-19.54.46:696][365]LogNet: Browse: /Game/Maps/Tutorial_Map0
+[2022.04.18-19.54.46:696][365]LogLoad: LoadMap: /Game/Maps/Tutorial_Map0
+[2022.04.18-19.54.46:696][365]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-19.54.46:696][365]LogWorld: UWorld::CleanupWorld for Main_menu_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-19.54.46:696][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-19.54.46:779][365]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-19.54.46:790][365]LogUObjectHash: Compacting FUObjectHashTables data took   6.92ms
+[2022.04.18-19.54.46:841][365]LogAudio: Display: Audio Device (ID: 4) registered with world 'Tutorial_Map0'.
+[2022.04.18-19.54.46:843][365]LogAIModule: Creating AISystem for world Tutorial_Map0
+[2022.04.18-19.54.46:843][365]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.04.18-19.54.46:905][365]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tutorial_Map0.Tutorial_Map0 up for play (max tick rate 0) at 2022.04.18-15.54.46
+[2022.04.18-19.54.46:905][365]LogWorld: Bringing up level for play took: 0.060893
+[2022.04.18-19.54.46:913][365]LogLoad: Took 0.217354 seconds to LoadMap(/Game/Maps/Tutorial_Map0)
+[2022.04.18-19.54.55:589][261]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.18-19.54.55:589][261]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.18-19.54.58:242][521]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.18-19.54.58:242][521]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.18-19.54.59:125][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-19.54.59:125][616]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Tutorial_Map0
+[2022.04.18-19.54.59:127][616]LogSlate: Window 'Antz Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.18-19.54.59:134][616]LogWorld: UWorld::CleanupWorld for Tutorial_Map0, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-19.54.59:137][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-19.54.59:149][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.18-19.54.59:157][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-19.54.59:211][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-19.54.59:212][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-19.54.59:246][616]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2022.04.18-19.54.59:269][617]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.04.18-20.03.20:662][584]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.04.18-20.03.24:367][801]BlueprintLog: New page: Compile TutorialFood
+[2022.04.18-20.03.24:453][801]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2022.04.18-20.03.24:930][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Collectables/TutorialFood" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/Collectables/TutorialFood.uasset" SILENT=true
+[2022.04.18-20.03.24:946][826]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/TutorialFood1C3D26BF4904FDEE0AE38A9C9BB4E897.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/Collectables/TutorialFood.uasset'
+[2022.04.18-20.03.24:962][826]AssetCheck: New page: Asset Save: TutorialFood
+[2022.04.18-20.03.24:962][826]LogContentValidation: Display: Validating Blueprint /Game/Assets/Collectables/TutorialFood.TutorialFood
+[2022.04.18-20.03.31:649][224]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.18-20.03.31:663][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.18-20.03.31:663][224]PIE: New page: PIE session: Main_menu_Map (Apr 18, 2022, 12:03:31 PM)
+[2022.04.18-20.03.31:663][224]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.03.31:664][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001010s)
+[2022.04.18-20.03.31:665][224]LogAIModule: Creating AISystem for world Main_menu_Map
+[2022.04.18-20.03.31:665][224]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2022.04.18-20.03.31:665][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_menu_Map.Main_menu_Map to /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map (0.002165s)
+[2022.04.18-20.03.31:713][224]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2022.04.18-20.03.31:714][224]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.04.18-20.03.31:714][224]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.18-20.03.31:714][224]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.18-20.03.31:714][224]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.18-20.03.31:714][224]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.18-20.03.31:714][224]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.18-20.03.31:714][224]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.18-20.03.31:714][224]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.18-20.03.31:714][224]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.18-20.03.31:714][224]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.18-20.03.31:714][224]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.18-20.03.31:727][224]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.18-20.03.31:727][224]LogAudioMixer: Display: 1: FrontRight
+[2022.04.18-20.03.31:753][224]LogAudioMixer: Display: Using Audio Device Headphones (Conexant ISST Audio)
+[2022.04.18-20.03.31:753][224]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.18-20.03.31:753][224]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.18-20.03.31:753][224]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.18-20.03.31:754][224]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.18-20.03.31:754][224]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.18-20.03.31:754][224]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.18-20.03.31:771][224]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.18-20.03.31:771][224]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.18-20.03.31:771][224]LogInit: FAudioDevice initialized.
+[2022.04.18-20.03.31:771][224]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main_menu_Map'.
+[2022.04.18-20.03.31:819][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.03.31:819][224]LogLoad: Game class is 'BP_Main_Menu_GameMode_C'
+[2022.04.18-20.03.31:820][224]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map up for play (max tick rate 60) at 2022.04.18-16.03.31
+[2022.04.18-20.03.31:820][224]LogWorld: Bringing up level for play took: 0.000472
+[2022.04.18-20.03.31:820][224]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.04.18-20.03.31:822][224]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.04.18-20.03.31:825][224]PIE: Server logged in
+[2022.04.18-20.03.31:826][224]PIE: Play in editor total start time 0.167 seconds.
+[2022.04.18-20.03.32:884][285]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.18-20.03.32:885][285]LogNet: Browse: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.03.32:885][285]LogLoad: LoadMap: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.03.32:885][285]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.03.32:885][285]LogWorld: UWorld::CleanupWorld for Main_menu_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.03.32:885][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.03.32:933][285]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.03.32:938][285]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.04.18-20.03.32:977][285]LogAudio: Display: Audio Device (ID: 5) registered with world 'Tutorial_Map0'.
+[2022.04.18-20.03.32:978][285]LogAIModule: Creating AISystem for world Tutorial_Map0
+[2022.04.18-20.03.32:978][285]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.04.18-20.03.33:028][285]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tutorial_Map0.Tutorial_Map0 up for play (max tick rate 60) at 2022.04.18-16.03.33
+[2022.04.18-20.03.33:028][285]LogWorld: Bringing up level for play took: 0.048906
+[2022.04.18-20.03.33:034][285]LogLoad: Took 0.149133 seconds to LoadMap(/Game/Maps/Tutorial_Map0)
+[2022.04.18-20.03.40:290][719]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.18-20.03.40:290][719]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.18-20.03.46:371][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.03.46:371][ 82]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Tutorial_Map0
+[2022.04.18-20.03.46:372][ 82]LogSlate: Window 'Antz Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.18-20.03.46:378][ 82]LogWorld: UWorld::CleanupWorld for Tutorial_Map0, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.03.46:381][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.03.46:393][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.18-20.03.46:400][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.03.46:447][ 82]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.03.46:447][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.03.46:448][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.03.46:475][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2022.04.18-20.03.46:496][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.04.18-20.04.05:418][986]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.18-20.04.05:437][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.18-20.04.05:437][986]PIE: New page: PIE session: Main_menu_Map (Apr 18, 2022, 12:04:05 PM)
+[2022.04.18-20.04.05:437][986]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.04.05:439][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001463s)
+[2022.04.18-20.04.05:440][986]LogAIModule: Creating AISystem for world Main_menu_Map
+[2022.04.18-20.04.05:440][986]LogPlayLevel: PIE: World Init took: (0.001570s)
+[2022.04.18-20.04.05:440][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_menu_Map.Main_menu_Map to /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map (0.003212s)
+[2022.04.18-20.04.05:512][986]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2022.04.18-20.04.05:514][986]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.04.18-20.04.05:514][986]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.18-20.04.05:514][986]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.18-20.04.05:515][986]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.18-20.04.05:515][986]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.18-20.04.05:515][986]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.18-20.04.05:515][986]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.18-20.04.05:515][986]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.18-20.04.05:515][986]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.18-20.04.05:515][986]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.18-20.04.05:515][986]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.18-20.04.05:539][986]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.18-20.04.05:539][986]LogAudioMixer: Display: 1: FrontRight
+[2022.04.18-20.04.05:577][986]LogAudioMixer: Display: Using Audio Device Headphones (Conexant ISST Audio)
+[2022.04.18-20.04.05:577][986]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.18-20.04.05:577][986]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.18-20.04.05:577][986]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.18-20.04.05:578][986]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.18-20.04.05:578][986]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.18-20.04.05:578][986]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.18-20.04.05:608][986]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.18-20.04.05:608][986]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.18-20.04.05:608][986]LogInit: FAudioDevice initialized.
+[2022.04.18-20.04.05:608][986]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main_menu_Map'.
+[2022.04.18-20.04.05:669][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.04.05:669][986]LogLoad: Game class is 'BP_Main_Menu_GameMode_C'
+[2022.04.18-20.04.05:671][986]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map up for play (max tick rate 60) at 2022.04.18-16.04.05
+[2022.04.18-20.04.05:671][986]LogWorld: Bringing up level for play took: 0.000679
+[2022.04.18-20.04.05:671][986]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.04.18-20.04.05:683][986]PIE: Server logged in
+[2022.04.18-20.04.05:685][986]PIE: Play in editor total start time 0.254 seconds.
+[2022.04.18-20.04.06:722][ 42]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.18-20.04.06:723][ 42]LogNet: Browse: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.04.06:723][ 42]LogLoad: LoadMap: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.04.06:723][ 42]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.04.06:723][ 42]LogWorld: UWorld::CleanupWorld for Main_menu_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.04.06:724][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.04.06:773][ 42]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.04.06:778][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2022.04.18-20.04.06:820][ 42]LogAudio: Display: Audio Device (ID: 6) registered with world 'Tutorial_Map0'.
+[2022.04.18-20.04.06:821][ 42]LogAIModule: Creating AISystem for world Tutorial_Map0
+[2022.04.18-20.04.06:822][ 42]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.04.18-20.04.06:874][ 42]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tutorial_Map0.Tutorial_Map0 up for play (max tick rate 60) at 2022.04.18-16.04.06
+[2022.04.18-20.04.06:875][ 42]LogWorld: Bringing up level for play took: 0.051985
+[2022.04.18-20.04.06:881][ 42]LogLoad: Took 0.157875 seconds to LoadMap(/Game/Maps/Tutorial_Map0)
+[2022.04.18-20.04.20:761][868]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.18-20.04.20:761][868]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.18-20.04.21:608][919]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.18-20.04.21:608][919]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.18-20.04.27:562][276]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.18-20.04.27:562][276]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.18-20.04.28:691][344]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.18-20.04.28:692][344]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.18-20.04.33:521][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.04.33:521][632]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Tutorial_Map0
+[2022.04.18-20.04.33:522][632]LogSlate: Window 'Antz Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.18-20.04.33:529][632]LogWorld: UWorld::CleanupWorld for Tutorial_Map0, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.04.33:532][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.04.33:541][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.18-20.04.33:549][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.04.33:599][632]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.04.33:599][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.04.33:601][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.04.33:631][632]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.04.18-20.04.33:657][633]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.04.18-20.04.44:666][813]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.18-20.04.44:678][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.18-20.04.44:678][813]PIE: New page: PIE session: Main_menu_Map (Apr 18, 2022, 12:04:44 PM)
+[2022.04.18-20.04.44:678][813]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.04.44:679][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000874s)
+[2022.04.18-20.04.44:679][813]LogAIModule: Creating AISystem for world Main_menu_Map
+[2022.04.18-20.04.44:680][813]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2022.04.18-20.04.44:680][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_menu_Map.Main_menu_Map to /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map (0.001864s)
+[2022.04.18-20.04.44:723][813]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.04.18-20.04.44:725][813]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.04.18-20.04.44:725][813]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.18-20.04.44:725][813]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.18-20.04.44:725][813]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.18-20.04.44:725][813]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.18-20.04.44:725][813]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.18-20.04.44:725][813]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.18-20.04.44:725][813]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.18-20.04.44:725][813]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.18-20.04.44:726][813]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.18-20.04.44:726][813]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.18-20.04.44:738][813]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.18-20.04.44:738][813]LogAudioMixer: Display: 1: FrontRight
+[2022.04.18-20.04.44:760][813]LogAudioMixer: Display: Using Audio Device Headphones (Conexant ISST Audio)
+[2022.04.18-20.04.44:760][813]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.18-20.04.44:760][813]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.18-20.04.44:760][813]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.18-20.04.44:761][813]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.18-20.04.44:761][813]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.18-20.04.44:761][813]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.18-20.04.44:776][813]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.18-20.04.44:776][813]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.18-20.04.44:776][813]LogInit: FAudioDevice initialized.
+[2022.04.18-20.04.44:776][813]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main_menu_Map'.
+[2022.04.18-20.04.44:831][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.04.44:831][813]LogLoad: Game class is 'BP_Main_Menu_GameMode_C'
+[2022.04.18-20.04.44:832][813]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map up for play (max tick rate 60) at 2022.04.18-16.04.44
+[2022.04.18-20.04.44:833][813]LogWorld: Bringing up level for play took: 0.000430
+[2022.04.18-20.04.44:833][813]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.04.18-20.04.44:838][813]PIE: Server logged in
+[2022.04.18-20.04.44:839][813]PIE: Play in editor total start time 0.164 seconds.
+[2022.04.18-20.04.45:920][874]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.18-20.04.45:921][874]LogNet: Browse: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.04.45:921][874]LogLoad: LoadMap: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.04.45:921][874]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.04.45:921][874]LogWorld: UWorld::CleanupWorld for Main_menu_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.04.45:922][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.04.45:998][874]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.04.46:003][874]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2022.04.18-20.04.46:048][874]LogAudio: Display: Audio Device (ID: 7) registered with world 'Tutorial_Map0'.
+[2022.04.18-20.04.46:050][874]LogAIModule: Creating AISystem for world Tutorial_Map0
+[2022.04.18-20.04.46:050][874]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.04.18-20.04.46:104][874]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tutorial_Map0.Tutorial_Map0 up for play (max tick rate 60) at 2022.04.18-16.04.46
+[2022.04.18-20.04.46:105][874]LogWorld: Bringing up level for play took: 0.053107
+[2022.04.18-20.04.46:112][874]LogLoad: Took 0.190495 seconds to LoadMap(/Game/Maps/Tutorial_Map0)
+[2022.04.18-20.04.53:823][335]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.18-20.04.53:823][335]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.18-20.04.58:804][634]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.18-20.04.58:805][634]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.18-20.05.29:830][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.05.29:830][490]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Tutorial_Map0
+[2022.04.18-20.05.29:831][490]LogSlate: Window 'Antz Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.18-20.05.29:837][490]LogWorld: UWorld::CleanupWorld for Tutorial_Map0, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.05.29:839][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.05.29:849][490]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.18-20.05.29:858][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.05.29:906][490]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.05.29:906][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.05.29:907][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.05.29:935][490]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.04.18-20.05.29:960][491]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.04.18-20.05.40:143][ 92]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.18-20.05.40:156][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.18-20.05.40:156][ 92]PIE: New page: PIE session: Main_menu_Map (Apr 18, 2022, 12:05:40 PM)
+[2022.04.18-20.05.40:156][ 92]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.05.40:157][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001013s)
+[2022.04.18-20.05.40:158][ 92]LogAIModule: Creating AISystem for world Main_menu_Map
+[2022.04.18-20.05.40:158][ 92]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2022.04.18-20.05.40:158][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_menu_Map.Main_menu_Map to /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map (0.002163s)
+[2022.04.18-20.05.40:206][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.04.18-20.05.40:207][ 92]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.04.18-20.05.40:208][ 92]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.18-20.05.40:208][ 92]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.18-20.05.40:208][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.18-20.05.40:208][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.18-20.05.40:208][ 92]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.18-20.05.40:208][ 92]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.18-20.05.40:208][ 92]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.18-20.05.40:208][ 92]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.18-20.05.40:208][ 92]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.18-20.05.40:208][ 92]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.18-20.05.40:221][ 92]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.18-20.05.40:221][ 92]LogAudioMixer: Display: 1: FrontRight
+[2022.04.18-20.05.40:245][ 92]LogAudioMixer: Display: Using Audio Device Headphones (Conexant ISST Audio)
+[2022.04.18-20.05.40:246][ 92]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.18-20.05.40:246][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.18-20.05.40:246][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.18-20.05.40:246][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.18-20.05.40:246][ 92]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.18-20.05.40:246][ 92]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.18-20.05.40:263][ 92]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.18-20.05.40:263][ 92]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.18-20.05.40:263][ 92]LogInit: FAudioDevice initialized.
+[2022.04.18-20.05.40:263][ 92]LogAudio: Display: Audio Device (ID: 8) registered with world 'Main_menu_Map'.
+[2022.04.18-20.05.40:314][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.05.40:314][ 92]LogLoad: Game class is 'BP_Main_Menu_GameMode_C'
+[2022.04.18-20.05.40:315][ 92]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map up for play (max tick rate 60) at 2022.04.18-16.05.40
+[2022.04.18-20.05.40:316][ 92]LogWorld: Bringing up level for play took: 0.000513
+[2022.04.18-20.05.40:316][ 92]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.04.18-20.05.40:323][ 92]PIE: Server logged in
+[2022.04.18-20.05.40:324][ 92]PIE: Play in editor total start time 0.172 seconds.
+[2022.04.18-20.05.41:726][173]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.18-20.05.41:728][173]LogNet: Browse: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.05.41:728][173]LogLoad: LoadMap: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.05.41:728][173]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.05.41:728][173]LogWorld: UWorld::CleanupWorld for Main_menu_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.05.41:728][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.05.41:803][173]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.05.41:807][173]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.04.18-20.05.41:846][173]LogAudio: Display: Audio Device (ID: 8) registered with world 'Tutorial_Map0'.
+[2022.04.18-20.05.41:847][173]LogAIModule: Creating AISystem for world Tutorial_Map0
+[2022.04.18-20.05.41:848][173]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.04.18-20.05.41:897][173]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tutorial_Map0.Tutorial_Map0 up for play (max tick rate 60) at 2022.04.18-16.05.41
+[2022.04.18-20.05.41:897][173]LogWorld: Bringing up level for play took: 0.048022
+[2022.04.18-20.05.41:903][173]LogLoad: Took 0.174654 seconds to LoadMap(/Game/Maps/Tutorial_Map0)
+[2022.04.18-20.06.29:779][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.06.29:779][ 42]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Tutorial_Map0
+[2022.04.18-20.06.29:780][ 42]LogSlate: Window 'Antz Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.18-20.06.29:788][ 42]LogWorld: UWorld::CleanupWorld for Tutorial_Map0, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.06.29:791][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.06.29:798][ 42]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.18-20.06.29:806][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.06.29:853][ 42]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.06.29:853][ 42]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.06.29:854][ 42]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.06.29:884][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2022.04.18-20.06.29:920][ 43]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.04.18-20.07.58:737][516]BlueprintLog: New page: Compile BP_PlayerBase
+[2022.04.18-20.07.58:873][516]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2022.04.18-20.07.59:506][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerBase" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Blueprints/BP_PlayerBase.uasset" SILENT=true
+[2022.04.18-20.07.59:641][538]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/BP_PlayerBaseACD93F6C4A70193FA1436D938F5D0AF3.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Blueprints/BP_PlayerBase.uasset'
+[2022.04.18-20.07.59:657][538]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2022.04.18-20.07.59:657][538]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PlayerBase.BP_PlayerBase
+[2022.04.18-20.08.00:659][595]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.18-20.08.00:672][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.18-20.08.00:673][595]PIE: New page: PIE session: Main_menu_Map (Apr 18, 2022, 12:08:00 PM)
+[2022.04.18-20.08.00:673][595]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.08.00:674][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001069s)
+[2022.04.18-20.08.00:675][595]LogAIModule: Creating AISystem for world Main_menu_Map
+[2022.04.18-20.08.00:675][595]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2022.04.18-20.08.00:675][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_menu_Map.Main_menu_Map to /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map (0.002451s)
+[2022.04.18-20.08.00:729][595]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2022.04.18-20.08.00:730][595]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.04.18-20.08.00:730][595]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.18-20.08.00:730][595]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.18-20.08.00:730][595]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.18-20.08.00:730][595]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.18-20.08.00:730][595]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.18-20.08.00:730][595]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.18-20.08.00:730][595]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.18-20.08.00:730][595]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.18-20.08.00:730][595]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.18-20.08.00:730][595]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.18-20.08.00:744][595]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.18-20.08.00:744][595]LogAudioMixer: Display: 1: FrontRight
+[2022.04.18-20.08.00:770][595]LogAudioMixer: Display: Using Audio Device Headphones (Conexant ISST Audio)
+[2022.04.18-20.08.00:770][595]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.18-20.08.00:770][595]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.18-20.08.00:770][595]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.18-20.08.00:771][595]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.18-20.08.00:771][595]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.18-20.08.00:771][595]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.18-20.08.00:789][595]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.18-20.08.00:789][595]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.18-20.08.00:789][595]LogInit: FAudioDevice initialized.
+[2022.04.18-20.08.00:789][595]LogAudio: Display: Audio Device (ID: 9) registered with world 'Main_menu_Map'.
+[2022.04.18-20.08.00:824][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.08.00:824][595]LogLoad: Game class is 'BP_Main_Menu_GameMode_C'
+[2022.04.18-20.08.00:826][595]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map up for play (max tick rate 60) at 2022.04.18-16.08.00
+[2022.04.18-20.08.00:826][595]LogWorld: Bringing up level for play took: 0.000462
+[2022.04.18-20.08.00:826][595]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.04.18-20.08.00:828][595]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.04.18-20.08.00:834][595]PIE: Server logged in
+[2022.04.18-20.08.00:838][595]PIE: Play in editor total start time 0.169 seconds.
+[2022.04.18-20.08.01:701][645]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.18-20.08.01:703][645]LogNet: Browse: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.08.01:703][645]LogLoad: LoadMap: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.08.01:703][645]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.08.01:703][645]LogWorld: UWorld::CleanupWorld for Main_menu_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.08.01:703][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.08.01:775][645]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.08.01:780][645]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.04.18-20.08.01:831][645]LogAudio: Display: Audio Device (ID: 9) registered with world 'Tutorial_Map0'.
+[2022.04.18-20.08.01:832][645]LogAIModule: Creating AISystem for world Tutorial_Map0
+[2022.04.18-20.08.01:832][645]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.04.18-20.08.01:885][645]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tutorial_Map0.Tutorial_Map0 up for play (max tick rate 60) at 2022.04.18-16.08.01
+[2022.04.18-20.08.01:885][645]LogWorld: Bringing up level for play took: 0.051212
+[2022.04.18-20.08.01:891][645]LogLoad: Took 0.188688 seconds to LoadMap(/Game/Maps/Tutorial_Map0)
+[2022.04.18-20.08.43:670][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.08.43:670][135]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Tutorial_Map0
+[2022.04.18-20.08.43:670][135]LogSlate: Window 'Antz Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.18-20.08.43:676][135]LogWorld: UWorld::CleanupWorld for Tutorial_Map0, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.08.43:678][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.08.43:690][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.18-20.08.43:698][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.08.43:746][135]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.08.43:746][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.08.43:748][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.08.43:776][135]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2022.04.18-20.08.43:808][136]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.04.18-20.10.13:169][832]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.18-20.10.13:183][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.18-20.10.13:183][832]PIE: New page: PIE session: Main_menu_Map (Apr 18, 2022, 12:10:13 PM)
+[2022.04.18-20.10.13:183][832]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.10.13:184][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001145s)
+[2022.04.18-20.10.13:185][832]LogAIModule: Creating AISystem for world Main_menu_Map
+[2022.04.18-20.10.13:185][832]LogPlayLevel: PIE: World Init took: (0.001328s)
+[2022.04.18-20.10.13:185][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_menu_Map.Main_menu_Map to /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map (0.002595s)
+[2022.04.18-20.10.13:234][832]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.04.18-20.10.13:236][832]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.04.18-20.10.13:236][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.18-20.10.13:236][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.18-20.10.13:236][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.18-20.10.13:236][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.18-20.10.13:236][832]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.18-20.10.13:236][832]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.18-20.10.13:236][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.18-20.10.13:236][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.18-20.10.13:237][832]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.18-20.10.13:237][832]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.18-20.10.13:250][832]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.18-20.10.13:250][832]LogAudioMixer: Display: 1: FrontRight
+[2022.04.18-20.10.13:275][832]LogAudioMixer: Display: Using Audio Device Headphones (Conexant ISST Audio)
+[2022.04.18-20.10.13:276][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.18-20.10.13:276][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.18-20.10.13:276][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.18-20.10.13:276][832]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.18-20.10.13:276][832]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.18-20.10.13:276][832]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.18-20.10.13:294][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.18-20.10.13:294][832]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.18-20.10.13:294][832]LogInit: FAudioDevice initialized.
+[2022.04.18-20.10.13:294][832]LogAudio: Display: Audio Device (ID: 10) registered with world 'Main_menu_Map'.
+[2022.04.18-20.10.13:335][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.10.13:335][832]LogLoad: Game class is 'BP_Main_Menu_GameMode_C'
+[2022.04.18-20.10.13:337][832]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map up for play (max tick rate 60) at 2022.04.18-16.10.13
+[2022.04.18-20.10.13:337][832]LogWorld: Bringing up level for play took: 0.000456
+[2022.04.18-20.10.13:337][832]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.04.18-20.10.13:339][832]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.04.18-20.10.13:344][832]PIE: Server logged in
+[2022.04.18-20.10.13:347][832]PIE: Play in editor total start time 0.169 seconds.
+[2022.04.18-20.10.14:428][889]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.18-20.10.14:429][889]LogNet: Browse: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.10.14:429][889]LogLoad: LoadMap: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.10.14:429][889]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.10.14:430][889]LogWorld: UWorld::CleanupWorld for Main_menu_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.10.14:430][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.10.14:513][889]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.10.14:518][889]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2022.04.18-20.10.14:560][889]LogAudio: Display: Audio Device (ID: 10) registered with world 'Tutorial_Map0'.
+[2022.04.18-20.10.14:561][889]LogAIModule: Creating AISystem for world Tutorial_Map0
+[2022.04.18-20.10.14:561][889]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.04.18-20.10.14:611][889]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tutorial_Map0.Tutorial_Map0 up for play (max tick rate 60) at 2022.04.18-16.10.14
+[2022.04.18-20.10.14:611][889]LogWorld: Bringing up level for play took: 0.048864
+[2022.04.18-20.10.14:618][889]LogLoad: Took 0.188048 seconds to LoadMap(/Game/Maps/Tutorial_Map0)
+[2022.04.18-20.10.19:791][198]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.04.18-20.10.19:791][198]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.18-20.10.19:792][198]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.18-20.10.21:248][285]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.18-20.10.21:248][285]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.18-20.10.21:935][326]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.18-20.10.21:935][326]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.18-20.10.21:936][326]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.04.18-20.10.23:939][446]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.04.18-20.10.23:939][446]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.18-20.10.26:558][603]LogBlueprintUserMessages: [TutorialFood_2] collected
+[2022.04.18-20.10.28:925][745]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.18-20.10.28:925][745]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.18-20.10.28:925][745]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.04.18-20.10.46:717][ 67]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.04.18-20.10.46:717][ 67]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.18-20.10.53:448][470]LogBlueprintUserMessages: [TutorialFood2_2] collected
+[2022.04.18-20.10.57:115][690]LogBlueprintUserMessages: [TutorialFood3_5] collected
+[2022.04.18-20.10.58:948][800]LogBlueprintUserMessages: [TutorialFood4_8] collected
+[2022.04.18-20.10.59:768][849]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.18-20.10.59:768][849]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.18-20.11.01:175][933]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.18-20.11.01:175][933]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.18-20.11.03:678][ 81]LogNet: Browse: /Game/Maps/Hub_Map
+[2022.04.18-20.11.03:678][ 81]LogLoad: LoadMap: /Game/Maps/Hub_Map
+[2022.04.18-20.11.03:679][ 81]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Tutorial_Map0
+[2022.04.18-20.11.03:679][ 81]LogWorld: UWorld::CleanupWorld for Tutorial_Map0, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.11.03:681][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.11.03:731][ 81]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.11.03:740][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2022.04.18-20.11.03:902][ 81]LogAudio: Display: Audio Device (ID: 10) registered with world 'Hub_Map'.
+[2022.04.18-20.11.03:903][ 81]LogAIModule: Creating AISystem for world Hub_Map
+[2022.04.18-20.11.03:903][ 81]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.04.18-20.11.03:923][ 81]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub_Map.Hub_Map up for play (max tick rate 60) at 2022.04.18-16.11.03
+[2022.04.18-20.11.03:923][ 81]LogWorld: Bringing up level for play took: 0.019019
+[2022.04.18-20.11.03:933][ 81]LogLoad: Took 0.255051 seconds to LoadMap(/Game/Maps/Hub_Map)
+[2022.04.18-20.11.38:268][132]LogNet: Browse: /Game/Maps/Area1_Map1
+[2022.04.18-20.11.38:268][132]LogLoad: LoadMap: /Game/Maps/Area1_Map1
+[2022.04.18-20.11.38:268][132]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub_Map
+[2022.04.18-20.11.38:268][132]LogWorld: UWorld::CleanupWorld for Hub_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.11.38:271][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.11.38:353][132]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.11.38:359][132]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2022.04.18-20.11.38:433][132]LogLinker: Warning: [AssetLog] C:\Users\mhartman\Desktop\LTU\IGS\IGS-2022\Antz\Content\Maps\Area1_Map1.umap: Failed to load '/Game/Maps/Area1_Map1_BuiltData': Can't find file.
+[2022.04.18-20.11.38:434][132]LogLinker: Warning: [AssetLog] C:\Users\mhartman\Desktop\LTU\IGS\IGS-2022\Antz\Content\Maps\Area1_Map1.umap: Failed to load '/Game/Maps/Area1_Map1_BuiltData': Can't find file.
+[2022.04.18-20.11.38:436][132]LogLinker: Warning: [AssetLog] C:\Users\mhartman\Desktop\LTU\IGS\IGS-2022\Antz\Content\Maps\Area1_Map1.umap: Failed to load '/Game/Maps/Area1_Map1_BuiltData': Can't find file.
+[2022.04.18-20.11.38:437][132]LogLinker: Warning: Failed to load '/Game/Maps/Area1_Map1_BuiltData': Can't find file.
+[2022.04.18-20.11.38:437][132]LogLinker: Warning: Failed to load '/Game/Maps/Area1_Map1_BuiltData': Can't find file.
+[2022.04.18-20.11.38:517][132]LogTexture: Display: Building textures: Key_VB__2_ (BGRA8, 865X1079)
+[2022.04.18-20.11.38:517][132]LogLinker: Warning: [AssetLog] C:\Users\mhartman\Desktop\LTU\IGS\IGS-2022\Antz\Content\Maps\Area1_Map1.umap: Failed to load '/Game/Maps/Area1_Map1_BuiltData': Can't find file.
+[2022.04.18-20.11.38:518][132]LoadErrors: Failed to load /Game/Maps/Area1_Map1_BuiltData.Area1_Map1_BuiltData Referenced by PersistentLevel
+[2022.04.18-20.11.38:524][132]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Key_Pickup...
+[2022.04.18-20.11.38:525][132]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Interactables/Key_Pickup/Key_Pickup.Key_Pickup will be modified from 40 to 40.
+[2022.04.18-20.11.38:569][132]LogTexture: Display: Building textures: Key_V2B__2_ (BGRA8, 697X1079)
+[2022.04.18-20.11.38:569][132]LogTexture: Display: Building textures: Locked_Door_V4_C_Varriant_Blue (AutoDXT, 1080X1080)
+[2022.04.18-20.11.38:569][132]LogTexture: Display: Building textures: Locked_Door_V4_C2 (AutoDXT, 1080X1080)
+[2022.04.18-20.11.38:569][132]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 13308 while cooking SoundWave /Game/Audio/Interactables/Key_Pickup/Key_Pickup.Key_Pickup.
+[2022.04.18-20.11.38:763][132]LogAudio: Display: Audio Device (ID: 10) registered with world 'Area1_Map1'.
+[2022.04.18-20.11.38:764][132]LogAIModule: Creating AISystem for world Area1_Map1
+[2022.04.18-20.11.38:764][132]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.04.18-20.11.38:786][132]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Area1_Map1.Area1_Map1 up for play (max tick rate 60) at 2022.04.18-16.11.38
+[2022.04.18-20.11.38:786][132]LogWorld: Bringing up level for play took: 0.020366
+[2022.04.18-20.11.38:794][132]LogLoad: Took 0.525424 seconds to LoadMap(/Game/Maps/Area1_Map1)
+[2022.04.18-20.11.46:969][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.11.46:969][617]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Area1_Map1
+[2022.04.18-20.11.46:970][617]LogSlate: Window 'Antz Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.18-20.11.46:977][617]LogWorld: UWorld::CleanupWorld for Area1_Map1, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.11.46:980][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.11.46:992][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.18-20.11.47:000][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.11.47:047][617]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.11.47:047][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.11.47:048][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.11.47:076][617]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2022.04.18-20.11.47:102][618]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.04.18-20.12.46:078][ 86]BlueprintLog: New page: Compile BP_PlayerBase
+[2022.04.18-20.12.46:201][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2022.04.18-20.12.46:743][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerBase" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Blueprints/BP_PlayerBase.uasset" SILENT=true
+[2022.04.18-20.12.46:870][111]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/BP_PlayerBase4D452E684F98C2B64BF767BDF29D1ADD.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Blueprints/BP_PlayerBase.uasset'
+[2022.04.18-20.12.46:891][111]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2022.04.18-20.12.46:891][111]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PlayerBase.BP_PlayerBase
+[2022.04.18-20.12.48:311][190]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.18-20.12.48:324][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.18-20.12.48:324][190]PIE: New page: PIE session: Main_menu_Map (Apr 18, 2022, 12:12:48 PM)
+[2022.04.18-20.12.48:324][190]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.12.48:325][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000978s)
+[2022.04.18-20.12.48:326][190]LogAIModule: Creating AISystem for world Main_menu_Map
+[2022.04.18-20.12.48:326][190]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2022.04.18-20.12.48:326][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_menu_Map.Main_menu_Map to /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map (0.002076s)
+[2022.04.18-20.12.48:376][190]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2022.04.18-20.12.48:377][190]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.04.18-20.12.48:377][190]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.18-20.12.48:377][190]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.18-20.12.48:377][190]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.18-20.12.48:377][190]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.18-20.12.48:377][190]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.18-20.12.48:377][190]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.18-20.12.48:377][190]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.18-20.12.48:377][190]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.18-20.12.48:377][190]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.18-20.12.48:378][190]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.18-20.12.48:390][190]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.18-20.12.48:390][190]LogAudioMixer: Display: 1: FrontRight
+[2022.04.18-20.12.48:414][190]LogAudioMixer: Display: Using Audio Device Headphones (Conexant ISST Audio)
+[2022.04.18-20.12.48:415][190]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.18-20.12.48:415][190]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.18-20.12.48:415][190]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.18-20.12.48:415][190]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.18-20.12.48:415][190]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.18-20.12.48:415][190]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.18-20.12.48:432][190]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.18-20.12.48:432][190]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.18-20.12.48:432][190]LogInit: FAudioDevice initialized.
+[2022.04.18-20.12.48:432][190]LogAudio: Display: Audio Device (ID: 11) registered with world 'Main_menu_Map'.
+[2022.04.18-20.12.48:479][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.12.48:480][190]LogLoad: Game class is 'BP_Main_Menu_GameMode_C'
+[2022.04.18-20.12.48:481][190]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map up for play (max tick rate 60) at 2022.04.18-16.12.48
+[2022.04.18-20.12.48:481][190]LogWorld: Bringing up level for play took: 0.000409
+[2022.04.18-20.12.48:481][190]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.04.18-20.12.48:483][190]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.04.18-20.12.48:486][190]PIE: Server logged in
+[2022.04.18-20.12.48:488][190]PIE: Play in editor total start time 0.168 seconds.
+[2022.04.18-20.12.49:302][238]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.18-20.12.49:303][238]LogNet: Browse: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.12.49:303][238]LogLoad: LoadMap: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.12.49:303][238]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.12.49:304][238]LogWorld: UWorld::CleanupWorld for Main_menu_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.12.49:304][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.12.49:356][238]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.12.49:362][238]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2022.04.18-20.12.49:417][238]LogAudio: Display: Audio Device (ID: 11) registered with world 'Tutorial_Map0'.
+[2022.04.18-20.12.49:418][238]LogAIModule: Creating AISystem for world Tutorial_Map0
+[2022.04.18-20.12.49:418][238]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.04.18-20.12.49:468][238]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tutorial_Map0.Tutorial_Map0 up for play (max tick rate 60) at 2022.04.18-16.12.49
+[2022.04.18-20.12.49:468][238]LogWorld: Bringing up level for play took: 0.049230
+[2022.04.18-20.12.49:475][238]LogLoad: Took 0.171430 seconds to LoadMap(/Game/Maps/Tutorial_Map0)
+[2022.04.18-20.13.02:018][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.13.02:018][988]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Tutorial_Map0
+[2022.04.18-20.13.02:019][988]LogSlate: Window 'Antz Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.18-20.13.02:031][988]LogWorld: UWorld::CleanupWorld for Tutorial_Map0, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.13.02:034][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.13.02:042][988]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.18-20.13.02:050][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.13.02:099][988]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.13.02:099][988]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.13.02:100][988]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.13.02:129][988]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2022.04.18-20.13.02:152][989]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.04.18-20.13.09:344][409]BlueprintLog: New page: Compile BP_PlayerBase
+[2022.04.18-20.13.09:463][409]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2022.04.18-20.13.09:943][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerBase" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Blueprints/BP_PlayerBase.uasset" SILENT=true
+[2022.04.18-20.13.10:077][432]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/BP_PlayerBase1AAEE8154749C5589EB197B3AAB01A4D.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Blueprints/BP_PlayerBase.uasset'
+[2022.04.18-20.13.10:098][432]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2022.04.18-20.13.10:098][432]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PlayerBase.BP_PlayerBase
+[2022.04.18-20.13.11:412][507]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.18-20.13.11:424][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.18-20.13.11:424][507]PIE: New page: PIE session: Main_menu_Map (Apr 18, 2022, 12:13:11 PM)
+[2022.04.18-20.13.11:424][507]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.13.11:425][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000992s)
+[2022.04.18-20.13.11:426][507]LogAIModule: Creating AISystem for world Main_menu_Map
+[2022.04.18-20.13.11:426][507]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2022.04.18-20.13.11:426][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_menu_Map.Main_menu_Map to /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map (0.002115s)
+[2022.04.18-20.13.11:478][507]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2022.04.18-20.13.11:478][507]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.04.18-20.13.11:478][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.18-20.13.11:478][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.18-20.13.11:478][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.18-20.13.11:478][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.18-20.13.11:478][507]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.18-20.13.11:478][507]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.18-20.13.11:478][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.18-20.13.11:478][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.18-20.13.11:479][507]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.18-20.13.11:479][507]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.18-20.13.11:491][507]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.18-20.13.11:491][507]LogAudioMixer: Display: 1: FrontRight
+[2022.04.18-20.13.11:516][507]LogAudioMixer: Display: Using Audio Device Headphones (Conexant ISST Audio)
+[2022.04.18-20.13.11:517][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.18-20.13.11:517][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.18-20.13.11:517][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.18-20.13.11:517][507]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.18-20.13.11:517][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.18-20.13.11:517][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.18-20.13.11:537][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.18-20.13.11:537][507]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.18-20.13.11:537][507]LogInit: FAudioDevice initialized.
+[2022.04.18-20.13.11:537][507]LogAudio: Display: Audio Device (ID: 12) registered with world 'Main_menu_Map'.
+[2022.04.18-20.13.11:592][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.13.11:593][507]LogLoad: Game class is 'BP_Main_Menu_GameMode_C'
+[2022.04.18-20.13.11:594][507]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map up for play (max tick rate 60) at 2022.04.18-16.13.11
+[2022.04.18-20.13.11:594][507]LogWorld: Bringing up level for play took: 0.000565
+[2022.04.18-20.13.11:594][507]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.04.18-20.13.11:596][507]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.04.18-20.13.11:599][507]PIE: Server logged in
+[2022.04.18-20.13.11:601][507]PIE: Play in editor total start time 0.181 seconds.
+[2022.04.18-20.13.12:503][560]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.18-20.13.12:505][560]LogNet: Browse: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.13.12:505][560]LogLoad: LoadMap: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.13.12:505][560]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.13.12:505][560]LogWorld: UWorld::CleanupWorld for Main_menu_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.13.12:505][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.13.12:553][560]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.13.12:558][560]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2022.04.18-20.13.12:608][560]LogAudio: Display: Audio Device (ID: 12) registered with world 'Tutorial_Map0'.
+[2022.04.18-20.13.12:610][560]LogAIModule: Creating AISystem for world Tutorial_Map0
+[2022.04.18-20.13.12:610][560]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.04.18-20.13.12:657][560]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tutorial_Map0.Tutorial_Map0 up for play (max tick rate 60) at 2022.04.18-16.13.12
+[2022.04.18-20.13.12:657][560]LogWorld: Bringing up level for play took: 0.046758
+[2022.04.18-20.13.12:663][560]LogLoad: Took 0.158849 seconds to LoadMap(/Game/Maps/Tutorial_Map0)
+[2022.04.18-20.13.35:997][958]LogNet: Browse: /Game/Maps/Hub_Map
+[2022.04.18-20.13.35:997][958]LogLoad: LoadMap: /Game/Maps/Hub_Map
+[2022.04.18-20.13.35:997][958]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Tutorial_Map0
+[2022.04.18-20.13.35:998][958]LogWorld: UWorld::CleanupWorld for Tutorial_Map0, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.13.36:000][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.13.36:080][958]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.13.36:088][958]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2022.04.18-20.13.36:104][958]LogAudio: Display: Audio Device (ID: 12) registered with world 'Hub_Map'.
+[2022.04.18-20.13.36:105][958]LogAIModule: Creating AISystem for world Hub_Map
+[2022.04.18-20.13.36:105][958]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.04.18-20.13.36:117][958]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub_Map.Hub_Map up for play (max tick rate 60) at 2022.04.18-16.13.36
+[2022.04.18-20.13.36:117][958]LogWorld: Bringing up level for play took: 0.010792
+[2022.04.18-20.13.36:125][958]LogLoad: Took 0.128229 seconds to LoadMap(/Game/Maps/Hub_Map)
+[2022.04.18-20.13.40:519][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.13.40:519][219]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub_Map
+[2022.04.18-20.13.40:520][219]LogSlate: Window 'Antz Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.18-20.13.40:533][219]LogWorld: UWorld::CleanupWorld for Hub_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.13.40:537][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.13.40:549][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.18-20.13.40:556][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.13.40:600][219]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.13.40:600][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.13.40:601][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.13.40:627][219]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.04.18-20.13.40:651][220]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.04.18-20.16.02:072][515]BlueprintLog: New page: Compile BP_PlayerBase
+[2022.04.18-20.16.02:198][515]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2022.04.18-20.16.02:921][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerBase" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Blueprints/BP_PlayerBase.uasset" SILENT=true
+[2022.04.18-20.16.03:070][541]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/BP_PlayerBase5B5D7A11474B9FC43DAC71A55BF8CA80.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Blueprints/BP_PlayerBase.uasset'
+[2022.04.18-20.16.03:094][541]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2022.04.18-20.16.03:094][541]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PlayerBase.BP_PlayerBase
+[2022.04.18-20.16.04:358][611]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.18-20.16.04:371][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.18-20.16.04:371][611]PIE: New page: PIE session: Main_menu_Map (Apr 18, 2022, 12:16:04 PM)
+[2022.04.18-20.16.04:372][611]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.16.04:373][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001054s)
+[2022.04.18-20.16.04:374][611]LogAIModule: Creating AISystem for world Main_menu_Map
+[2022.04.18-20.16.04:374][611]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2022.04.18-20.16.04:374][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_menu_Map.Main_menu_Map to /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map (0.002449s)
+[2022.04.18-20.16.04:425][611]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2022.04.18-20.16.04:425][611]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.04.18-20.16.04:426][611]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.18-20.16.04:426][611]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.18-20.16.04:426][611]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.18-20.16.04:426][611]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.18-20.16.04:426][611]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.18-20.16.04:426][611]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.18-20.16.04:426][611]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.18-20.16.04:426][611]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.18-20.16.04:426][611]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.18-20.16.04:426][611]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.18-20.16.04:440][611]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.18-20.16.04:440][611]LogAudioMixer: Display: 1: FrontRight
+[2022.04.18-20.16.04:467][611]LogAudioMixer: Display: Using Audio Device Headphones (Conexant ISST Audio)
+[2022.04.18-20.16.04:467][611]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.18-20.16.04:467][611]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.18-20.16.04:467][611]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.18-20.16.04:467][611]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.18-20.16.04:467][611]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.18-20.16.04:467][611]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.18-20.16.04:486][611]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.18-20.16.04:486][611]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.18-20.16.04:486][611]LogInit: FAudioDevice initialized.
+[2022.04.18-20.16.04:486][611]LogAudio: Display: Audio Device (ID: 13) registered with world 'Main_menu_Map'.
+[2022.04.18-20.16.04:539][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.16.04:539][611]LogLoad: Game class is 'BP_Main_Menu_GameMode_C'
+[2022.04.18-20.16.04:540][611]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map up for play (max tick rate 60) at 2022.04.18-16.16.04
+[2022.04.18-20.16.04:540][611]LogWorld: Bringing up level for play took: 0.000413
+[2022.04.18-20.16.04:541][611]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.04.18-20.16.04:543][611]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.04.18-20.16.04:548][611]PIE: Server logged in
+[2022.04.18-20.16.04:552][611]PIE: Play in editor total start time 0.184 seconds.
+[2022.04.18-20.16.06:111][698]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.18-20.16.06:113][698]LogNet: Browse: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.16.06:113][698]LogLoad: LoadMap: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.16.06:113][698]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.16.06:113][698]LogWorld: UWorld::CleanupWorld for Main_menu_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.16.06:113][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.16.06:181][698]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.16.06:186][698]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.04.18-20.16.06:237][698]LogAudio: Display: Audio Device (ID: 13) registered with world 'Tutorial_Map0'.
+[2022.04.18-20.16.06:238][698]LogAIModule: Creating AISystem for world Tutorial_Map0
+[2022.04.18-20.16.06:238][698]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.04.18-20.16.06:288][698]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tutorial_Map0.Tutorial_Map0 up for play (max tick rate 60) at 2022.04.18-16.16.06
+[2022.04.18-20.16.06:288][698]LogWorld: Bringing up level for play took: 0.048959
+[2022.04.18-20.16.06:295][698]LogLoad: Took 0.181892 seconds to LoadMap(/Game/Maps/Tutorial_Map0)
+[2022.04.18-20.16.26:228][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.16.26:228][872]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Tutorial_Map0
+[2022.04.18-20.16.26:229][872]LogSlate: Window 'Antz Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.18-20.16.26:244][872]LogWorld: UWorld::CleanupWorld for Tutorial_Map0, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.16.26:247][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.16.26:256][872]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.18-20.16.26:264][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.16.26:313][872]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.16.26:313][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.16.26:315][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.16.26:343][872]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2022.04.18-20.16.26:383][873]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.04.18-20.17.02:019][956]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/2D_Assets/Gliding.Gliding
+[2022.04.18-20.17.04:907][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/Gliding" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/Gliding.uasset" SILENT=true
+[2022.04.18-20.17.04:912][120]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/Gliding4C531F0443AC34D6DD63DC86123AFD7D.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/Gliding.uasset'
+[2022.04.18-20.17.04:932][120]AssetCheck: New page: Asset Save: Gliding
+[2022.04.18-20.17.04:932][120]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/2D_Assets/Gliding.Gliding
+[2022.04.18-20.17.06:719][224]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.17.06:719][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.17.14:738][679]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/2D_Assets/WallSlideAnim.WallSlideAnim
+[2022.04.18-20.17.43:301][387]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.17.43:301][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.18.35:331][301]BlueprintLog: New page: Compile BP_PlayerBase
+[2022.04.18-20.18.35:469][301]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2022.04.18-20.18.36:014][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerBase" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Blueprints/BP_PlayerBase.uasset" SILENT=true
+[2022.04.18-20.18.36:150][322]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/BP_PlayerBaseECD1C45F465961758504F5BCA5E976C8.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Blueprints/BP_PlayerBase.uasset'
+[2022.04.18-20.18.36:172][322]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2022.04.18-20.18.36:172][322]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PlayerBase.BP_PlayerBase
+[2022.04.18-20.18.37:248][381]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.18-20.18.37:262][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.18-20.18.37:263][381]PIE: New page: PIE session: Main_menu_Map (Apr 18, 2022, 12:18:37 PM)
+[2022.04.18-20.18.37:263][381]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.18.37:264][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001454s)
+[2022.04.18-20.18.37:265][381]LogAIModule: Creating AISystem for world Main_menu_Map
+[2022.04.18-20.18.37:266][381]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2022.04.18-20.18.37:266][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_menu_Map.Main_menu_Map to /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map (0.002963s)
+[2022.04.18-20.18.37:320][381]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2022.04.18-20.18.37:321][381]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.04.18-20.18.37:321][381]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.18-20.18.37:321][381]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.18-20.18.37:321][381]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.18-20.18.37:321][381]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.18-20.18.37:321][381]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.18-20.18.37:321][381]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.18-20.18.37:321][381]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.18-20.18.37:321][381]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.18-20.18.37:321][381]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.18-20.18.37:321][381]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.18-20.18.37:336][381]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.18-20.18.37:336][381]LogAudioMixer: Display: 1: FrontRight
+[2022.04.18-20.18.37:364][381]LogAudioMixer: Display: Using Audio Device Headphones (Conexant ISST Audio)
+[2022.04.18-20.18.37:365][381]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.18-20.18.37:365][381]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.18-20.18.37:365][381]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.18-20.18.37:365][381]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.18-20.18.37:365][381]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.18-20.18.37:365][381]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.18-20.18.37:383][381]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.18-20.18.37:383][381]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.18-20.18.37:383][381]LogInit: FAudioDevice initialized.
+[2022.04.18-20.18.37:383][381]LogAudio: Display: Audio Device (ID: 14) registered with world 'Main_menu_Map'.
+[2022.04.18-20.18.37:431][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.18.37:431][381]LogLoad: Game class is 'BP_Main_Menu_GameMode_C'
+[2022.04.18-20.18.37:433][381]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map up for play (max tick rate 60) at 2022.04.18-16.18.37
+[2022.04.18-20.18.37:433][381]LogWorld: Bringing up level for play took: 0.000590
+[2022.04.18-20.18.37:433][381]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.04.18-20.18.37:435][381]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.04.18-20.18.37:441][381]PIE: Server logged in
+[2022.04.18-20.18.37:444][381]PIE: Play in editor total start time 0.187 seconds.
+[2022.04.18-20.18.38:483][440]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.18-20.18.38:484][440]LogNet: Browse: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.18.38:484][440]LogLoad: LoadMap: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.18.38:484][440]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.18.38:485][440]LogWorld: UWorld::CleanupWorld for Main_menu_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.18.38:485][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.18.38:534][440]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.18.38:540][440]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2022.04.18-20.18.38:592][440]LogAudio: Display: Audio Device (ID: 14) registered with world 'Tutorial_Map0'.
+[2022.04.18-20.18.38:593][440]LogAIModule: Creating AISystem for world Tutorial_Map0
+[2022.04.18-20.18.38:594][440]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.04.18-20.18.38:642][440]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tutorial_Map0.Tutorial_Map0 up for play (max tick rate 60) at 2022.04.18-16.18.38
+[2022.04.18-20.18.38:643][440]LogWorld: Bringing up level for play took: 0.047703
+[2022.04.18-20.18.38:649][440]LogLoad: Took 0.164347 seconds to LoadMap(/Game/Maps/Tutorial_Map0)
+[2022.04.18-20.18.40:830][569]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.40:847][570]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.40:863][571]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.40:879][572]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.40:896][573]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.40:913][574]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.40:929][575]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.40:946][576]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.40:963][577]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.40:980][578]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.40:996][579]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:013][580]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:030][581]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:046][582]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:064][583]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:081][584]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:098][585]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:115][586]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:131][587]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:148][588]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:165][589]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:181][590]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:198][591]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:215][592]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:232][593]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:247][594]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:264][595]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:281][596]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:298][597]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:314][598]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:331][599]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:348][600]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:365][601]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:381][602]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:397][603]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:414][604]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:431][605]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:448][606]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:464][607]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:481][608]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:499][609]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:515][610]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:531][611]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:547][612]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.41:564][613]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:300][933]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:317][934]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:334][935]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:350][936]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:367][937]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:384][938]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:401][939]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:417][940]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:434][941]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:451][942]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:467][943]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:484][944]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:501][945]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:518][946]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:534][947]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:551][948]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:567][949]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:583][950]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:600][951]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:617][952]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:634][953]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:650][954]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:667][955]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:684][956]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:701][957]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:717][958]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:734][959]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:751][960]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:767][961]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:784][962]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:801][963]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:817][964]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:834][965]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:851][966]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:867][967]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:884][968]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:901][969]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.47:918][970]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:218][988]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:234][989]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:251][990]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:268][991]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:285][992]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:301][993]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:318][994]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:334][995]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:351][996]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:368][997]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:384][998]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:401][999]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:418][  0]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:434][  1]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:451][  2]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:468][  3]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:484][  4]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:501][  5]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:801][ 23]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:818][ 24]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:834][ 25]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:851][ 26]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:867][ 27]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:884][ 28]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:901][ 29]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:918][ 30]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:934][ 31]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:951][ 32]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:968][ 33]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.48:984][ 34]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:002][ 35]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:018][ 36]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:322][ 53]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:340][ 54]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:357][ 55]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:374][ 56]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:390][ 57]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:407][ 58]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:424][ 59]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:441][ 60]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:458][ 61]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:474][ 62]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:491][ 63]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:507][ 64]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:807][ 82]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:824][ 83]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:840][ 84]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:858][ 85]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:875][ 86]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:891][ 87]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:908][ 88]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:925][ 89]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:941][ 90]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:958][ 91]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:975][ 92]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.49:991][ 93]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:008][ 94]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:025][ 95]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:042][ 96]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:059][ 97]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:075][ 98]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:092][ 99]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:109][100]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:125][101]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:142][102]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:159][103]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:177][104]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:194][105]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:211][106]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:227][107]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:243][108]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:260][109]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:276][110]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:293][111]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:310][112]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:327][113]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:343][114]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:360][115]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:380][116]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:397][117]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:414][118]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:430][119]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:447][120]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:464][121]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:481][122]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:498][123]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:515][124]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:531][125]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:548][126]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:565][127]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:582][128]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:598][129]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:615][130]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:631][131]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:647][132]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:664][133]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:681][134]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:698][135]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:715][136]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:732][137]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:748][138]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:765][139]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:782][140]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:798][141]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:815][142]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:832][143]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:849][144]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:865][145]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:882][146]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:899][147]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:916][148]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:932][149]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:949][150]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:966][151]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:983][152]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.50:999][153]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.51:015][154]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.51:032][155]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.51:049][156]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.51:066][157]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.51:083][158]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.51:099][159]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.51:116][160]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.51:133][161]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.51:150][162]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.51:166][163]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.51:182][164]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.51:200][165]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.51:217][166]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.51:233][167]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.51:250][168]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.51:267][169]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.51:283][170]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.51:300][171]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.52:686][254]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.52:703][255]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.52:720][256]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.52:737][257]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.52:753][258]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.52:770][259]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.52:787][260]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.52:804][261]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.52:821][262]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.52:837][263]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.52:853][264]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.52:870][265]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.52:886][266]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.52:903][267]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.52:920][268]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.52:938][269]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.52:955][270]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.52:971][271]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.52:988][272]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:005][273]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:022][274]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:040][275]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:057][276]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:073][277]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:090][278]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:106][279]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:123][280]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:425][298]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:442][299]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:458][300]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:475][301]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:491][302]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:507][303]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:524][304]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:541][305]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:558][306]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:575][307]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:591][308]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:608][309]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:625][310]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:642][311]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:943][329]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:960][330]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:976][331]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.53:993][332]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:009][333]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:026][334]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:043][335]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:060][336]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:079][337]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:095][338]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:112][339]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:129][340]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:146][341]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:448][359]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:466][360]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:482][361]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:499][362]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:516][363]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:532][364]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:549][365]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:566][366]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:582][367]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:599][368]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:616][369]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:633][370]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.54:649][371]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.18.56:067][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.18.56:068][453]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Tutorial_Map0
+[2022.04.18-20.18.56:068][453]LogSlate: Window 'Antz Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.18-20.18.56:083][453]LogWorld: UWorld::CleanupWorld for Tutorial_Map0, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.18.56:085][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.18.56:093][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.18-20.18.56:101][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.18.56:149][453]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.18.56:149][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.18.56:150][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.18.56:181][453]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2022.04.18-20.18.56:226][454]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.04.18-20.20.38:124][398]BlueprintLog: New page: Compile BP_PlayerBase
+[2022.04.18-20.20.38:244][398]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2022.04.18-20.20.39:091][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerBase" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Blueprints/BP_PlayerBase.uasset" SILENT=true
+[2022.04.18-20.20.39:220][440]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/BP_PlayerBase5BB2D0214A90177C5D54BBAFBDABA522.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Blueprints/BP_PlayerBase.uasset'
+[2022.04.18-20.20.39:236][440]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2022.04.18-20.20.39:236][440]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PlayerBase.BP_PlayerBase
+[2022.04.18-20.20.40:125][492]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.18-20.20.40:139][492]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.18-20.20.40:139][492]PIE: New page: PIE session: Main_menu_Map (Apr 18, 2022, 12:20:40 PM)
+[2022.04.18-20.20.40:139][492]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.20.40:141][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001433s)
+[2022.04.18-20.20.40:142][492]LogAIModule: Creating AISystem for world Main_menu_Map
+[2022.04.18-20.20.40:142][492]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2022.04.18-20.20.40:142][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_menu_Map.Main_menu_Map to /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map (0.002847s)
+[2022.04.18-20.20.40:196][492]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2022.04.18-20.20.40:197][492]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.04.18-20.20.40:197][492]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.18-20.20.40:197][492]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.18-20.20.40:197][492]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.18-20.20.40:197][492]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.18-20.20.40:197][492]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.18-20.20.40:197][492]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.18-20.20.40:197][492]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.18-20.20.40:197][492]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.18-20.20.40:197][492]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.18-20.20.40:197][492]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.18-20.20.40:211][492]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.18-20.20.40:211][492]LogAudioMixer: Display: 1: FrontRight
+[2022.04.18-20.20.40:237][492]LogAudioMixer: Display: Using Audio Device Headphones (Conexant ISST Audio)
+[2022.04.18-20.20.40:237][492]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.18-20.20.40:237][492]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.18-20.20.40:237][492]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.18-20.20.40:238][492]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.18-20.20.40:238][492]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.18-20.20.40:238][492]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.18-20.20.40:257][492]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.18-20.20.40:257][492]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.18-20.20.40:257][492]LogInit: FAudioDevice initialized.
+[2022.04.18-20.20.40:257][492]LogAudio: Display: Audio Device (ID: 15) registered with world 'Main_menu_Map'.
+[2022.04.18-20.20.40:309][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.20.40:309][492]LogLoad: Game class is 'BP_Main_Menu_GameMode_C'
+[2022.04.18-20.20.40:310][492]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_menu_Map.Main_menu_Map up for play (max tick rate 60) at 2022.04.18-16.20.40
+[2022.04.18-20.20.40:310][492]LogWorld: Bringing up level for play took: 0.000424
+[2022.04.18-20.20.40:310][492]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.04.18-20.20.40:313][492]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.04.18-20.20.40:316][492]PIE: Server logged in
+[2022.04.18-20.20.40:317][492]PIE: Play in editor total start time 0.183 seconds.
+[2022.04.18-20.20.41:088][537]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.18-20.20.41:089][537]LogNet: Browse: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.20.41:089][537]LogLoad: LoadMap: /Game/Maps/Tutorial_Map0
+[2022.04.18-20.20.41:089][537]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_menu_Map
+[2022.04.18-20.20.41:089][537]LogWorld: UWorld::CleanupWorld for Main_menu_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.20.41:089][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.20.41:159][537]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.20.41:165][537]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2022.04.18-20.20.41:216][537]LogAudio: Display: Audio Device (ID: 15) registered with world 'Tutorial_Map0'.
+[2022.04.18-20.20.41:217][537]LogAIModule: Creating AISystem for world Tutorial_Map0
+[2022.04.18-20.20.41:218][537]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.04.18-20.20.41:270][537]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tutorial_Map0.Tutorial_Map0 up for play (max tick rate 60) at 2022.04.18-16.20.41
+[2022.04.18-20.20.41:270][537]LogWorld: Bringing up level for play took: 0.051075
+[2022.04.18-20.20.41:277][537]LogLoad: Took 0.188138 seconds to LoadMap(/Game/Maps/Tutorial_Map0)
+[2022.04.18-20.20.43:594][676]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:611][677]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:627][678]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:644][679]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:661][680]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:677][681]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:694][682]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:711][683]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:728][684]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:744][685]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:761][686]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:778][687]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:794][688]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:811][689]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:828][690]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:844][691]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:861][692]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:878][693]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:894][694]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:911][695]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:928][696]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:944][697]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:961][698]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:978][699]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.43:994][700]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.44:011][701]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.44:027][702]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.44:044][703]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.44:061][704]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.44:077][705]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.44:094][706]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.44:111][707]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.44:128][708]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.44:144][709]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:261][956]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:278][957]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:295][958]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:311][959]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:327][960]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:344][961]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:360][962]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:377][963]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:394][964]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:411][965]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:427][966]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:444][967]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:461][968]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:477][969]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:494][970]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:511][971]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:527][972]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:544][973]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:561][974]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:578][975]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:594][976]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:611][977]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:628][978]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:644][979]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:661][980]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:678][981]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:695][982]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:711][983]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:727][984]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:744][985]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:760][986]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:777][987]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:794][988]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:811][989]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:827][990]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:844][991]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:861][992]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:877][993]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:894][994]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:911][995]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.48:928][996]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:228][ 14]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:245][ 15]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:261][ 16]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:277][ 17]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:294][ 18]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:311][ 19]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:327][ 20]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:344][ 21]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:361][ 22]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:378][ 23]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:394][ 24]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:411][ 25]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:427][ 26]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:444][ 27]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:461][ 28]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:477][ 29]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:494][ 30]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:511][ 31]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:527][ 32]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:544][ 33]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:561][ 34]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:578][ 35]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:594][ 36]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:611][ 37]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:911][ 55]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:927][ 56]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:944][ 57]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:961][ 58]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:978][ 59]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.49:994][ 60]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:010][ 61]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:027][ 62]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:044][ 63]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:061][ 64]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:077][ 65]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:094][ 66]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:111][ 67]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:127][ 68]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:144][ 69]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:161][ 70]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:178][ 71]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:194][ 72]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:211][ 73]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:228][ 74]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:244][ 75]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:544][ 93]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:561][ 94]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:578][ 95]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:595][ 96]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:611][ 97]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:627][ 98]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:644][ 99]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:661][100]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:678][101]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:694][102]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:711][103]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:728][104]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:744][105]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:761][106]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:777][107]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:794][108]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:811][109]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:827][110]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:844][111]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.50:861][112]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:160][130]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:177][131]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:194][132]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:211][133]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:227][134]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:244][135]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:261][136]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:277][137]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:294][138]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:311][139]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:327][140]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:344][141]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:361][142]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:378][143]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:394][144]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:411][145]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:428][146]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:444][147]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:461][148]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:478][149]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:494][150]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:511][151]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:527][152]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:544][153]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:561][154]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:578][155]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:594][156]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:611][157]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:628][158]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:644][159]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:661][160]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:678][161]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:695][162]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:711][163]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:728][164]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:744][165]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:761][166]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:778][167]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.51:795][168]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:094][186]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:111][187]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:128][188]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:144][189]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:161][190]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:178][191]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:194][192]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:211][193]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:228][194]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:245][195]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:261][196]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:277][197]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:294][198]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:310][199]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:327][200]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:344][201]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:361][202]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:377][203]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:394][204]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:412][205]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:428][206]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:444][207]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:461][208]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:477][209]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:494][210]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:510][211]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:527][212]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:544][213]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:561][214]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:577][215]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:594][216]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:611][217]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:627][218]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:644][219]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:661][220]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:678][221]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:694][222]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:710][223]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:727][224]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:744][225]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:761][226]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:777][227]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:794][228]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:811][229]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:827][230]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:844][231]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:861][232]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:878][233]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.52:894][234]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:194][252]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:211][253]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:228][254]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:245][255]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:261][256]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:278][257]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:295][258]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:311][259]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:328][260]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:344][261]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:361][262]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:378][263]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:394][264]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:411][265]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:428][266]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:444][267]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:461][268]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:478][269]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:495][270]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:512][271]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:528][272]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:544][273]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:561][274]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:577][275]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:594][276]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:611][277]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:627][278]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:644][279]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:661][280]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:961][298]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:978][299]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.53:995][300]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:011][301]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:027][302]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:044][303]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:061][304]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:077][305]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:095][306]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:111][307]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:128][308]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:145][309]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:161][310]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:177][311]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:194][312]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:211][313]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:227][314]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:244][315]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:261][316]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:277][317]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:294][318]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:311][319]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:327][320]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:344][321]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:361][322]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:378][323]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:394][324]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:410][325]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:427][326]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:444][327]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:461][328]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:477][329]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:494][330]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:511][331]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:527][332]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:544][333]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:561][334]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:578][335]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:594][336]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:611][337]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:627][338]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:644][339]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:661][340]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:677][341]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:694][342]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:711][343]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:727][344]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:744][345]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:761][346]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:778][347]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:795][348]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:811][349]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:828][350]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:844][351]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:861][352]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:878][353]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:894][354]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:911][355]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:928][356]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:944][357]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:961][358]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:978][359]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.54:994][360]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:011][361]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:028][362]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:044][363]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:061][364]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:078][365]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:094][366]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:111][367]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:411][385]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:428][386]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:445][387]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:461][388]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:478][389]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:494][390]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:511][391]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:527][392]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:544][393]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:561][394]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:577][395]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:594][396]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:611][397]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:627][398]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:644][399]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:661][400]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:677][401]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:694][402]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:711][403]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:727][404]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:744][405]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:761][406]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:777][407]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:794][408]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:811][409]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:828][410]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:845][411]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:861][412]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:877][413]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:894][414]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:911][415]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:927][416]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:944][417]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:961][418]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:977][419]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.55:994][420]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:011][421]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:028][422]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:044][423]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:061][424]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:078][425]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:094][426]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:111][427]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:128][428]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:145][429]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:161][430]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:177][431]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:194][432]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:211][433]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:228][434]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:244][435]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:261][436]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:278][437]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:294][438]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:311][439]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:328][440]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:345][441]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:361][442]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:378][443]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:395][444]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:411][445]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:427][446]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:444][447]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:461][448]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:477][449]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:494][450]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:511][451]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:528][452]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:545][453]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:561][454]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:577][455]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:594][456]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:611][457]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:627][458]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:644][459]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:661][460]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:677][461]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:694][462]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:711][463]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:728][464]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:744][465]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:761][466]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:778][467]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:794][468]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:811][469]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:828][470]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:845][471]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:861][472]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:878][473]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:895][474]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:911][475]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:927][476]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:944][477]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:960][478]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:977][479]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.56:994][480]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:011][481]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:027][482]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:044][483]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:061][484]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:361][502]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:378][503]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:395][504]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:412][505]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:427][506]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:444][507]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:461][508]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:478][509]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:494][510]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:511][511]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:528][512]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:545][513]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:561][514]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:577][515]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:594][516]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:611][517]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:628][518]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:645][519]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:661][520]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:678][521]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:695][522]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:711][523]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:728][524]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:744][525]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:761][526]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:778][527]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:794][528]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:811][529]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:828][530]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:845][531]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:861][532]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:878][533]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.57:895][534]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.58:278][557]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.58:294][558]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.58:311][559]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.58:328][560]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.59:744][645]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.59:760][646]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.59:778][647]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.59:794][648]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.59:811][649]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.59:827][650]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.59:844][651]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.20.59:861][652]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.01:111][727]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.01:128][728]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.01:144][729]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.01:161][730]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.01:178][731]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.01:195][732]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.01:211][733]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.01:228][734]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.01:244][735]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.01:261][736]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.01:277][737]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.01:294][738]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.01:311][739]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.01:328][740]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.01:344][741]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:645][819]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:661][820]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:677][821]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:694][822]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:711][823]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:727][824]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:744][825]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:761][826]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:777][827]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:794][828]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:811][829]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:828][830]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:844][831]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:861][832]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:877][833]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:894][834]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:911][835]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:927][836]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:944][837]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:961][838]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:978][839]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.02:995][840]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:011][841]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:028][842]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:045][843]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:061][844]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:361][862]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:377][863]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:394][864]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:411][865]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:428][866]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:444][867]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:461][868]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:478][869]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:494][870]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:511][871]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:528][872]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:544][873]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:844][891]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:861][892]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:878][893]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:895][894]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:911][895]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:928][896]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:945][897]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:961][898]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.03:978][899]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.04:280][917]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.04:297][918]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.04:314][919]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.04:331][920]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.04:347][921]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.04:364][922]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.04:381][923]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.04:397][924]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.04:413][925]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.04:430][926]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.04:447][927]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.06:131][ 28]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.06:147][ 29]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.06:163][ 30]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.06:180][ 31]LogBlueprintUserMessages: [BP_PlayerBase_C_0] true
+[2022.04.18-20.21.08:097][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-20.21.08:097][144]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Tutorial_Map0
+[2022.04.18-20.21.08:098][144]LogSlate: Window 'Antz Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.18-20.21.08:105][144]LogWorld: UWorld::CleanupWorld for Tutorial_Map0, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-20.21.08:107][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.21.08:118][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.18-20.21.08:126][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-20.21.08:175][144]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-20.21.08:175][144]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.21.08:176][144]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-20.21.08:206][144]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2022.04.18-20.21.08:231][145]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.04.18-20.23.12:308][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_menu_Map" FILE="../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Main_menu_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.18-20.23.12:366][915]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2022.04.18-20.23.12:380][915]LogSavePackage: Moving '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Saved/Main_menu_MapCB9F34784BA99C5ADCA4CDA0ECFE2EA9.tmp' to '../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Maps/Main_menu_Map.umap'
+[2022.04.18-20.23.12:428][915]AssetCheck: New page: Asset Save: Main_menu_Map
+[2022.04.18-20.23.12:428][915]LogContentValidation: Display: Validating World /Game/Maps/Main_menu_Map.Main_menu_Map
