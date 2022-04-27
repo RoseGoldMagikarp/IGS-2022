@@ -1,0 +1,1737 @@
+﻿Log file open, 04/26/22 21:16:43
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Antz
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.430545
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: NVIDIA Quadro P2000
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Engine.ini]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2022.04.27-01.16.44:247][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:1]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2022.04.27-01.16.44:248][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Engine.ini]
+[2022.04.27-01.16.44:249][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Engine.ini]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Engine.ini]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.04.27-01.16.44:249][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.04.27-01.16.44:250][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.04.27-01.16.44:250][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.04.27-01.16.44:250][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.04.27-01.16.44:250][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.04.27-01.16.44:250][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.04.27-01.16.44:250][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.04.27-01.16.44:250][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.04.27-01.16.44:250][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Engine.ini]
+[2022.04.27-01.16.44:250][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Engine.ini]
+[2022.04.27-01.16.44:263][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.27-01.16.44:263][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.27-01.16.44:263][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.27-01.16.44:263][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.27-01.16.44:264][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.27-01.16.44:265][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.27-01.16.44:265][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.04.27-01.16.44:265][  0]LogHAL: Display: Platform has ~ 16 GB [17018806272 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.27-01.16.44:265][  0]LogInit: Going up to parent DeviceProfile []
+[2022.04.27-01.16.44:265][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.27-01.16.44:265][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.27-01.16.44:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.27-01.16.44:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.27-01.16.44:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.27-01.16.44:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.27-01.16.44:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.27-01.16.44:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.27-01.16.44:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.27-01.16.44:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.27-01.16.44:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.27-01.16.44:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.27-01.16.44:267][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-01.16.44:267][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.27-01.16.44:267][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.27-01.16.44:267][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.04.27-01.16.44:267][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.27-01.16.44:267][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.27-01.16.44:267][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.27-01.16.44:267][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.04.27-01.16.44:267][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.04.27-01.16.44:267][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.04.27-01.16.44:267][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.04.27-01.16.44:267][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Engine.ini]
+[2022.04.27-01.16.44:267][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Config/Windows/Editor.ini]
+[2022.04.27-01.16.44:268][  0]LogInit: Computer: 5CD911CWV1
+[2022.04.27-01.16.44:268][  0]LogInit: User: aschooley
+[2022.04.27-01.16.44:268][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.04.27-01.16.44:268][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.27-01.16.44:268][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.04.27-01.16.44:268][  0]LogMemory: Platform Memory Stats for Windows
+[2022.04.27-01.16.44:268][  0]LogMemory: Process Physical Memory: 140.29 MB used, 140.29 MB peak
+[2022.04.27-01.16.44:268][  0]LogMemory: Process Virtual Memory: 116.38 MB used, 116.38 MB peak
+[2022.04.27-01.16.44:268][  0]LogMemory: Physical Memory: 10864.05 MB used,  5366.35 MB free, 16230.40 MB total
+[2022.04.27-01.16.44:268][  0]LogMemory: Virtual Memory: 134202392.00 MB used,  15332.98 MB free, 134217728.00 MB total
+[2022.04.27-01.16.44:278][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.04.27-01.16.44:332][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.04.27-01.16.44:333][  0]LogInit: Using OS detected language (en-US).
+[2022.04.27-01.16.44:333][  0]LogInit: Using OS detected locale (en-US).
+[2022.04.27-01.16.44:344][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.04.27-01.16.44:564][  0]LogInit: Setting process to per monitor DPI aware
+[2022.04.27-01.16.44:591][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.27-01.16.44:623][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.27-01.16.44:623][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.27-01.16.44:954][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.27-01.16.44:954][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.04.27-01.16.44:954][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.04.27-01.16.44:954][  0]LogD3D11RHI: D3D11 adapters:
+[2022.04.27-01.16.45:092][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P2000' (Feature Level 11_0)
+[2022.04.27-01.16.45:092][  0]LogD3D11RHI:       4018/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.04.27-01.16.45:096][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.04.27-01.16.45:096][  0]LogD3D11RHI:       0/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.04.27-01.16.45:096][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.04.27-01.16.45:113][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.04.27-01.16.45:113][  0]LogD3D11RHI:     GPU DeviceId: 0x1cba (for the marketing name, search the web for "GPU Device Id")
+[2022.04.27-01.16.45:113][  0]LogWindows: EnumDisplayDevices:
+[2022.04.27-01.16.45:113][  0]LogWindows:    0. 'NVIDIA Quadro P2000' (P:1 D:1)
+[2022.04.27-01.16.45:114][  0]LogWindows:    1. 'NVIDIA Quadro P2000' (P:0 D:0)
+[2022.04.27-01.16.45:115][  0]LogWindows:    2. 'NVIDIA Quadro P2000' (P:0 D:0)
+[2022.04.27-01.16.45:115][  0]LogWindows:    3. 'NVIDIA Quadro P2000' (P:0 D:0)
+[2022.04.27-01.16.45:116][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.04.27-01.16.45:116][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P2000
+[2022.04.27-01.16.45:116][  0]LogD3D11RHI:   Driver Version: 452.96 (internal:27.21.14.5296, unified:452.96)
+[2022.04.27-01.16.45:116][  0]LogD3D11RHI:      Driver Date: 4-5-2021
+[2022.04.27-01.16.45:116][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2022.04.27-01.16.45:193][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.04.27-01.16.45:193][  0]LogD3D11RHI: Async texture creation enabled
+[2022.04.27-01.16.45:193][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.04.27-01.16.45:216][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.04.27-01.16.45:220][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.04.27-01.16.45:943][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.04.27-01.16.45:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.04.27-01.16.45:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.04.27-01.16.45:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.04.27-01.16.45:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.04.27-01.16.45:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.04.27-01.16.45:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.04.27-01.16.45:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.04.27-01.16.45:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.04.27-01.16.45:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.04.27-01.16.45:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.04.27-01.16.46:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.04.27-01.16.46:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.04.27-01.16.46:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.04.27-01.16.46:054][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.04.27-01.16.46:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.04.27-01.16.46:085][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.04.27-01.16.46:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.04.27-01.16.46:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.04.27-01.16.46:131][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.04.27-01.16.46:172][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.04.27-01.16.46:172][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.04.27-01.16.46:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.04.27-01.16.46:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.04.27-01.16.46:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.04.27-01.16.46:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.04.27-01.16.46:255][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.04.27-01.16.46:255][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.04.27-01.16.46:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.04.27-01.16.46:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.04.27-01.16.46:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.04.27-01.16.46:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.04.27-01.16.46:315][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.04.27-01.16.46:333][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.04.27-01.16.46:463][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.04.27-01.16.46:463][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Intermediate/Shaders/WorkingDirectory/26548/).
+[2022.04.27-01.16.46:463][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aschooley/AppData/Local/Temp/UnrealShaderWorkingDir/B82140EC45D40BB97AD34D937F4F087E/'.
+[2022.04.27-01.16.46:463][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.04.27-01.16.46:463][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.04.27-01.16.47:416][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.04.27-01.16.47:500][  0]LogDerivedDataCache: Loaded boot cache 0.08s 77MB C:/Users/aschooley/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.04.27-01.16.47:500][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aschooley/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.04.27-01.16.47:501][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.04.27-01.16.47:501][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.04.27-01.16.47:501][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.27-01.16.47:501][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.04.27-01.16.47:516][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.04.27-01.16.47:516][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.27-01.16.47:516][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.04.27-01.16.47:610][  0]LogDerivedDataCache: Speed tests for C:/Users/aschooley/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.09 seconds
+[2022.04.27-01.16.47:610][  0]LogDerivedDataCache: Display: Performance to C:/Users/aschooley/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=354.94MBs, RandomWriteSpeed=10.15MBs. Assigned SpeedClass 'Local'
+[2022.04.27-01.16.47:611][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aschooley/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.04.27-01.16.47:611][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.04.27-01.16.47:611][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.04.27-01.16.47:668][  0]LogSlate: Using FreeType 2.10.0
+[2022.04.27-01.16.47:669][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.27-01.16.47:703][  0]LogAssetRegistry: FAssetRegistry took 0.0039 seconds to start up
+[2022.04.27-01.16.48:020][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.27-01.16.48:021][  0]LogInit: Active device profile: [000002B3973C5900][000002B394BA3180 49] Windows
+[2022.04.27-01.16.48:021][  0]LogInit: Profiles: [000002B3973C5900][000002B394BA3180 49] Windows, [000002B3973BA400][000002B394BAB300 49] WindowsNoEditor, [000002B3973C7300][000002B394BAF480 49] WindowsServer, [000002B3973B9000][000002B394BB3600 49] WindowsClient, [000002B3973C5100][000002B394BA7740 49] IOS, [000002B3973BBD00][000002B394BB7880 49] iPadAir, [000002B3973C7200][000002B394BBB9C0 49] iPadAir2, [000002B397366600][000002B395697C80 49] IPadPro, [000002B397366700][000002B39568DCC0 49] iPadAir3, [000002B3973C7700][000002B3956A0180 49] iPadAir4, [000002B397367C00][000002B3956A4300 49] iPadMini2, [000002B3973C5F00][000002B3956A8480 49] iPadMini3, [000002B397365B00][000002B3956AC600 49] iPadMini4, [000002B3973C5D00][000002B3956B0780 49] iPadMini5, [000002B397375F00][000002B3956B8A40 49] iPhone6, [000002B397376000][000002B3956B4A80 49] iPodTouch6, [000002B3973BBE00][000002B3956C0D40 49] iPhone7, [000002B3973BBF00][000002B3956BCD80 49] iPodTouch7, [000002B397377600][000002B3956C4F00 49] iPhone5S, [000002B3973B9800][000002B3956C9080 49] iPhone6Plus, [000002B397375900][000002B3956CD200 49] iPhone6S, [000002B3973B9F00][000002B3956D1380 49] iPhone6SPlus, [000002B397374C00][000002B3956D5500 49] iPhone7Plus, [000002B3973BA800][000002B3956D9680 49] iPhoneSE, [000002B397375200][000002B3956897C0 49] iPhone8, [000002B3973BBB00][000002B3956DD900 49] iPhone8Plus, [000002B397374A00][000002B3956E1A40 49] iPhoneX, [000002B3973B9200][000002B3956E5B80 49] iPhoneXS, [000002B397376500][000002B3956EDD00 49] iPhoneXSMax, [000002B3973B8700][000002B3956F01C0 49] iPhoneXR, [000002B397377000][000002B3956F4340 49] iPhone11, [000002B3973BB400][000002B3956F84C0 49] iPhone11Pro, [000002B397375800][000002B3956FC640 49] iPhone11ProMax, [000002B3973BAA00][000002B3957007C0 49] iPhoneSE2, [000002B397377C00][000002B395704940 49] iPhone12Mini, [000002B3973BA900][000002B395708AC0 49] iPhone12, [000002B3973C7A00][000002B39570CC40 49] iPhone12Pro, [000002B397375700][000002B395710DC0 49] iPhone12ProMax, [000002B3973C7C00][000002B395714F40 49] iPadPro105, [000002B397374E00][000002B3957190C0 49] iPadPro129, [000002B3973C6D00][000002B39571D240 49] iPadPro97, [000002B397376C00][000002B3957213C0 49] iPadPro2_129, [000002B3973B9700][000002B395725540 49] iPad5, [000002B397377800][000002B3957296C0 49] iPad6, [000002B3973B9A00][000002B3956E9800 49] iPad7, [000002B397375100][000002B39572D940 49] iPad8, [000002B3973B8C00][000002B395731A80 49] iPadPro11, [000002B397374B00][000002B395735BC0 49] iPadPro2_11, [000002B3973BB900][000002B39573DD40 49] iPadPro3_129, [000002B397374100][000002B395740200 49] iPadPro4_129, [000002B3973BBC00][000002B395756380 49] AppleTV, [000002B397377B00][000002B39575A500 49] AppleTV4K, [000002B3973B8100][000002B39575E680 49] TVOS, [000002B397374500][000002B395786800 49] Mac, [000002B3973BB700][000002B395798980 49] MacClient, [000002B397377400][000002B3957C4B00 49] MacNoEditor, [000002B3973BA000][000002B3957C8C80 49] MacServer, [000002B397375300][000002B3957CCE00 49] Linux, [000002B3973BB300][000002B3957D0F80 49] LinuxAArch64, [000002B397376200][000002B3957D9100 49] LinuxNoEditor, [000002B3973B9B00][000002B3957DD280 49] LinuxAArch64NoEditor, [000002B397377300][000002B3957E5400 49] LinuxClient, [000002B3973BAE00][000002B3957ED580 49] LinuxAArch64Client, [000002B397376600][000002B394FEF700 49] LinuxServer, [000002B3973BA600][000002B394FF3880 49] LinuxAArch64Server, [000002B397376D00][000002B3957399C0 49] Android, [000002B3973B8E00][000002B395003B00 49] Android_Low, [000002B397375600][000002B395007C40 49] Android_Mid, [000002B3973BAB00][000002B39500E100 49] Android_High, [000002B397376700][000002B395012280 49] Android_Default, [000002B3973B9900][000002B395016400 49] Android_Adreno4xx, [000002B397374700][000002B39501A580 49] Android_Adreno5xx_Low, [000002B3973BA200][000002B39501E700 49] Android_Adreno5xx, [000002B397374800][000002B395022880 49] Android_Adreno6xx, [000002B3973BB800][000002B395026A00 49] Android_Adreno6xx_Vulkan, [000002B397376800][000002B39502AB80 49] Android_Mali_T6xx, [000002B3973BB100][000002B39502ED00 49] Android_Mali_T7xx, [000002B397374D00][000002B395052E80 49] Android_Mali_T8xx, [000002B3973BAF00][000002B395057000 49] Android_Mali_G71, [000002B397374F00][000002B39505B180 49] Android_Mali_G72, [000002B3973B8D00][000002B39505F300 49] Android_Mali_G72_Vulkan, [000002B397376A00][000002B395063480 49] Android_Mali_G76, [000002B3973B9300][000002B395067600 49] Android_Mali_G76_Vulkan, [000002B397375A00][000002B39506B780 49] Android_Mali_G77, [000002B397366E00][000002B39506F900 49] Android_Mali_G77_Vulkan, [000002B3973C7900][000002B39500BA40 49] Android_Vulkan_SM5, [000002B397364800][000002B395073B80 49] Android_PowerVR_G6xxx, [000002B3973C7400][000002B395077CC0 49] Android_PowerVR_GT7xxx, [000002B397364E00][000002B39507E180 49] Android_PowerVR_GE8xxx, [000002B3973C5400][000002B395082300 49] Android_PowerVR_GM9xxx, [000002B397364900][000002B3950B2480 49] Android_PowerVR_GM9xxx_Vulkan, [000002B3973C4E00][000002B3950B6600 49] Android_TegraK1, [000002B397364D00][000002B3950BA780 49] Android_Unknown_Vulkan, [000002B3973C4C00][000002B3950BE900 49] Lumin, [000002B397365000][000002B3950C2A80 49] Lumin_Desktop, [000002B3973C5700][000002B3950C6C00 49] HoloLens, 
+[2022.04.27-01.16.48:271][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.04.27-01.16.48:271][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.04.27-01.16.48:271][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.04.27-01.16.48:271][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.04.27-01.16.48:271][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.04.27-01.16.48:301][  0]LogNetVersion: Antz 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3621329341)
+[2022.04.27-01.16.48:985][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.04.27-01.16.49:216][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.229719 seconds
+[2022.04.27-01.16.49:222][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.04.27-01.16.49:222][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.04.27-01.16.49:222][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.04.27-01.16.49:815][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.04.27-01.16.49:823][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.04.27-01.16.49:975][  0]SourceControl: Source control is disabled
+[2022.04.27-01.16.49:975][  0]SourceControl: Source control is disabled
+[2022.04.27-01.16.49:981][  0]SourceControl: Source control is disabled
+[2022.04.27-01.16.49:986][  0]SourceControl: Source control is disabled
+[2022.04.27-01.16.50:005][  0]SourceControl: Source control is disabled
+[2022.04.27-01.16.50:010][  0]LogUProjectInfo: Found projects:
+[2022.04.27-01.16.50:389][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.27-01.16.50:422][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.27-01.16.50:422][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.27-01.16.50:498][  0]LogCollectionManager: Loaded 0 collections in 0.001996 seconds
+[2022.04.27-01.16.50:528][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Collections/' took 0.00s
+[2022.04.27-01.16.50:528][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Developers/aschooley/Collections/' took 0.00s
+[2022.04.27-01.16.50:528][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Collections/' took 0.00s
+[2022.04.27-01.16.50:528][  0]LogOcInput: OculusInput pre-init called
+[2022.04.27-01.16.50:545][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.04.27-01.16.50:545][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.04.27-01.16.50:606][  0]LogEngine: Initializing Engine...
+[2022.04.27-01.16.50:607][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.27-01.16.50:607][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.04.27-01.16.50:608][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.04.27-01.16.50:728][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.27-01.16.50:740][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.04.27-01.16.50:758][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.04.27-01.16.50:765][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.04.27-01.16.50:765][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.04.27-01.16.50:765][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.27-01.16.50:765][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.27-01.16.50:765][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.27-01.16.50:765][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.27-01.16.50:765][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.27-01.16.50:765][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.27-01.16.50:765][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.27-01.16.50:766][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.27-01.16.50:766][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.27-01.16.50:766][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.27-01.16.50:799][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.27-01.16.50:799][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.04.27-01.16.50:919][  0]LogAudioMixer: Display: Using Audio Device Speakers (Conexant ISST Audio)
+[2022.04.27-01.16.50:923][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.27-01.16.50:927][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.27-01.16.50:927][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.27-01.16.50:928][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.27-01.16.50:928][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.27-01.16.50:928][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.27-01.16.50:929][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.27-01.16.50:930][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.27-01.16.50:930][  0]LogInit: FAudioDevice initialized.
+[2022.04.27-01.16.50:930][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.04.27-01.16.50:930][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.27-01.16.50:999][  0]LogDerivedDataCache: Saved boot cache 0.07s 77MB C:/Users/aschooley/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.04.27-01.16.51:053][  0]LogInit: Texture streaming: Enabled
+[2022.04.27-01.16.51:080][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.04.27-01.16.51:091][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.04.27-01.16.51:091][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.04.27-01.16.51:103][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.04.27-01.16.51:268][  0]LogInit: Transaction tracking system initialized
+[2022.04.27-01.16.51:318][  0]BlueprintLog: New page: Editor Load
+[2022.04.27-01.16.51:464][  0]LocalizationService: Localization service is disabled
+[2022.04.27-01.16.51:517][  0]TimingProfiler: Initialize
+[2022.04.27-01.16.51:517][  0]TimingProfiler: OnSessionChanged
+[2022.04.27-01.16.51:517][  0]LoadingProfiler: Initialize
+[2022.04.27-01.16.51:517][  0]LoadingProfiler: OnSessionChanged
+[2022.04.27-01.16.51:517][  0]NetworkingProfiler: Initialize
+[2022.04.27-01.16.51:517][  0]NetworkingProfiler: OnSessionChanged
+[2022.04.27-01.16.51:517][  0]MemoryProfiler: Initialize
+[2022.04.27-01.16.51:517][  0]MemoryProfiler: OnSessionChanged
+[2022.04.27-01.16.51:835][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.04.27-01.16.51:835][  0]LogCook: Display: Mobile HDR setting 1
+[2022.04.27-01.16.52:136][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/' took 0.02s
+[2022.04.27-01.16.52:477][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.04.27-01.16.52:493][  0]SourceControl: Source control is disabled
+[2022.04.27-01.16.52:493][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.890
+[2022.04.27-01.16.52:493][  0]Cmd: MAP LOAD FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Maps/Main_menu_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.27-01.16.52:494][  0]LightingResults: New page: Lighting Build
+[2022.04.27-01.16.52:496][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-01.16.52:496][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-01.16.52:496][  0]MapCheck: New page: Map Check
+[2022.04.27-01.16.52:496][  0]LightingResults: New page: Lighting Build
+[2022.04.27-01.16.52:510][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.04.27-01.16.53:160][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_menu_Map'.
+[2022.04.27-01.16.53:162][  0]LogAIModule: Creating AISystem for world Main_menu_Map
+[2022.04.27-01.16.53:175][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.27-01.16.53:203][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.04.27-01.16.53:209][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.27-01.16.53:209][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.241ms to complete.
+[2022.04.27-01.16.53:209][  0]LogFileHelpers: Loading map 'Main_menu_Map' took 0.716
+[2022.04.27-01.16.53:211][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.608
+[2022.04.27-01.16.53:394][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-01.16.53:403][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-01.16.53:413][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-01.16.53:426][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-01.16.53:450][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0122 seconds. Added 3601 classes and 859 folders.
+[2022.04.27-01.16.53:454][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.04.27-01.16.53:457][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.27-01.16.53:457][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:457][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.27-01.16.53:457][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.04.27-01.16.53:459][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.27-01.16.53:459][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:459][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.27-01.16.53:459][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.04.27-01.16.53:460][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.04.27-01.16.53:460][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:460][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.04.27-01.16.53:460][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.04.27-01.16.53:461][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.27-01.16.53:461][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:461][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.27-01.16.53:461][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.04.27-01.16.53:462][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.27-01.16.53:462][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:462][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.27-01.16.53:462][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.04.27-01.16.53:463][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.27-01.16.53:463][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:463][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.27-01.16.53:463][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.04.27-01.16.53:464][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.27-01.16.53:465][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:465][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.27-01.16.53:465][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.04.27-01.16.53:466][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.27-01.16.53:466][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:466][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.27-01.16.53:466][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.04.27-01.16.53:467][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.27-01.16.53:467][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:467][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.27-01.16.53:467][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.04.27-01.16.53:468][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.27-01.16.53:468][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:468][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.27-01.16.53:468][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.04.27-01.16.53:469][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.27-01.16.53:469][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:469][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.27-01.16.53:469][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.04.27-01.16.53:471][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.27-01.16.53:471][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:471][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.27-01.16.53:471][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.04.27-01.16.53:472][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.27-01.16.53:472][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:472][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.27-01.16.53:472][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.04.27-01.16.53:473][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.27-01.16.53:473][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:473][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.27-01.16.53:473][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.04.27-01.16.53:474][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.27-01.16.53:474][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:474][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.27-01.16.53:474][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.04.27-01.16.53:475][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.27-01.16.53:475][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:475][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.27-01.16.53:475][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.04.27-01.16.53:477][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.27-01.16.53:477][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:477][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.27-01.16.53:477][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.04.27-01.16.53:478][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.27-01.16.53:478][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:478][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.27-01.16.53:478][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.04.27-01.16.53:479][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.27-01.16.53:479][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:479][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.27-01.16.53:479][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.04.27-01.16.53:480][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.27-01.16.53:480][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:480][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.27-01.16.53:480][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.04.27-01.16.53:481][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.27-01.16.53:481][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:481][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.27-01.16.53:481][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.04.27-01.16.53:482][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.27-01.16.53:482][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:482][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.27-01.16.53:482][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2022.04.27-01.16.53:484][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.04.27-01.16.53:484][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:484][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.04.27-01.16.53:484][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2022.04.27-01.16.53:485][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.27-01.16.53:485][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:485][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.27-01.16.53:485][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.04.27-01.16.53:486][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.27-01.16.53:486][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:486][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.27-01.16.53:486][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2022.04.27-01.16.53:487][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.27-01.16.53:488][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.27-01.16.53:488][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.27-01.16.53:488][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2022.04.27-01.16.53:610][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.04.27-01.16.53:731][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.04.27-01.16.53:731][  0]LogLoad: (Engine Initialization) Total time: 12.13 seconds
+[2022.04.27-01.16.53:731][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.04.27-01.16.53:731][  0]LogInit: First time updating LLM stats...
+[2022.04.27-01.16.53:789][  0]LogAssetRegistry: Asset discovery search completed in 6.0879 seconds
+[2022.04.27-01.16.53:791][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.04.27-01.16.53:837][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.04.27-01.16.53:844][  0]LogSlate: Took 0.000400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.27-01.16.53:847][  0]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.04.27-01.16.53:852][  0]LogSlate: Took 0.000422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.04.27-01.16.53:909][  0]LogSlate: Took 0.000447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.27-01.16.53:965][  2]LogRenderer: Reallocating scene render targets to support 944x344 Format 10 NumSamples 1 (Frame:1).
+[2022.04.27-01.16.56:543][128]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerBase.BP_PlayerBase
+[2022.04.27-01.16.56:710][128]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.04.27-01.16.57:824][128]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/2D_Assets/Area_1_Map1.Area_1_Map1
+[2022.04.27-01.16.57:941][128]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Level_Applicable/End_Game_Scene.End_Game_Scene
+[2022.04.27-01.16.58:359][128]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/QuestSystem/QuestUI/QuestUI.QuestUI
+[2022.04.27-01.16.58:841][128]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow
+[2022.04.27-01.16.59:579][128]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.27-01.17.02:596][301]LogSlate: Took 0.000404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.27-01.17.11:850][824]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.04.27-01.17.35:923][123]BlueprintLog: New page: Compile InventoryWindow
+[2022.04.27-01.17.36:003][123]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2022.04.27-01.17.36:134][123]LogSlate: Took 0.000438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.27-01.17.37:028][172]LogRenderer: Reallocating scene render targets to support 1620x1712 Format 10 NumSamples 1 (Frame:1).
+[2022.04.27-01.17.50:735][964]LogSlate: Took 0.000535 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.27-01.19.13:919][117]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\aschooley\Desktop\BackgroundTextureTestV3.png)
+[2022.04.27-01.19.14:173][117]LogTexture: Display: Building textures: BackgroundTextureTestV3 (AutoDXT, 3072X3072)
+[2022.04.27-01.19.16:062][117]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\aschooley\Desktop\BackgroundArt.png)
+[2022.04.27-01.19.16:268][117]LogTexture: Display: Building textures: BackgroundArt (AutoDXT, 3072X3072)
+[2022.04.27-01.19.17:343][117]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\aschooley\Desktop\BackgroundArtV2.png)
+[2022.04.27-01.19.17:553][117]LogTexture: Display: Building textures: BackgroundArtV2 (AutoDXT, 3072X3072)
+[2022.04.27-01.19.17:980][117]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\aschooley\Desktop\backgroundTextureTest.png)
+[2022.04.27-01.19.18:278][117]LogTexture: Display: Building textures: backgroundTextureTest (AutoDXT, 3072X3072)
+[2022.04.27-01.19.20:179][117]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\aschooley\Desktop\BackgroundTextureTestV2.png)
+[2022.04.27-01.19.20:443][117]LogTexture: Display: Building textures: BackgroundTextureTestV2 (AutoDXT, 3072X3072)
+[2022.04.27-01.19.28:929][319]LogEditorFactories: Performing atomic reimport of [C:/Users/aschooley/Desktop/bread.png]
+[2022.04.27-01.19.28:929][319]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/aschooley/Desktop/bread.png)
+[2022.04.27-01.19.28:962][319]LogTexture: Display: Building textures: bread (BGRA8, 813X767)
+[2022.04.27-01.19.28:985][319]LogEditorFactories: -- imported successfully
+[2022.04.27-01.19.32:302][495]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-01.19.32:359][495]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.04.27-01.19.33:941][495]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-01.19.33:978][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/BackgroundArt" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArt.uasset" SILENT=true
+[2022.04.27-01.19.34:221][495]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/BackgroundArtC1CBB3504FA896165549DC9BE24D8EAE.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArt.uasset'
+[2022.04.27-01.19.34:230][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/BackgroundArtV2" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArtV2.uasset" SILENT=true
+[2022.04.27-01.19.34:384][495]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/BackgroundArtV24DF35A25467EB06D5929BAA2F43D4825.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArtV2.uasset'
+[2022.04.27-01.19.34:808][495]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/backgroundTextureTest0C6B09CB46EEE3DC12C02BAC8681EADB.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/backgroundTextureTest.uasset'
+[2022.04.27-01.19.35:261][495]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/BackgroundTextureTestV2F91DD04D40E56C3CB342F486E2A301B2.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundTextureTestV2.uasset'
+[2022.04.27-01.19.35:798][495]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/BackgroundTextureTestV32B8E5FE94953BAF0F94C0EAAB94E6DC9.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundTextureTestV3.uasset'
+[2022.04.27-01.19.35:807][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/bread" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/bread.uasset" SILENT=true
+[2022.04.27-01.19.35:831][495]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/bread4FFFD7A74AC8C1586C7D77A7C895726D.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/bread.uasset'
+[2022.04.27-01.19.35:879][495]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/InventoryWindow9716A4DE4628FB0D43F286B1DD30B48D.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/InventorySystem/InventoryUI/InventoryWindow.uasset'
+[2022.04.27-01.19.35:922][496]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-01.19.35:922][496]LogContentValidation: Display: Validating Texture2D /Game/Assets/2D_Assets/bread.bread
+[2022.04.27-01.19.35:922][496]LogContentValidation: Display: Validating WidgetBlueprint /Game/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow
+[2022.04.27-01.19.35:923][496]LogContentValidation: Display: Validating Texture2D /Game/Assets/2D_Assets/BackgroundTextureTestV2.BackgroundTextureTestV2
+[2022.04.27-01.19.35:923][496]LogContentValidation: Display: Validating Texture2D /Game/Assets/2D_Assets/backgroundTextureTest.backgroundTextureTest
+[2022.04.27-01.19.35:923][496]LogContentValidation: Display: Validating Texture2D /Game/Assets/2D_Assets/BackgroundArtV2.BackgroundArtV2
+[2022.04.27-01.19.35:923][496]LogContentValidation: Display: Validating Texture2D /Game/Assets/2D_Assets/BackgroundArt.BackgroundArt
+[2022.04.27-01.19.35:923][496]LogContentValidation: Display: Validating Texture2D /Game/Assets/2D_Assets/BackgroundTextureTestV3.BackgroundTextureTestV3
+[2022.04.27-01.24.25:327][183]LogEditorFactories: Performing atomic reimport of [C:/Users/aschooley/Desktop/BackgroundArtV2.png]
+[2022.04.27-01.24.25:328][183]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/aschooley/Desktop/BackgroundArtV2.png)
+[2022.04.27-01.24.25:515][183]LogTexture: Display: Building textures: BackgroundArtV2 (AutoDXT, 3072X3072)
+[2022.04.27-01.24.25:828][183]LogEditorFactories: -- imported successfully
+[2022.04.27-01.24.25:848][183]LogEditorFactories: Performing atomic reimport of [C:/Users/aschooley/Desktop/BackgroundArt.png]
+[2022.04.27-01.24.25:851][183]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/aschooley/Desktop/BackgroundArt.png)
+[2022.04.27-01.24.26:067][183]LogTexture: Display: Building textures: BackgroundArt (AutoDXT, 3072X3072)
+[2022.04.27-01.24.26:951][183]LogEditorFactories: -- imported successfully
+[2022.04.27-01.25.03:399][872]LogSlate: Window 'Delete widgets' being destroyed
+[2022.04.27-01.25.44:521][331]LogEditorTransaction: Undo Resize Widget
+[2022.04.27-01.26.04:117][703]LogSlate: Took 0.001558 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.04.27-01.27.04:683][303]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.27.40:909][463]LogEditorTransaction: Undo Move Anchor
+[2022.04.27-01.27.52:123][ 64]LogEditorTransaction: Undo Resize Widget
+[2022.04.27-01.29.13:457][759]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.04.27-01.29.18:664][ 53]LogEditorTransaction: Undo Edit Y
+[2022.04.27-01.29.19:397][ 79]LogEditorTransaction: Undo Edit X
+[2022.04.27-01.29.20:033][116]LogEditorTransaction: Undo Resize Widget
+[2022.04.27-01.29.22:685][272]LogEditorTransaction: Redo Resize Widget
+[2022.04.27-01.29.36:919][100]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.30.05:386][763]LogEditorTransaction: Undo Remove Widget
+[2022.04.27-01.30.16:384][369]LogEditorTransaction: Undo Remove Widget
+[2022.04.27-01.31.00:160][424]LogEditorTransaction: Undo Set Vector Property
+[2022.04.27-01.31.00:660][437]Cmd: TRANSACTION UNDO
+[2022.04.27-01.31.00:660][437]LogEditorTransaction: Undo Remove Widget
+[2022.04.27-01.31.06:676][795]LogEditorTransaction: Undo Set Vector Property
+[2022.04.27-01.31.23:992][802]LogEditorTransaction: Undo Set Vector Property
+[2022.04.27-01.32.15:255][832]LogEditorTransaction: Undo Set Vector Property
+[2022.04.27-01.32.15:557][840]Cmd: TRANSACTION UNDO
+[2022.04.27-01.32.15:557][840]LogEditorTransaction: Undo Move Widget
+[2022.04.27-01.32.15:791][846]Cmd: TRANSACTION UNDO
+[2022.04.27-01.32.15:792][846]LogEditorTransaction: Undo Add Widget
+[2022.04.27-01.32.16:098][863]Cmd: TRANSACTION UNDO
+[2022.04.27-01.32.16:098][863]LogEditorTransaction: Undo Set Vector Property
+[2022.04.27-01.32.19:651][ 74]Cmd: TRANSACTION UNDO
+[2022.04.27-01.32.19:651][ 74]LogEditorTransaction: Undo Set Vector Property
+[2022.04.27-01.32.23:457][285]LogEditorTransaction: Undo Set Vector Property
+[2022.04.27-01.35.42:866][325]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\aschooley\Desktop\AcceptV2.png)
+[2022.04.27-01.35.42:878][325]LogTexture: Display: Building textures: AcceptV2 (BGRA8, 950X607)
+[2022.04.27-01.36.42:429][776]LogEditorTransaction: Undo Edit Render Opacity
+[2022.04.27-01.36.56:650][595]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.37.00:615][825]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.37.12:482][518]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.37.21:390][ 35]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.37.32:031][662]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.38.06:831][734]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.38.41:963][794]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.39.20:125][ 45]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.40.03:108][600]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.40.21:986][723]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Specified Color entirely.
+[2022.04.27-01.41.05:433][297]LogEditorTransaction: Undo Resize Widget
+[2022.04.27-01.41.05:864][308]LogEditorTransaction: Undo Resize Widget
+[2022.04.27-01.42.33:187][511]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.43.01:834][203]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.43.26:184][643]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.43.53:598][256]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.44.03:252][811]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.44.04:117][863]LogEditorTransaction: Undo Edit Apply Outline to Drop Shadows
+[2022.04.27-01.44.04:798][887]LogEditorTransaction: Undo Edit Apply Outline to Drop Shadows
+[2022.04.27-01.44.05:305][916]LogEditorTransaction: Undo Edit Outline Size
+[2022.04.27-01.44.24:698][ 58]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.44.52:611][716]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.45.12:545][893]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.45.19:865][312]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.45.31:130][954]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.45.32:061][  9]LogEditorTransaction: Undo Edit Outline Size
+[2022.04.27-01.45.51:496][138]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.46.05:425][958]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.46.16:986][641]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.46.28:999][343]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.46.56:212][951]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.47.09:663][734]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.47.33:574][133]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.47.57:523][542]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.48.12:559][419]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.48.35:638][783]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.48.39:454][  4]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.49.01:030][282]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.49.13:247][990]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.49.25:361][700]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.49.43:810][785]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.49.54:952][435]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.50.07:483][157]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.50.49:718][646]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.50.56:270][ 24]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.51.09:144][774]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.51.29:373][961]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.52.18:234][842]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.52.28:254][413]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.53.13:494][ 85]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-01.53.13:512][ 85]LogBlueprint: Error: [AssetLog] C:\Users\aschooley\Documents\GitHub\IGS-2022\Antz\Content\QuestSystem\QuestUI\QuestUI.uasset: [Compiler] This blueprint (self) is not a PanelWidget, therefore ' Target ' must have a connection.
+[2022.04.27-01.53.13:595][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2022.04.27-01.53.52:525][340]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-01.53.52:570][340]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.04.27-01.55.39:255][125]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.55.43:274][354]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.55.56:972][159]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.56.05:790][675]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.56.23:536][719]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.56.31:786][196]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.57.09:802][ 67]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.57.20:253][679]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.57.28:169][144]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.57.56:735][817]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.58.05:316][323]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-01.58.46:666][771]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-01.58.46:720][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.04.27-01.58.48:533][867]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-01.58.48:585][867]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.04.27-01.58.50:093][867]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-01.58.50:170][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/AcceptV2" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/AcceptV2.uasset" SILENT=true
+[2022.04.27-01.58.50:204][867]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/AcceptV29DA4BAEF412B4516A7088DB03F532E58.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/AcceptV2.uasset'
+[2022.04.27-01.58.50:213][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/BackgroundArt" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArt.uasset" SILENT=true
+[2022.04.27-01.58.50:480][867]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/BackgroundArtEBF8462A49BC2DC983E8C981D54B49E2.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArt.uasset'
+[2022.04.27-01.58.50:489][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/BackgroundArtV2" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArtV2.uasset" SILENT=true
+[2022.04.27-01.58.50:680][867]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/BackgroundArtV21F8AAC004A443F3F43617ABF818C10E8.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArtV2.uasset'
+[2022.04.27-01.58.50:685][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/QuestUI" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset" SILENT=true
+[2022.04.27-01.58.50:736][867]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/QuestUI4A7FEFF747E6ABA9386FE28194FAB4BB.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset'
+[2022.04.27-01.58.50:776][868]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-01.58.50:776][868]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/QuestUI.QuestUI
+[2022.04.27-01.58.50:778][868]LogContentValidation: Display: Validating Texture2D /Game/Assets/2D_Assets/AcceptV2.AcceptV2
+[2022.04.27-01.58.50:778][868]LogContentValidation: Display: Validating Texture2D /Game/Assets/2D_Assets/BackgroundArtV2.BackgroundArtV2
+[2022.04.27-01.58.50:778][868]LogContentValidation: Display: Validating Texture2D /Game/Assets/2D_Assets/BackgroundArt.BackgroundArt
+[2022.04.27-02.01.02:812][433]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-02.01.02:874][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.04.27-02.01.31:525][115]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Outline Color entirely.
+[2022.04.27-02.01.32:888][178]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.04.27-02.01.37:226][415]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-02.01.37:288][415]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.04.27-02.01.38:759][495]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-02.01.38:811][495]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.04.27-02.01.40:238][495]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-02.01.40:328][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/QuestUI" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset" SILENT=true
+[2022.04.27-02.01.40:384][495]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/QuestUIDDAB8FCE479B770D606119912003EA2D.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset'
+[2022.04.27-02.01.40:416][496]AssetCheck: New page: Asset Save: QuestUI
+[2022.04.27-02.01.40:416][496]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/QuestUI.QuestUI
+[2022.04.27-02.02.44:790][957]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-02.02.44:837][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.04.27-02.03.41:888][586]BlueprintLog: New page: Compile InventoryWindow
+[2022.04.27-02.03.41:934][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.04.27-02.03.49:267][  2]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-02.03.49:318][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.04.27-02.03.50:906][ 88]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-02.03.50:963][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.04.27-02.03.52:626][ 88]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-02.03.52:746][ 88]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/InventoryWindow304AFAE945F11FA2CDC9F0AB50F8726E.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/InventorySystem/InventoryUI/InventoryWindow.uasset'
+[2022.04.27-02.03.52:750][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/QuestUI" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset" SILENT=true
+[2022.04.27-02.03.52:792][ 88]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/QuestUI8069ECD44F77FDC21AB37AA882592537.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset'
+[2022.04.27-02.03.52:826][ 89]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-02.03.52:826][ 89]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/QuestUI.QuestUI
+[2022.04.27-02.03.52:827][ 89]LogContentValidation: Display: Validating WidgetBlueprint /Game/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow
+[2022.04.27-02.04.38:174][413]MapCheck: New page: Map Check
+[2022.04.27-02.04.38:248][413]Cmd: MAP REBUILD ALLVISIBLE
+[2022.04.27-02.04.38:251][413]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.04.27-02.04.38:391][413]LogWorld: UWorld::CleanupWorld for Main_menu_Map, bSessionEnded=true, bCleanupResources=false
+[2022.04.27-02.04.38:400][413]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.04.27-02.04.38:400][413]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.04.27-02.04.38:400][413]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.04.27-02.04.38:441][413]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.04.27-02.04.38:450][413]LightingResults: New page: Lighting Build - Apr 26, 2022, 6:04:38 PM
+[2022.04.27-02.04.38:523][413]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.04.27-02.04.39:031][413]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.04.27-02.04.39:052][413]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.04.27-02.04.41:075][413]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.04.27-02.04.41:076][413]LogSwarmInterface: [TryOpenConnection] Local Process ID is 26548
+[2022.04.27-02.05.01:357][413]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.04.27-02.05.01:357][413]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.04.27-02.05.01:357][413]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.04.27-02.05.01:357][413]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.04.27-02.05.01:357][413]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.04.27-02.05.01:357][413]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.04.27-02.05.01:528][413]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.04.27-02.05.01:528][413]MapCheck: New page: Main_menu_Map - Apr 26, 2022, 6:05:01 PM
+[2022.04.27-02.05.01:528][413]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.347ms to complete.
+[2022.04.27-02.05.01:531][413]LogEditorBuildUtils: Build time 0:23
+[2022.04.27-02.05.02:266][414]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2022.04.27-02.05.07:473][463]Job is a success!
+[2022.04.27-02.05.07:814][464]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.025s
+[2022.04.27-02.05.07:814][464]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.04.27-02.05.07:814][464]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.04.27-02.05.07:814][464]LogVolumetricLightmapImport:      Bricks at depth
+[2022.04.27-02.05.07:814][464]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2022.04.27-02.05.07:814][464]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2022.04.27-02.05.07:814][464]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2022.04.27-02.05.07:814][464]LogVolumetricLightmapImport:      Bricks in each level
+[2022.04.27-02.05.07:815][464]LogVolumetricLightmapImport:          Main_menu_Map 			 1 bricks 	 100.0% (Persistent Level)
+[2022.04.27-02.05.07:849][464]Lightmass on 5CD911CWV1: 1.41 sec total, 169 ms importing, 6 ms setup, 65 ms photons, 1.09 sec processing, 0 ms extra exporting [0/0 mappings]. Threads: 11.9 sec total, 0 ms processing.
+[2022.04.27-02.05.07:946][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.04.27-02.05.08:022][464]LogStaticLightingSystem: Illumination: 29.3 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.04.27-02.05.08:022][464]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.04.27-02.05.08:022][464]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.04.27-02.05.08:360][464]DumpUnbuiltLightIteractions
+[2022.04.27-02.05.08:360][464]Lights with unbuilt interactions: 0
+[2022.04.27-02.05.08:360][464]
+[2022.04.27-02.05.08:360][464]Primitives with unbuilt interactions: 0
+[2022.04.27-02.05.08:469][465]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.04.27-02.05.08:469][465]MapCheck: New page: Main_menu_Map - Apr 26, 2022, 6:05:08 PM
+[2022.04.27-02.05.08:469][465]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.311ms to complete.
+[2022.04.27-02.05.10:236][567]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-02.05.10:292][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.27-02.05.12:964][567]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-02.05.13:036][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_menu_Map" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Maps/Main_menu_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.27-02.05.13:062][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.04.27-02.05.13:076][567]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Main_menu_MapF73B6C3A47E9AC471D31D485AF34E56E.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Maps/Main_menu_Map.umap'
+[2022.04.27-02.05.13:104][567]LogFileHelpers: Saving map 'Main_menu_Map' took 0.068
+[2022.04.27-02.05.13:104][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_menu_Map_BuiltData" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Maps/Main_menu_Map_BuiltData.uasset" SILENT=true
+[2022.04.27-02.05.13:112][567]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Main_menu_Map_BuiltData1F03A00E4E600CB95F5751AE12BA41E6.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Maps/Main_menu_Map_BuiltData.uasset'
+[2022.04.27-02.05.13:149][568]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-02.05.13:149][568]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_menu_Map_BuiltData.Main_menu_Map_BuiltData
+[2022.04.27-02.05.13:149][568]LogContentValidation: Display: Validating World /Game/Maps/Main_menu_Map.Main_menu_Map
+[2022.04.27-02.06.01:883][190]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-02.06.01:938][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.04.27-02.07.10:743][444]LogContentBrowser: Deferred new asset file creation: NewPaperTileSet2
+[2022.04.27-02.07.10:779][444]LogContentBrowser: Creating deferred item: NewPaperTileSet2
+[2022.04.27-02.07.19:690][971]LogContentBrowser: Attempting asset rename: NewPaperTileSet2 -> BackgroundArtTiles
+[2022.04.27-02.07.19:709][971]LogContentBrowser: End creating deferred item NewPaperTileSet2
+[2022.04.27-02.07.23:260][168]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Assets/2D_Assets/BackgroundArtTiles.BackgroundArtTiles
+[2022.04.27-02.07.53:904][942]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/BackgroundArtTilesE5BBE3784FAAE0A8CB5020AC1F4749F5.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArtTiles.uasset'
+[2022.04.27-02.07.53:927][942]AssetCheck: New page: Asset Save: BackgroundArtTiles
+[2022.04.27-02.07.53:927][942]LogContentValidation: Display: Validating PaperTileSet /Game/Assets/2D_Assets/BackgroundArtTiles.BackgroundArtTiles
+[2022.04.27-02.10.01:897][421]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-02.10.01:967][421]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.04.27-02.10.02:896][468]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-02.10.02:977][468]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2022.04.27-02.10.04:518][468]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-02.10.04:592][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/QuestUI" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset" SILENT=true
+[2022.04.27-02.10.04:636][468]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/QuestUI958B3F414597C24DAC66C888FFAC49FF.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset'
+[2022.04.27-02.10.04:668][469]AssetCheck: New page: Asset Save: QuestUI
+[2022.04.27-02.10.04:669][469]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/QuestUI.QuestUI
+[2022.04.27-02.13.37:433][ 50]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-02.13.37:507][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.04.27-02.14.04:698][ 93]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-02.14.13:593][591]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-02.14.26:062][322]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-02.14.26:110][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.04.27-02.14.30:014][548]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-02.14.30:072][548]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.04.27-02.14.31:646][548]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-02.14.31:716][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/QuestUI" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset" SILENT=true
+[2022.04.27-02.14.31:757][548]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/QuestUI2A72DC644981B4E9D3A6C1883C8ECA50.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset'
+[2022.04.27-02.14.31:857][549]AssetCheck: New page: Asset Save: QuestUI
+[2022.04.27-02.14.31:857][549]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/QuestUI.QuestUI
+[2022.04.27-02.14.53:197][754]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-02.14.53:273][754]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.04.27-02.16.56:592][979]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-02.16.56:651][979]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.04.27-02.17.40:376][481]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.04.27-02.17.41:391][523]LogEditorTransaction: Undo Resize Widget
+[2022.04.27-02.17.47:004][857]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-02.17.47:054][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.04.27-02.17.54:872][322]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-02.17.54:920][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.04.27-02.17.58:156][511]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-02.17.58:210][511]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.04.27-02.17.59:412][511]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-02.17.59:494][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/QuestUI" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset" SILENT=true
+[2022.04.27-02.17.59:539][511]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/QuestUIA7448DF24487D495B4FAC8931C75C15C.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset'
+[2022.04.27-02.17.59:569][512]AssetCheck: New page: Asset Save: QuestUI
+[2022.04.27-02.17.59:570][512]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/QuestUI.QuestUI
+[2022.04.27-02.19.01:938][342]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-02.19.02:002][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.04.27-02.19.03:928][445]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-02.19.03:981][445]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.04.27-02.19.05:436][445]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-02.19.05:508][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/QuestUI" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset" SILENT=true
+[2022.04.27-02.19.05:551][445]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/QuestUIE40B71514182778E7DCF8C83BF6C7402.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset'
+[2022.04.27-02.19.05:582][446]AssetCheck: New page: Asset Save: QuestUI
+[2022.04.27-02.19.05:582][446]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/QuestUI.QuestUI
+[2022.04.27-02.19.53:524][864]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/QuestSystem/QuestUI/QuestTurnInUI.QuestTurnInUI
+[2022.04.27-02.20.26:739][811]BlueprintLog: New page: Compile QuestTurnInUI
+[2022.04.27-02.20.26:801][811]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.04.27-02.21.07:641][230]LogEditorTransaction: Undo Edit Outline Size
+[2022.04.27-02.21.48:966][669]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-02.21.49:032][669]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2022.04.27-02.21.53:464][923]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-02.21.53:513][923]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.04.27-02.21.54:820][923]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-02.21.54:899][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/QuestTurnInUI" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestTurnInUI.uasset" SILENT=true
+[2022.04.27-02.21.54:960][923]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/QuestTurnInUI7D1D6C5648DB1F5289DFEF9F8F3C25AA.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestTurnInUI.uasset'
+[2022.04.27-02.21.54:964][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/QuestUI" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset" SILENT=true
+[2022.04.27-02.21.55:005][923]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/QuestUID29EE77645D0C334F8B44694F722B378.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset'
+[2022.04.27-02.21.55:037][924]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-02.21.55:037][924]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/QuestTurnInUI.QuestTurnInUI
+[2022.04.27-02.21.55:038][924]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/QuestUI.QuestUI
+[2022.04.27-02.22.29:782][216]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/QuestSystem/QuestUI/QuestLogUI.QuestLogUI
+[2022.04.27-02.22.32:621][361]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-02.22.32:621][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-02.22.32:649][361]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-02.22.32:649][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-02.23.00:622][392]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/BackgroundArtTiles158018E94F6D30C0BC71889F870926E1.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArtTiles.uasset'
+[2022.04.27-02.23.00:638][392]AssetCheck: New page: Asset Save: BackgroundArtTiles
+[2022.04.27-02.23.00:638][392]LogContentValidation: Display: Validating PaperTileSet /Game/Assets/2D_Assets/BackgroundArtTiles.BackgroundArtTiles
+[2022.04.27-02.36.47:472][788]LogEditorFactories: Performing atomic reimport of [C:/Users/aschooley/Desktop/BackgroundArtV2.png]
+[2022.04.27-02.36.47:478][788]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/aschooley/Desktop/BackgroundArtV2.png)
+[2022.04.27-02.36.47:730][788]LogTexture: Display: Building textures: BackgroundArtV2 (BGRA8, 3069X3069)
+[2022.04.27-02.36.48:001][788]LogEditorFactories: -- imported successfully
+[2022.04.27-02.36.48:101][788]LogEditorFactories: Performing atomic reimport of [C:/Users/aschooley/Desktop/BackgroundArt.png]
+[2022.04.27-02.36.48:105][788]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/aschooley/Desktop/BackgroundArt.png)
+[2022.04.27-02.36.48:324][788]LogTexture: Display: Building textures: BackgroundArt (BGRA8, 3069X3069)
+[2022.04.27-02.36.48:601][788]LogEditorFactories: -- imported successfully
+[2022.04.27-02.37.23:624][778]LogContentBrowser: Deferred new asset file creation: NewPaperTileSet2
+[2022.04.27-02.37.23:650][778]LogContentBrowser: Creating deferred item: NewPaperTileSet2
+[2022.04.27-02.37.31:193][224]LogContentBrowser: Attempting asset rename: NewPaperTileSet2 -> BackgroundArtTilesV2
+[2022.04.27-02.37.31:199][224]LogContentBrowser: End creating deferred item NewPaperTileSet2
+[2022.04.27-02.37.33:283][336]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Assets/2D_Assets/BackgroundArtTilesV2.BackgroundArtTilesV2
+[2022.04.27-02.38.00:407][138]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/BackgroundArtTilesV25B28A61B40074138E2946CACFA76B915.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArtTilesV2.uasset'
+[2022.04.27-02.38.00:423][138]AssetCheck: New page: Asset Save: BackgroundArtTilesV2
+[2022.04.27-02.38.00:423][138]LogContentValidation: Display: Validating PaperTileSet /Game/Assets/2D_Assets/BackgroundArtTilesV2.BackgroundArtTilesV2
+[2022.04.27-02.39.52:382][929]LogEditorFactories: Performing atomic reimport of [C:/Users/aschooley/Desktop/BackgroundArt.png]
+[2022.04.27-02.39.52:385][929]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/aschooley/Desktop/BackgroundArt.png)
+[2022.04.27-02.39.52:651][929]LogTexture: Display: Building textures: BackgroundArt (AutoDXT, 3072X3072)
+[2022.04.27-02.39.53:708][929]LogEditorFactories: -- imported successfully
+[2022.04.27-02.39.53:782][929]LogEditorFactories: Performing atomic reimport of [C:/Users/aschooley/Desktop/BackgroundArtV2.png]
+[2022.04.27-02.39.53:784][929]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/aschooley/Desktop/BackgroundArtV2.png)
+[2022.04.27-02.39.54:071][929]LogTexture: Display: Building textures: BackgroundArtV2 (AutoDXT, 3072X3072)
+[2022.04.27-02.39.54:533][929]LogEditorFactories: -- imported successfully
+[2022.04.27-02.41.42:686][296]Cmd: TRANSACTION UNDO
+[2022.04.27-02.41.42:686][296]LogEditorTransaction: Undo Tile Painting
+[2022.04.27-02.41.48:748][640]Cmd: TRANSACTION REDO
+[2022.04.27-02.41.48:748][640]LogEditorTransaction: Redo Tile Painting
+[2022.04.27-02.43.55:601][523]LogEditorFactories: Performing atomic reimport of [C:/Users/aschooley/Desktop/BackgroundArtV2.png]
+[2022.04.27-02.43.55:601][523]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/aschooley/Desktop/BackgroundArtV2.png)
+[2022.04.27-02.43.55:619][523]LogTexture: Display: Building textures: BackgroundArtV2 (AutoDXT, 256X256)
+[2022.04.27-02.43.55:654][523]LogEditorFactories: -- imported successfully
+[2022.04.27-02.45.58:290][612]LogEditorFactories: Performing atomic reimport of [C:/Users/aschooley/Desktop/BackgroundArtV2.png]
+[2022.04.27-02.45.58:292][612]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/aschooley/Desktop/BackgroundArtV2.png)
+[2022.04.27-02.45.58:503][612]LogTexture: Display: Building textures: BackgroundArtV2 (AutoDXT, 3072X3072)
+[2022.04.27-02.45.58:941][612]LogEditorFactories: -- imported successfully
+[2022.04.27-02.46.33:850][490]Cmd: TRANSACTION UNDO
+[2022.04.27-02.46.33:850][490]LogEditorTransaction: Undo Tile Painting
+[2022.04.27-02.46.34:348][502]Cmd: TRANSACTION UNDO
+[2022.04.27-02.46.34:348][502]LogEditorTransaction: Undo Tile Painting
+[2022.04.27-02.46.42:109][943]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-02.46.42:194][943]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2022.04.27-02.46.43:476][943]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-02.46.43:562][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/Area_1_Map1" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/Area_1_Map1.uasset" SILENT=true
+[2022.04.27-02.46.45:626][943]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Area_1_Map1C067E3BC40BC81135FB8919F650A0815.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/Area_1_Map1.uasset'
+[2022.04.27-02.46.45:640][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/BackgroundArt" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArt.uasset" SILENT=true
+[2022.04.27-02.46.45:945][943]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/BackgroundArt47613737457DD856C6354A9CC1A9881C.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArt.uasset'
+[2022.04.27-02.46.45:967][943]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/BackgroundArtTilesA7A37B0C40C33864FE2B34B4F7D77E9B.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArtTiles.uasset'
+[2022.04.27-02.46.45:979][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/BackgroundArtV2" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArtV2.uasset" SILENT=true
+[2022.04.27-02.46.46:184][943]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/BackgroundArtV22E194E764BA9F10342EA21B90125C47E.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArtV2.uasset'
+[2022.04.27-02.46.46:222][944]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-02.46.46:223][944]LogContentValidation: Display: Validating PaperTileMap /Game/Assets/2D_Assets/Area_1_Map1.Area_1_Map1
+[2022.04.27-02.46.46:223][944]LogContentValidation: Display: Validating PaperTileSet /Game/Assets/2D_Assets/BackgroundArtTiles.BackgroundArtTiles
+[2022.04.27-02.46.46:223][944]LogContentValidation: Display: Validating Texture2D /Game/Assets/2D_Assets/BackgroundArtV2.BackgroundArtV2
+[2022.04.27-02.46.46:223][944]LogContentValidation: Display: Validating Texture2D /Game/Assets/2D_Assets/BackgroundArt.BackgroundArt
+[2022.04.27-02.48.36:240][199]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-02.48.36:299][199]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.04.27-02.48.37:940][288]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-02.48.37:999][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.04.27-02.48.39:272][288]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-02.48.39:340][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/QuestUI" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset" SILENT=true
+[2022.04.27-02.48.39:379][288]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/QuestUI4114494D4F5D791325649BB1A5BA8C2B.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset'
+[2022.04.27-02.48.39:411][289]AssetCheck: New page: Asset Save: QuestUI
+[2022.04.27-02.48.39:411][289]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/QuestUI.QuestUI
+[2022.04.27-02.48.51:524][770]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-02.48.51:607][770]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.04.27-02.49.46:140][490]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-02.49.46:140][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-02.50.56:350][631]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-02.50.56:412][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.04.27-02.50.58:333][732]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-02.50.58:390][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.04.27-02.50.59:403][732]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-02.50.59:486][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/QuestUI" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset" SILENT=true
+[2022.04.27-02.50.59:529][732]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/QuestUI19D0D1BA4089A235B705B284ED8A5F92.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset'
+[2022.04.27-02.50.59:559][733]AssetCheck: New page: Asset Save: QuestUI
+[2022.04.27-02.50.59:559][733]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/QuestUI.QuestUI
+[2022.04.27-02.51.44:885][607]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-02.51.50:236][915]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-02.51.52:415][ 44]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-02.51.52:487][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.04.27-02.52.03:198][671]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-02.52.03:258][671]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2022.04.27-02.52.05:501][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/QuestUI" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset" SILENT=true
+[2022.04.27-02.52.05:555][792]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/QuestUI5D9E57574F1B012E2F1AAF899AF124E6.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset'
+[2022.04.27-02.52.05:572][792]AssetCheck: New page: Asset Save: QuestUI
+[2022.04.27-02.52.05:572][792]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/QuestUI.QuestUI
+[2022.04.27-02.52.06:447][844]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-02.52.06:504][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.04.27-02.53.21:844][905]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-02.53.27:663][233]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-02.53.57:778][  3]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-02.53.59:528][102]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-02.53.59:587][102]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.04.27-02.54.00:253][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/QuestUI" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset" SILENT=true
+[2022.04.27-02.54.00:314][130]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/QuestUI79B35EB44EA12904EA6EE2B12893DE58.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset'
+[2022.04.27-02.54.00:345][130]AssetCheck: New page: Asset Save: QuestUI
+[2022.04.27-02.54.00:345][130]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/QuestUI.QuestUI
+[2022.04.27-02.54.02:044][227]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-02.54.02:106][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.04.27-02.55.15:231][103]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-02.55.23:825][594]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-02.55.30:406][980]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-02.55.30:477][980]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.04.27-02.55.32:099][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/QuestUI" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset" SILENT=true
+[2022.04.27-02.55.32:145][ 65]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/QuestUI3EF0E8754AF359BF401B6090CF932CB9.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset'
+[2022.04.27-02.55.32:162][ 65]AssetCheck: New page: Asset Save: QuestUI
+[2022.04.27-02.55.32:162][ 65]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/QuestUI.QuestUI
+[2022.04.27-02.55.35:573][262]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-02.55.35:630][262]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.04.27-02.56.11:707][968]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-02.56.17:774][314]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-02.56.27:148][862]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-02.56.34:805][299]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-02.56.36:272][382]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-02.56.36:338][382]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.04.27-02.56.37:008][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/QuestUI" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset" SILENT=true
+[2022.04.27-02.56.37:054][410]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/QuestUI4889FF2A4570E63C9F5A91B94DA424ED.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset'
+[2022.04.27-02.56.37:072][410]AssetCheck: New page: Asset Save: QuestUI
+[2022.04.27-02.56.37:072][410]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/QuestUI.QuestUI
+[2022.04.27-02.56.38:689][502]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-02.56.38:745][502]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.04.27-02.58.16:839][165]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-02.58.38:450][452]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-02.59.11:299][374]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-02.59.17:820][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/QuestUI" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset" SILENT=true
+[2022.04.27-02.59.17:867][745]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/QuestUI72290ADB4B171E5F947D42BA7CE3D3D2.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestUI.uasset'
+[2022.04.27-02.59.17:888][745]AssetCheck: New page: Asset Save: QuestUI
+[2022.04.27-02.59.17:888][745]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/QuestUI.QuestUI
+[2022.04.27-02.59.18:533][782]BlueprintLog: New page: Compile QuestUI
+[2022.04.27-02.59.18:604][782]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.04.27-02.59.31:084][507]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.04.27-02.59.31:681][507]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Tutorial_Map0.Tutorial_Map0
+[2022.04.27-02.59.31:681][507]Cmd: MAP LOAD FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Maps/Tutorial_Map0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.27-02.59.31:681][507]LightingResults: New page: Lighting Build
+[2022.04.27-02.59.31:686][507]LoadErrors: New page: Loading map: Tutorial_Map0.umap
+[2022.04.27-02.59.31:690][507]LogWorld: UWorld::CleanupWorld for Main_menu_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-02.59.31:691][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-02.59.31:691][507]MapCheck: New page: Map Check
+[2022.04.27-02.59.31:691][507]LightingResults: New page: Lighting Build
+[2022.04.27-02.59.31:731][507]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.27-02.59.31:746][507]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2022.04.27-02.59.31:751][507]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial_Map0'.
+[2022.04.27-02.59.31:978][507]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.27-02.59.31:978][507]LogAIModule: Creating AISystem for world Tutorial_Map0
+[2022.04.27-02.59.32:028][507]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.04.27-02.59.32:052][507]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.27-02.59.32:053][507]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.61ms to complete.
+[2022.04.27-02.59.32:053][507]LogFileHelpers: Loading map 'Tutorial_Map0' took 0.373
+[2022.04.27-02.59.54:138][758]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/2D_Assets/NewPaperTileMap1.NewPaperTileMap1
+[2022.04.27-02.59.56:882][912]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-02.59.56:882][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-02.59.59:311][ 51]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-02.59.59:311][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.00.01:769][188]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.00.01:769][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.00.05:417][404]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.00.05:417][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.00.05:444][404]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.00.05:444][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.00.07:961][546]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.00.07:961][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.00.07:977][546]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.00.07:977][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.00.11:951][774]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.04.27-03.00.11:952][774]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.00.11:952][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.00.20:668][253]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/2D_Assets/NewPaperTileMap.NewPaperTileMap
+[2022.04.27-03.03.30:664][668]LogEditorFactories: Performing atomic reimport of [C:/Users/aschooley/Desktop/BackgroundArtV2.png]
+[2022.04.27-03.03.30:667][668]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/aschooley/Desktop/BackgroundArtV2.png)
+[2022.04.27-03.03.30:857][668]LogTexture: Display: Building textures: BackgroundArtV2 (AutoDXT, 3072X3072)
+[2022.04.27-03.03.31:456][668]LogEditorFactories: -- imported successfully
+[2022.04.27-03.03.45:709][448]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Assets/2D_Assets/BackgroundArtTiles.BackgroundArtTiles
+[2022.04.27-03.05.59:270][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/NewPaperTileMap" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/NewPaperTileMap.uasset" SILENT=true
+[2022.04.27-03.06.00:139][895]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/NewPaperTileMapA0F2D92742B478474028ABBCE205DC2A.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/NewPaperTileMap.uasset'
+[2022.04.27-03.06.00:176][895]AssetCheck: New page: Asset Save: NewPaperTileMap
+[2022.04.27-03.06.00:176][895]LogContentValidation: Display: Validating PaperTileMap /Game/Assets/2D_Assets/NewPaperTileMap.NewPaperTileMap
+[2022.04.27-03.06.01:652][981]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-03.06.01:767][981]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2022.04.27-03.06.04:579][981]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-03.06.04:677][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/BackgroundArtV2" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArtV2.uasset" SILENT=true
+[2022.04.27-03.06.04:845][981]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/BackgroundArtV2133185964700C46DE453CE81AE660437.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArtV2.uasset'
+[2022.04.27-03.06.04:878][982]AssetCheck: New page: Asset Save: BackgroundArtV2
+[2022.04.27-03.06.04:878][982]LogContentValidation: Display: Validating Texture2D /Game/Assets/2D_Assets/BackgroundArtV2.BackgroundArtV2
+[2022.04.27-03.09.30:886][880]LogEditorFactories: Performing atomic reimport of [C:/Users/aschooley/Desktop/BackgroundArtV2.png]
+[2022.04.27-03.09.30:895][880]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/aschooley/Desktop/BackgroundArtV2.png)
+[2022.04.27-03.09.31:156][880]LogTexture: Display: Building textures: BackgroundArtV2 (AutoDXT, 3072X3072)
+[2022.04.27-03.09.33:253][880]LogEditorFactories: -- imported successfully
+[2022.04.27-03.09.38:062][115]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/BackgroundArtTiles29CB6F6F4D6469D01BBBE4B59479063E.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArtTiles.uasset'
+[2022.04.27-03.09.38:079][115]AssetCheck: New page: Asset Save: BackgroundArtTiles
+[2022.04.27-03.09.38:079][115]LogContentValidation: Display: Validating PaperTileSet /Game/Assets/2D_Assets/BackgroundArtTiles.BackgroundArtTiles
+[2022.04.27-03.10.24:304][858]Cmd: TRANSACTION UNDO
+[2022.04.27-03.10.24:304][858]LogEditorTransaction: Undo Tile Painting
+[2022.04.27-03.11.08:475][414]LogEditorFactories: Performing atomic reimport of [C:/Users/aschooley/Desktop/BackgroundArtV2.png]
+[2022.04.27-03.11.08:485][414]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/aschooley/Desktop/BackgroundArtV2.png)
+[2022.04.27-03.11.08:753][414]LogTexture: Display: Building textures: BackgroundArtV2 (AutoDXT, 3072X3072)
+[2022.04.27-03.11.10:323][414]LogEditorFactories: -- imported successfully
+[2022.04.27-03.13.40:694][ 86]LogEditorFactories: Performing atomic reimport of [C:/Users/aschooley/Desktop/BackgroundArtV2.png]
+[2022.04.27-03.13.40:700][ 86]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/aschooley/Desktop/BackgroundArtV2.png)
+[2022.04.27-03.13.40:892][ 86]LogTexture: Display: Building textures: BackgroundArtV2 (AutoDXT, 3072X3072)
+[2022.04.27-03.13.41:732][ 86]LogEditorFactories: -- imported successfully
+[2022.04.27-03.13.47:801][417]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-03.13.47:888][417]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.04.27-03.13.49:020][417]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-03.13.49:124][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/BackgroundArtV2" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArtV2.uasset" SILENT=true
+[2022.04.27-03.13.49:416][417]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/BackgroundArtV2157C6F5D4E2A8A916C23A0A812D1982B.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArtV2.uasset'
+[2022.04.27-03.13.49:420][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/NewPaperTileMap" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/NewPaperTileMap.uasset" SILENT=true
+[2022.04.27-03.13.50:316][417]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/NewPaperTileMapD5A18B6B4048E0B3A8CBC3B0950ECF32.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/NewPaperTileMap.uasset'
+[2022.04.27-03.13.50:360][418]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-03.13.50:360][418]LogContentValidation: Display: Validating PaperTileMap /Game/Assets/2D_Assets/NewPaperTileMap.NewPaperTileMap
+[2022.04.27-03.13.50:360][418]LogContentValidation: Display: Validating Texture2D /Game/Assets/2D_Assets/BackgroundArtV2.BackgroundArtV2
+[2022.04.27-03.15.25:935][919]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/Main_Menu_Widget.Main_Menu_Widget
+[2022.04.27-03.15.51:263][382]LogEditorTransaction: Undo Resize Widget
+[2022.04.27-03.15.52:279][423]LogEditorTransaction: Undo Resize Widget
+[2022.04.27-03.15.54:032][527]LogEditorTransaction: Undo Resize Widget
+[2022.04.27-03.16.23:261][230]LogEditorTransaction: Undo Resize Widget
+[2022.04.27-03.16.39:559][184]BlueprintLog: New page: Compile Main_Menu_Widget
+[2022.04.27-03.16.39:593][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.04.27-03.16.40:263][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Main_Menu_Widget" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/MainMenu/Main_Menu_Widget.uasset" SILENT=true
+[2022.04.27-03.16.40:303][206]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Main_Menu_WidgetACA676FB476ED87EC08721829CBA634C.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/MainMenu/Main_Menu_Widget.uasset'
+[2022.04.27-03.16.40:323][206]AssetCheck: New page: Asset Save: Main_Menu_Widget
+[2022.04.27-03.16.40:323][206]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/Main_Menu_Widget.Main_Menu_Widget
+[2022.04.27-03.16.42:193][312]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-03.16.42:232][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.04.27-03.17.47:248][919]LogEditorFactories: Performing atomic reimport of [C:/Users/aschooley/Desktop/BackgroundArtV2.png]
+[2022.04.27-03.17.47:254][919]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/aschooley/Desktop/BackgroundArtV2.png)
+[2022.04.27-03.17.47:460][919]LogTexture: Display: Building textures: BackgroundArtV2 (AutoDXT, 3072X3072)
+[2022.04.27-03.17.48:533][919]LogEditorFactories: -- imported successfully
+[2022.04.27-03.17.55:042][270]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-03.17.55:078][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.04.27-03.17.56:103][270]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-03.17.56:218][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/BackgroundArtV2" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArtV2.uasset" SILENT=true
+[2022.04.27-03.17.56:524][270]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/BackgroundArtV2A3CB1C8D4854DF005849AFA83D50FEBE.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArtV2.uasset'
+[2022.04.27-03.17.56:552][271]AssetCheck: New page: Asset Save: BackgroundArtV2
+[2022.04.27-03.17.56:552][271]LogContentValidation: Display: Validating Texture2D /Game/Assets/2D_Assets/BackgroundArtV2.BackgroundArtV2
+[2022.04.27-03.18.48:217][963]LogEditorFactories: Performing atomic reimport of [C:/Users/aschooley/Desktop/BackgroundArtV2.png]
+[2022.04.27-03.18.48:224][963]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/aschooley/Desktop/BackgroundArtV2.png)
+[2022.04.27-03.18.48:435][963]LogTexture: Display: Building textures: BackgroundArtV2 (AutoDXT, 3072X3072)
+[2022.04.27-03.18.49:633][963]LogEditorFactories: -- imported successfully
+[2022.04.27-03.18.52:040][ 94]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-03.18.52:082][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.04.27-03.18.53:373][ 94]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-03.18.53:480][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/BackgroundArtV2" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArtV2.uasset" SILENT=true
+[2022.04.27-03.18.53:865][ 94]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/BackgroundArtV24C27F8B64E55FDA485758590DFB79FB3.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundArtV2.uasset'
+[2022.04.27-03.18.53:902][ 95]AssetCheck: New page: Asset Save: BackgroundArtV2
+[2022.04.27-03.18.53:902][ 95]LogContentValidation: Display: Validating Texture2D /Game/Assets/2D_Assets/BackgroundArtV2.BackgroundArtV2
+[2022.04.27-03.22.46:787][229]LogEditorFactories: Performing atomic reimport of [C:/Users/aschooley/Desktop/BackgroundDecorTileMap.png]
+[2022.04.27-03.22.46:789][229]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/aschooley/Desktop/BackgroundDecorTileMap.png)
+[2022.04.27-03.22.46:944][229]LogTexture: Display: Building textures: BackgroundDecorTileMap (AutoDXT, 3072X3072)
+[2022.04.27-03.22.48:068][229]LogEditorFactories: -- imported successfully
+[2022.04.27-03.22.52:530][314]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-03.22.52:571][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.04.27-03.22.53:933][314]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-03.22.54:208][314]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/BackgroundDecorTileMap1EB1C4CA42BA1A24E1A4E9A70220BECE.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/BackgroundDecorTileMap.uasset'
+[2022.04.27-03.22.54:245][315]AssetCheck: New page: Asset Save: BackgroundDecorTileMap
+[2022.04.27-03.22.54:245][315]LogContentValidation: Display: Validating Texture2D /Game/Assets/2D_Assets/BackgroundDecorTileMap.BackgroundDecorTileMap
+[2022.04.27-03.24.30:904][312]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-03.25.08:203][399]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-03.26.01:782][225]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-03.27.20:533][479]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-03.27.52:728][232]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-03.28.00:757][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/NewPaperTileMap" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/NewPaperTileMap.uasset" SILENT=true
+[2022.04.27-03.28.01:693][700]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/NewPaperTileMap5453AB644BFEF2045B21B3BD8C58068A.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/NewPaperTileMap.uasset'
+[2022.04.27-03.28.01:728][700]AssetCheck: New page: Asset Save: NewPaperTileMap
+[2022.04.27-03.28.01:728][700]LogContentValidation: Display: Validating PaperTileMap /Game/Assets/2D_Assets/NewPaperTileMap.NewPaperTileMap
+[2022.04.27-03.28.03:535][804]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-03.28.04:101][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.04.27-03.28.41:982][425]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-03.28.42:031][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.04.27-03.29.18:853][206]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-03.29.28:749][779]BlueprintLog: New page: Compile Main_Menu_Widget
+[2022.04.27-03.29.28:778][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.04.27-03.29.31:308][924]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.29.31:309][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.29.31:330][924]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.29.31:330][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.30.04:905][806]LogSlate: Window 'Delete widgets' being destroyed
+[2022.04.27-03.30.39:245][830]BlueprintLog: New page: Compile QuestTurnInUI
+[2022.04.27-03.30.39:252][830]LogBlueprint: Error: [AssetLog] C:\Users\aschooley\Documents\GitHub\IGS-2022\Antz\Content\QuestSystem\QuestUI\QuestTurnInUI.uasset: [Compiler] This blueprint (self) is not a PanelWidget, therefore ' Target ' must have a connection.
+[2022.04.27-03.30.39:286][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.04.27-03.30.50:613][463]BlueprintLog: New page: Compile QuestTurnInUI
+[2022.04.27-03.30.50:652][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.04.27-03.30.55:979][757]BlueprintLog: New page: Compile QuestTurnInUI
+[2022.04.27-03.30.56:015][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.04.27-03.30.57:633][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/QuestTurnInUI" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestTurnInUI.uasset" SILENT=true
+[2022.04.27-03.30.57:697][844]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/QuestTurnInUIFF282CC44CBEC2DA1C06BA86CF9F5281.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/QuestTurnInUI.uasset'
+[2022.04.27-03.30.57:714][844]AssetCheck: New page: Asset Save: QuestTurnInUI
+[2022.04.27-03.30.57:714][844]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/QuestTurnInUI.QuestTurnInUI
+[2022.04.27-03.31.44:354][371]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-03.31.54:543][955]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-03.32.00:714][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/NewPaperTileMap" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/NewPaperTileMap.uasset" SILENT=true
+[2022.04.27-03.32.01:642][312]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/NewPaperTileMap87607E76443FDE0C10DD2C848B60A733.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/NewPaperTileMap.uasset'
+[2022.04.27-03.32.01:666][312]AssetCheck: New page: Asset Save: NewPaperTileMap
+[2022.04.27-03.32.01:666][312]LogContentValidation: Display: Validating PaperTileMap /Game/Assets/2D_Assets/NewPaperTileMap.NewPaperTileMap
+[2022.04.27-03.32.02:928][382]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-03.32.03:054][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.04.27-03.32.04:459][382]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-03.32.04:563][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Main_Menu_Widget" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/MainMenu/Main_Menu_Widget.uasset" SILENT=true
+[2022.04.27-03.32.04:591][382]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Main_Menu_WidgetB45FD1144FBC81AE1DC641AB6B93D034.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/MainMenu/Main_Menu_Widget.uasset'
+[2022.04.27-03.32.04:620][383]AssetCheck: New page: Asset Save: Main_Menu_Widget
+[2022.04.27-03.32.04:620][383]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/Main_Menu_Widget.Main_Menu_Widget
+[2022.04.27-03.33.03:374][ 30]Cmd: TRANSACTION UNDO
+[2022.04.27-03.33.03:374][ 30]LogEditorTransaction: Undo Edit Layer Color
+[2022.04.27-03.33.04:823][ 97]Cmd: TRANSACTION UNDO
+[2022.04.27-03.33.04:824][ 97]LogEditorTransaction: Undo Edit Layer Color
+[2022.04.27-03.33.15:976][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/NewPaperTileMap" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/NewPaperTileMap.uasset" SILENT=true
+[2022.04.27-03.33.16:871][754]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/NewPaperTileMapE11751BC4EB6AE31F18CD3A0341245DD.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/NewPaperTileMap.uasset'
+[2022.04.27-03.33.16:896][754]AssetCheck: New page: Asset Save: NewPaperTileMap
+[2022.04.27-03.33.16:897][754]LogContentValidation: Display: Validating PaperTileMap /Game/Assets/2D_Assets/NewPaperTileMap.NewPaperTileMap
+[2022.04.27-03.33.20:041][942]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.33.20:041][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.34.57:880][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.04.27-03.34.59:074][741]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-03.34.59:172][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/Area_1_Map1" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/Area_1_Map1.uasset" SILENT=true
+[2022.04.27-03.35.01:371][741]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Area_1_Map110A75B0D441969113041DC9B4346418D.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/Area_1_Map1.uasset'
+[2022.04.27-03.35.01:525][741]LogLinker: Warning: [AssetLog] C:\Users\aschooley\Documents\GitHub\IGS-2022\Antz\Content\Maps\Area1_Map1.umap: Failed to load '/Game/Maps/Area1_Map1_BuiltData': Can't find file.
+[2022.04.27-03.35.01:526][741]LogLinker: Warning: [AssetLog] C:\Users\aschooley\Documents\GitHub\IGS-2022\Antz\Content\Maps\Area1_Map1.umap: Failed to load '/Game/Maps/Area1_Map1_BuiltData': Can't find file.
+[2022.04.27-03.35.01:531][741]LogLinker: Warning: [AssetLog] C:\Users\aschooley\Documents\GitHub\IGS-2022\Antz\Content\Maps\Area1_Map1.umap: Failed to load '/Game/Maps/Area1_Map1_BuiltData': Can't find file.
+[2022.04.27-03.35.01:532][741]LogLinker: Warning: Failed to load '/Game/Maps/Area1_Map1_BuiltData': Can't find file.
+[2022.04.27-03.35.01:532][741]LogLinker: Warning: Failed to load '/Game/Maps/Area1_Map1_BuiltData': Can't find file.
+[2022.04.27-03.35.01:549][741]LogLinker: Warning: [AssetLog] C:\Users\aschooley\Documents\GitHub\IGS-2022\Antz\Content\Maps\Area1_Map1.umap: Failed to load '/Game/Maps/Area1_Map1_BuiltData': Can't find file.
+[2022.04.27-03.35.01:549][741]LoadErrors: Failed to load /Game/Maps/Area1_Map1_BuiltData.Area1_Map1_BuiltData Referenced by PersistentLevel
+[2022.04.27-03.35.01:739][741]LogTexture: Display: Building textures: Shift (BGRA8, 539X353)
+[2022.04.27-03.35.01:739][741]LogTexture: Display: Building textures: Key_Red_Final (AutoDXT, 800X1080)
+[2022.04.27-03.35.01:739][741]LogTexture: Display: Building textures: Locked_Door_V4_C2 (AutoDXT, 1080X1080)
+[2022.04.27-03.35.01:759][741]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Area1_Map1.Area1_Map1
+[2022.04.27-03.35.01:759][741]Cmd: MAP LOAD FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Maps/Area1_Map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.27-03.35.01:759][741]LightingResults: New page: Lighting Build
+[2022.04.27-03.35.01:762][741]LoadErrors: New page: Loading map: Area1_Map1.umap
+[2022.04.27-03.35.01:765][741]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperTileMapComponent /Game/Maps/Tutorial_Map0.Tutorial_Map0:PersistentLevel.test_2.RenderComponent)
+[2022.04.27-03.35.01:768][741]LogWorld: UWorld::CleanupWorld for Tutorial_Map0, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.35.01:768][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.35.01:769][741]MapCheck: New page: Map Check
+[2022.04.27-03.35.01:769][741]LightingResults: New page: Lighting Build
+[2022.04.27-03.35.01:792][741]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.27-03.35.01:825][741]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.04.27-03.35.01:839][741]LogAudio: Display: Audio Device (ID: 1) registered with world 'Area1_Map1'.
+[2022.04.27-03.35.01:973][741]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.27-03.35.01:973][741]LogAIModule: Creating AISystem for world Area1_Map1
+[2022.04.27-03.35.02:003][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.04.27-03.35.02:027][741]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.27-03.35.02:027][741]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.166ms to complete.
+[2022.04.27-03.35.02:027][741]LogFileHelpers: Loading map 'Area1_Map1' took 0.269
+[2022.04.27-03.35.02:062][741]AssetCheck: New page: Asset Save: Area_1_Map1
+[2022.04.27-03.35.02:062][741]LogContentValidation: Display: Validating PaperTileMap /Game/Assets/2D_Assets/Area_1_Map1.Area_1_Map1
+[2022.04.27-03.35.09:453][182]LogEditorViewport: Clicking on Actor (LMB): Area1_Map1_Blueprint_BG_C (Area1_Map1)
+[2022.04.27-03.35.14:360][465]LogEditorViewport: Clicking on Actor (LMB): Area1_Map1_Blueprint_BG_C (Area1_Map1)
+[2022.04.27-03.35.15:049][506]LogEditorViewport: Clicking Background
+[2022.04.27-03.35.15:702][545]LogEditorViewport: Clicking on Actor (LMB): Area1_Map1_Blueprint_BG_C (Area1_Map1)
+[2022.04.27-03.35.21:035][861]Cmd: DELETE
+[2022.04.27-03.35.21:036][861]Cmd: ACTOR DELETE
+[2022.04.27-03.35.21:062][861]LogEditorActor: Deleted Actor: Area1_Map1_Blueprint_BG_C
+[2022.04.27-03.35.21:085][861]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.04.27-03.35.21:089][861]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.04.27-03.35.34:304][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/NewPaperTileMap" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/NewPaperTileMap.uasset" SILENT=true
+[2022.04.27-03.35.35:167][631]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/NewPaperTileMapFC73EF5C4208E56F3C367FA4D1C62090.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/NewPaperTileMap.uasset'
+[2022.04.27-03.35.35:193][631]AssetCheck: New page: Asset Save: NewPaperTileMap
+[2022.04.27-03.35.35:193][631]LogContentValidation: Display: Validating PaperTileMap /Game/Assets/2D_Assets/NewPaperTileMap.NewPaperTileMap
+[2022.04.27-03.35.39:326][877]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.35.39:326][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.35.40:945][969]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.35.40:945][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.35.40:970][969]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.35.40:971][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.35.57:750][968]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Filler_TileMap)
+[2022.04.27-03.36.22:321][344]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/2D_Assets/NewPaperTileMap1.NewPaperTileMap1
+[2022.04.27-03.36.25:951][552]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.36.25:951][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.36.35:654][ 68]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/2D_Assets/BackgroundDecorTileSet.BackgroundDecorTileSet
+[2022.04.27-03.36.37:754][184]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.36.37:754][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.36.51:903][955]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/2D_Assets/NewPaperTileMap.NewPaperTileMap
+[2022.04.27-03.36.57:385][260]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/2D_Assets/NewPaperTileMap1.NewPaperTileMap1
+[2022.04.27-03.37.19:654][383]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/2D_Assets/BackupOfOldStuff/Paper2DTileMap.Paper2DTileMap
+[2022.04.27-03.37.21:450][475]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.37.21:450][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.37.22:925][558]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.37.22:925][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.37.27:594][833]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.37.27:594][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.45.10:699][437]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-03.45.10:767][437]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.04.27-03.45.12:016][437]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-03.45.12:116][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Area1_Map1" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Maps/Area1_Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.27-03.45.12:134][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.04.27-03.45.12:199][437]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Area1_Map1C6DDAF6B4AD020B1FCD5AFA198C974C3.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Maps/Area1_Map1.umap'
+[2022.04.27-03.45.12:225][437]LogFileHelpers: Saving map 'Area1_Map1' took 0.110
+[2022.04.27-03.45.12:225][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/Area_1_Map1" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/Area_1_Map1.uasset" SILENT=true
+[2022.04.27-03.45.14:633][437]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Area_1_Map13288582145E2550AA08AE5B3E806D920.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/Area_1_Map1.uasset'
+[2022.04.27-03.45.14:688][438]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-03.45.14:688][438]LogContentValidation: Display: Validating World /Game/Maps/Area1_Map1.Area1_Map1
+[2022.04.27-03.45.14:688][438]LogContentValidation: Display: Validating PaperTileMap /Game/Assets/2D_Assets/Area_1_Map1.Area_1_Map1
+[2022.04.27-03.48.32:408][812]Cmd: TRANSACTION UNDO
+[2022.04.27-03.48.32:408][812]LogEditorTransaction: Undo Tile Painting
+[2022.04.27-04.10.40:190][ 29]Cmd: TRANSACTION UNDO
+[2022.04.27-04.10.40:190][ 29]LogEditorTransaction: Undo Tile Painting
+[2022.04.27-04.21.58:350][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/Area_1_Map1" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/Area_1_Map1.uasset" SILENT=true
+[2022.04.27-04.22.01:165][580]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Area_1_Map1210E9B164CA2FA77ED80AE8DDFF1870A.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/Area_1_Map1.uasset'
+[2022.04.27-04.22.01:219][580]AssetCheck: New page: Asset Save: Area_1_Map1
+[2022.04.27-04.22.01:219][580]LogContentValidation: Display: Validating PaperTileMap /Game/Assets/2D_Assets/Area_1_Map1.Area_1_Map1
+[2022.04.27-04.22.51:065][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/Area_1_Map1" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/Area_1_Map1.uasset" SILENT=true
+[2022.04.27-04.22.54:367][504]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Area_1_Map12F121D4A42D5E50976724E90FA134BC9.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/Area_1_Map1.uasset'
+[2022.04.27-04.22.54:393][504]AssetCheck: New page: Asset Save: Area_1_Map1
+[2022.04.27-04.22.54:393][504]LogContentValidation: Display: Validating PaperTileMap /Game/Assets/2D_Assets/Area_1_Map1.Area_1_Map1
+[2022.04.27-04.23.09:249][303]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/2D_Assets/NewPaperTileMap.NewPaperTileMap
+[2022.04.27-04.23.22:625][ 66]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-04.23.35:529][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/Area_1_Map1" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/Area_1_Map1.uasset" SILENT=true
+[2022.04.27-04.23.38:808][830]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Area_1_Map14885BA814264AC07EC622094DA6095DF.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/Area_1_Map1.uasset'
+[2022.04.27-04.23.38:836][830]AssetCheck: New page: Asset Save: Area_1_Map1
+[2022.04.27-04.23.38:836][830]LogContentValidation: Display: Validating PaperTileMap /Game/Assets/2D_Assets/Area_1_Map1.Area_1_Map1
+[2022.04.27-04.23.46:347][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/NewPaperTileMap" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/NewPaperTileMap.uasset" SILENT=true
+[2022.04.27-04.23.47:221][265]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/NewPaperTileMapDD1561564375EECF8E5B64805F189461.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/NewPaperTileMap.uasset'
+[2022.04.27-04.23.47:251][265]AssetCheck: New page: Asset Save: NewPaperTileMap
+[2022.04.27-04.23.47:252][265]LogContentValidation: Display: Validating PaperTileMap /Game/Assets/2D_Assets/NewPaperTileMap.NewPaperTileMap
+[2022.04.27-04.23.47:834][298]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-04.23.47:834][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-04.23.49:775][411]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-04.23.49:775][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-04.24.02:297][133]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/Main_Menu_Widget.Main_Menu_Widget
+[2022.04.27-04.24.09:729][532]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/Credits_Widget.Credits_Widget
+[2022.04.27-04.24.28:481][594]BlueprintLog: New page: Compile Credits_Widget
+[2022.04.27-04.24.28:560][594]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2022.04.27-04.24.29:162][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Credits_Widget" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/MainMenu/Credits_Widget.uasset" SILENT=true
+[2022.04.27-04.24.29:196][618]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Credits_Widget6C20810042716D689400B7BC16F9F6E6.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/MainMenu/Credits_Widget.uasset'
+[2022.04.27-04.24.29:212][618]AssetCheck: New page: Asset Save: Credits_Widget
+[2022.04.27-04.24.29:212][618]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/Credits_Widget.Credits_Widget
+[2022.04.27-04.24.39:345][208]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-04.24.39:345][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-04.24.39:357][208]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-04.24.39:357][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-04.24.41:262][309]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/Controls_Main_Menu_Widget.Controls_Main_Menu_Widget
+[2022.04.27-04.25.44:538][979]BlueprintLog: New page: Compile Controls_Main_Menu_Widget
+[2022.04.27-04.25.44:569][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.04.27-04.25.45:163][  3]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Controls_Main_Menu_Widget9794324A41194FF5C63E319789F1933B.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/MainMenu/Controls_Main_Menu_Widget.uasset'
+[2022.04.27-04.25.45:182][  3]AssetCheck: New page: Asset Save: Controls_Main_Menu_Widget
+[2022.04.27-04.25.45:182][  3]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/Controls_Main_Menu_Widget.Controls_Main_Menu_Widget
+[2022.04.27-04.26.34:152][389]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/QuestSystem/QuestUI/HUD_UI.HUD_UI
+[2022.04.27-04.27.06:288][134]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/QuestSystem/QuestUI/InteractUI.InteractUI
+[2022.04.27-04.33.19:284][696]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\aschooley\Desktop\PressXToInteract.png)
+[2022.04.27-04.33.19:340][696]LogTexture: Display: Building textures: PressXToInteract (BGRA8, 3066X657)
+[2022.04.27-04.34.50:120][993]BlueprintLog: New page: Compile InteractUI
+[2022.04.27-04.34.50:164][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.04.27-04.34.51:201][ 50]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-04.34.51:252][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.04.27-04.34.53:015][ 50]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-04.34.53:106][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/InteractUI" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/InteractUI.uasset" SILENT=true
+[2022.04.27-04.34.53:129][ 50]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/InteractUIC8A97A6B4C035AC9C4FDA09152D4344E.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/InteractUI.uasset'
+[2022.04.27-04.34.53:135][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/2D_Assets/PressXToInteract" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/PressXToInteract.uasset" SILENT=true
+[2022.04.27-04.34.53:183][ 50]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/PressXToInteractBC763669417855523536799B43396016.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Assets/2D_Assets/PressXToInteract.uasset'
+[2022.04.27-04.34.54:642][ 51]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-04.34.54:642][ 51]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/InteractUI.InteractUI
+[2022.04.27-04.34.54:643][ 51]LogContentValidation: Display: Validating Texture2D /Game/Assets/2D_Assets/PressXToInteract.PressXToInteract
+[2022.04.27-04.35.44:816][894]BlueprintLog: New page: Compile InteractUI
+[2022.04.27-04.35.44:865][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.04.27-04.35.45:900][952]LogTemp: Repeating last play command: Standalone Game
+[2022.04.27-04.35.45:944][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.04.27-04.35.47:277][952]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-04.35.47:370][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/InteractUI" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/InteractUI.uasset" SILENT=true
+[2022.04.27-04.35.47:389][952]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/InteractUI7EF40F2942E58BAAE438239347783A18.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/InteractUI.uasset'
+[2022.04.27-04.35.47:416][953]AssetCheck: New page: Asset Save: InteractUI
+[2022.04.27-04.35.47:416][953]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/InteractUI.InteractUI
+[2022.04.27-04.39.04:447][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/QuestSystem/QuestUI/InteractUI" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/InteractUI.uasset" SILENT=true
+[2022.04.27-04.39.04:458][822]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/InteractUI5860B85746EC26101B1551ADBA529DAC.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/QuestSystem/QuestUI/InteractUI.uasset'
+[2022.04.27-04.39.04:474][822]AssetCheck: New page: Asset Save: InteractUI
+[2022.04.27-04.39.04:474][822]LogContentValidation: Display: Validating WidgetBlueprint /Game/QuestSystem/QuestUI/InteractUI.InteractUI
+[2022.04.27-04.39.05:204][863]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-04.39.05:204][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-04.39.05:215][863]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-04.39.05:215][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-04.39.06:850][958]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-04.39.06:850][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-04.39.06:875][958]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-04.39.06:876][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-04.39.08:645][ 52]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Controls_Main_Menu_Widget0BEFE3D641DA633ECC7AA28072F39246.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/MainMenu/Controls_Main_Menu_Widget.uasset'
+[2022.04.27-04.39.08:659][ 52]AssetCheck: New page: Asset Save: Controls_Main_Menu_Widget
+[2022.04.27-04.39.08:659][ 52]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/Controls_Main_Menu_Widget.Controls_Main_Menu_Widget
+[2022.04.27-04.39.09:552][100]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-04.39.09:552][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-04.39.09:571][100]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-04.39.09:571][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-04.39.11:562][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Main_Menu_Widget" FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/MainMenu/Main_Menu_Widget.uasset" SILENT=true
+[2022.04.27-04.39.11:593][207]LogSavePackage: Moving '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Saved/Main_Menu_WidgetDF1EE2C84ED564D27A37A4BBC90B6509.tmp' to '../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/MainMenu/Main_Menu_Widget.uasset'
+[2022.04.27-04.39.11:607][207]AssetCheck: New page: Asset Save: Main_Menu_Widget
+[2022.04.27-04.39.11:607][207]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/Main_Menu_Widget.Main_Menu_Widget
+[2022.04.27-04.39.14:437][374]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-04.39.14:437][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-04.39.14:448][374]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-04.39.14:448][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-04.39.19:592][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.04.27-04.39.19:701][662]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Main_menu_Map.Main_menu_Map
+[2022.04.27-04.39.19:701][662]Cmd: MAP LOAD FILE="../../../../../../Users/aschooley/Documents/GitHub/IGS-2022/Antz/Content/Maps/Main_menu_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.27-04.39.19:701][662]LightingResults: New page: Lighting Build
+[2022.04.27-04.39.19:725][662]LoadErrors: New page: Loading map: Main_menu_Map.umap
+[2022.04.27-04.39.19:731][662]LogWorld: UWorld::CleanupWorld for Area1_Map1, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-04.39.19:731][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-04.39.19:731][662]MapCheck: New page: Map Check
+[2022.04.27-04.39.19:731][662]LightingResults: New page: Lighting Build
+[2022.04.27-04.39.19:748][662]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.27-04.39.19:771][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.04.27-04.39.19:796][662]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_menu_Map'.
+[2022.04.27-04.39.19:897][662]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.27-04.39.19:897][662]LogAIModule: Creating AISystem for world Main_menu_Map
+[2022.04.27-04.39.19:918][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.04.27-04.39.19:938][662]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.27-04.39.19:938][662]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.13ms to complete.
+[2022.04.27-04.39.19:938][662]LogFileHelpers: Loading map 'Main_menu_Map' took 0.237
+[2022.04.27-04.39.22:548][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
