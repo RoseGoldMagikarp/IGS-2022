@@ -220,12 +220,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B62C6666139A3872CDCE231F5F5AA833A65C5BEE",
-			"Assets": [
-				"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "84E77B16DB6849A87F7F4730D1BD9FAFFE41D989",
 			"Assets": [
 				"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset"
@@ -238,20 +232,22 @@
 			]
 		},
 		{
-			"ShaderMapHash": "62E4BDFC5A9EA0213436306B87B8BC6C4C14F371",
+			"ShaderMapHash": "E932F11163617C99E4A55994787FFB8E85240FC0",
 			"Assets": [
-				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/ItemThumbnails/bread_Mat.uasset"
+				"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
+			"ShaderMapHash": "C37AF2CEB23C3E24007DEB558639772883C76B3C",
 			"Assets": [
-				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/MTileSand.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "0389CAD32BB562A2A67F1858DDEAB4BCE6DD4674",
 			"Assets": [
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/MElderAnt.uasset",
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MBackground_TEMP.uasset",
 				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MRock_5.uasset",
 				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MRock_4.uasset",
 				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MRock_3.uasset",
@@ -268,9 +264,7 @@
 				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MGrass_4.uasset",
 				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MGrass_3.uasset",
 				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MGrass_2.uasset",
-				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MGrass_1.uasset",
-				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/MElderAnt.uasset",
-				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MBackground_TEMP.uasset"
+				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/2DMaterials/MGrass_1.uasset"
 			]
 		},
 		{
@@ -281,27 +275,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C37AF2CEB23C3E24007DEB558639772883C76B3C",
+			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
 			"Assets": [
-				"../../../../../../Users/mhartman/Desktop/LTU/IGS/IGS-2022/Antz/Content/Assets/2D_Assets/MTileSand.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "E932F11163617C99E4A55994787FFB8E85240FC0",
-			"Assets": [
-				"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "999008E0C4AEB0422FCFD92E32173E0568B45291",
-			"Assets": [
-				"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "73C4DA428C271266E7A4993DF7D7600975963E22",
-			"Assets": [
-				"../../../Engine/Content/EditorMaterials/CheckMaterial.uasset"
+				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
 			]
 		},
 		{
