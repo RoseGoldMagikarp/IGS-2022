@@ -1,0 +1,1668 @@
+﻿Log file open, 05/08/22 16:44:08
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Antz
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.303104
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: NVIDIA Quadro P2000
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  /Game/Maps/Main_menu_Map -game -PIEVIACONSOLE -Multiprocess "GameUserSettingsINI=D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/PIEGameUserSettings0.ini" -MultiprocessSaveConfig -MultiprocessOSS -messaging -SessionName="Play in Standalone Game" -windowed -WinX=0 -WinY=0 SAVEWINPOS=1 -ResX=1920 -ResY=1080
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Engine.ini]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2022.05.08-20.44.08:944][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Engine.ini]
+[2022.05.08-20.44.08:945][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Engine.ini]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.05.08-20.44.08:945][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Engine.ini]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.05.08-20.44.08:946][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Engine.ini]
+[2022.05.08-20.44.08:946][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Engine.ini]
+[2022.05.08-20.44.08:953][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.08-20.44.08:953][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.08-20.44.08:954][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.08-20.44.08:954][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.05.08-20.44.08:954][  0]LogHAL: Display: Platform has ~ 16 GB [17018806272 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.08-20.44.08:954][  0]LogInit: Going up to parent DeviceProfile []
+[2022.05.08-20.44.08:954][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.08-20.44.08:954][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-20.44.08:954][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.08-20.44.08:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.08-20.44.08:956][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.08-20.44.08:956][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.08-20.44.08:956][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.08-20.44.08:956][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.08-20.44.08:956][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.08-20.44.08:956][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.08-20.44.08:956][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.08-20.44.08:956][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.08-20.44.08:956][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.08-20.44.08:956][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.08-20.44.08:956][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-20.44.08:956][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.08-20.44.08:956][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.08-20.44.08:956][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-20.44.08:956][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.08-20.44.08:956][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.08-20.44.08:956][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.08-20.44.08:956][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.08-20.44.08:956][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.05.08-20.44.08:956][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.05.08-20.44.08:956][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.05.08-20.44.08:956][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Engine.ini]
+[2022.05.08-20.44.08:956][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/Ants/IGS-2022/Antz/Saved/Config/Windows/Editor.ini]
+[2022.05.08-20.44.08:956][  0]LogInit: Computer: 5CD911CWQV
+[2022.05.08-20.44.08:956][  0]LogInit: User: labbasspo
+[2022.05.08-20.44.08:956][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.05.08-20.44.08:956][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.08-20.44.08:956][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.05.08-20.44.08:956][  0]LogMemory: Platform Memory Stats for Windows
+[2022.05.08-20.44.08:956][  0]LogMemory: Process Physical Memory: 140.20 MB used, 140.21 MB peak
+[2022.05.08-20.44.08:956][  0]LogMemory: Process Virtual Memory: 112.54 MB used, 112.54 MB peak
+[2022.05.08-20.44.08:956][  0]LogMemory: Physical Memory: 7736.32 MB used,  8494.07 MB free, 16230.40 MB total
+[2022.05.08-20.44.08:956][  0]LogMemory: Virtual Memory: 134203376.00 MB used,  14355.81 MB free, 134217728.00 MB total
+[2022.05.08-20.44.08:963][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.08-20.44.08:998][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.05.08-20.44.08:999][  0]LogInit: Using OS detected language (en-US).
+[2022.05.08-20.44.08:999][  0]LogInit: Using OS detected locale (en-US).
+[2022.05.08-20.44.09:004][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.05.08-20.44.09:236][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.08-20.44.09:253][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.08-20.44.09:253][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.08-20.44.09:270][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.08-20.44.09:270][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.05.08-20.44.09:270][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.05.08-20.44.09:270][  0]LogD3D11RHI: D3D11 adapters:
+[2022.05.08-20.44.09:364][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P2000' (Feature Level 11_0)
+[2022.05.08-20.44.09:364][  0]LogD3D11RHI:       4018/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.05.08-20.44.09:367][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.05.08-20.44.09:367][  0]LogD3D11RHI:       0/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.05.08-20.44.09:367][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.05.08-20.44.09:378][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.05.08-20.44.09:378][  0]LogD3D11RHI:     GPU DeviceId: 0x1cba (for the marketing name, search the web for "GPU Device Id")
+[2022.05.08-20.44.09:378][  0]LogWindows: EnumDisplayDevices:
+[2022.05.08-20.44.09:378][  0]LogWindows:    0. 'NVIDIA Quadro P2000' (P:1 D:1)
+[2022.05.08-20.44.09:378][  0]LogWindows:    1. 'NVIDIA Quadro P2000' (P:0 D:0)
+[2022.05.08-20.44.09:379][  0]LogWindows:    2. 'NVIDIA Quadro P2000' (P:0 D:0)
+[2022.05.08-20.44.09:379][  0]LogWindows:    3. 'NVIDIA Quadro P2000' (P:0 D:0)
+[2022.05.08-20.44.09:380][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.05.08-20.44.09:380][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P2000
+[2022.05.08-20.44.09:380][  0]LogD3D11RHI:   Driver Version: 452.96 (internal:27.21.14.5296, unified:452.96)
+[2022.05.08-20.44.09:380][  0]LogD3D11RHI:      Driver Date: 4-5-2021
+[2022.05.08-20.44.09:380][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2022.05.08-20.44.09:462][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.05.08-20.44.09:462][  0]LogD3D11RHI: Async texture creation enabled
+[2022.05.08-20.44.09:462][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.05.08-20.44.09:478][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.05.08-20.44.09:480][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.05.08-20.44.09:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.05.08-20.44.09:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.08-20.44.09:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.08-20.44.09:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.08-20.44.09:902][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.05.08-20.44.09:912][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.08-20.44.09:987][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.08-20.44.09:987][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (D:/Unreal Projects/Ants/IGS-2022/Antz/Intermediate/Shaders/WorkingDirectory/21332/).
+[2022.05.08-20.44.09:987][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/labbasspo/AppData/Local/Temp/UnrealShaderWorkingDir/9E8E6CF54BBBD2706F0369A03F07508F/'.
+[2022.05.08-20.44.09:987][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.05.08-20.44.09:987][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.05.08-20.44.10:788][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.05.08-20.44.10:845][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/labbasspo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.05.08-20.44.10:845][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/labbasspo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.05.08-20.44.10:845][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal Projects/Ants/IGS-2022/Antz/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.08-20.44.10:845][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.05.08-20.44.10:845][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal Projects/Ants/IGS-2022/Antz/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.08-20.44.10:845][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.05.08-20.44.10:856][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.05.08-20.44.10:856][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.08-20.44.10:856][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.05.08-20.44.10:882][  0]LogDerivedDataCache: Speed tests for C:/Users/labbasspo/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2022.05.08-20.44.10:882][  0]LogDerivedDataCache: Display: Performance to C:/Users/labbasspo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=675.01MBs, RandomWriteSpeed=39.77MBs. Assigned SpeedClass 'Local'
+[2022.05.08-20.44.10:883][  0]LogDerivedDataCache: Using Local data cache path C:/Users/labbasspo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.08-20.44.10:883][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.08-20.44.10:883][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.05.08-20.44.10:916][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.08-20.44.10:917][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.08-20.44.11:010][  0]LogInit: Using OS detected language (en-US).
+[2022.05.08-20.44.11:010][  0]LogInit: Using OS detected locale (en-US).
+[2022.05.08-20.44.11:010][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.05.08-20.44.11:010][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2022.05.08-20.44.11:010][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.05.08-20.44.11:010][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.05.08-20.44.11:011][  0]LogTextLocalizationManager: Compacting localization data took   0.01ms
+[2022.05.08-20.44.11:014][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2022.05.08-20.44.11:188][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.001014 seconds
+[2022.05.08-20.44.11:248][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.08-20.44.11:248][  0]LogInit: Active device profile: [0000021AAEAFDF00][0000021AA57BB4C0 49] Windows
+[2022.05.08-20.44.11:248][  0]LogInit: Profiles: [0000021AAEAFDF00][0000021AA57BB4C0 49] Windows, [0000021AAEAEE300][0000021AA57C3640 49] WindowsNoEditor, [0000021AAEAFFA00][0000021AA57C77C0 49] WindowsServer, [0000021AAEAEC800][0000021AA57CB940 49] WindowsClient, [0000021AAEAFC900][0000021AA6EE5AC0 49] IOS, [0000021AAEAEF200][0000021AA6EE9C40 49] iPadAir, [0000021AAEAFD600][0000021AA6EEC100 49] iPadAir2, [0000021AAEA9F600][0000021AA6EF43C0 49] IPadPro, [0000021AAEA9F700][0000021AA6EF0400 49] iPadAir3, [0000021AAEAFD300][0000021AA6EF8580 49] iPadAir4, [0000021AAEA9F800][0000021AA6EFC700 49] iPadMini2, [0000021AAEAFE300][0000021AA6C50880 49] iPadMini3, [0000021AAEA9E500][0000021AA6C54A00 49] iPadMini4, [0000021AAEAFFD00][0000021AA6C58B80 49] iPadMini5, [0000021AAEAB2E00][0000021AA6C60E40 49] iPhone6, [0000021AAEAB2F00][0000021AA6C5CE80 49] iPodTouch6, [0000021AAEA9FF00][0000021AA57BF100 49] iPhone7, [0000021AAEA9F500][0000021AA6C65140 49] iPodTouch7, [0000021AAEAB2700][0000021AA6C69280 49] iPhone5S, [0000021AAEA9F400][0000021AA6C6D3C0 49] iPhone6Plus, [0000021AAEAB3E00][0000021AA6C71500 49] iPhone6S, [0000021AAEA9D000][0000021AA6C79680 49] iPhone6SPlus, [0000021AAEAB2900][0000021AA6C7D800 49] iPhone7Plus, [0000021AAEA9E800][0000021AA6C81980 49] iPhoneSE, [0000021AAEAB2800][0000021AA6C85B00 49] iPhone8, [0000021AAEA9D400][0000021AA6C89C80 49] iPhone8Plus, [0000021AAEAB1F00][0000021AA6C8C140 49] iPhoneX, [0000021AAEA9DB00][0000021AA6C902C0 49] iPhoneXS, [0000021AAEAB0600][0000021AA6C94440 49] iPhoneXSMax, [0000021AAEA9C200][0000021AA6C985C0 49] iPhoneXR, [0000021AAEAB3400][0000021AA6C9C740 49] iPhone11, [0000021AAEA9F300][0000021AA6CA08C0 49] iPhone11Pro, [0000021AAEAB0700][0000021AA6CA4A40 49] iPhone11ProMax, [0000021AAEA9C800][0000021AA6CA8BC0 49] iPhoneSE2, [0000021AAEAB1C00][0000021AA6CACD40 49] iPhone12Mini, [0000021AAEA9DD00][0000021AA6CB0EC0 49] iPhone12, [0000021AAEAB1600][0000021AA6CB5040 49] iPhone12Pro, [0000021AAEA9F100][0000021AA6CB91C0 49] iPhone12ProMax, [0000021AAEAB2400][0000021AA6C75300 49] iPadPro105, [0000021AAEA9FB00][0000021AA6CBD440 49] iPadPro129, [0000021AAEAB3C00][0000021AA6CC1580 49] iPadPro97, [0000021AAEA9D900][0000021AA6CC9700 49] iPadPro2_129, [0000021AAEAED300][0000021AA6CCD880 49] iPad5, [0000021AAEAB3700][0000021AA6CD1A00 49] iPad6, [0000021AAEAEDE00][0000021AA6CD5B80 49] iPad7, [0000021AAEAB0B00][0000021AA6CD9D00 49] iPad8, [0000021AAEAED000][0000021AA6CDC1C0 49] iPadPro11, [0000021AAEAB3800][0000021AA6CE0340 49] iPadPro2_11, [0000021AAEAEFF00][0000021AA6CE44C0 49] iPadPro3_129, [0000021AAEAB2300][0000021AA6CE8640 49] iPadPro4_129, [0000021AAEAEDF00][0000021AA6CEC7C0 49] AppleTV, [0000021AAEAB1E00][0000021AA6CF0940 49] AppleTV4K, [0000021AAEAEC600][0000021AA6CF4AC0 49] TVOS, [0000021AAEAB0C00][0000021AA6CF8C40 49] Mac, [0000021AAEA9CD00][0000021AA6CFCDC0 49] MacClient, [0000021AAEAEF500][0000021AA6D00F40 49] MacNoEditor, [0000021AAEA9E600][0000021AA6D050C0 49] MacServer, [0000021AAEAB0500][0000021AA6D09240 49] Linux, [0000021AAEA9D200][0000021AA6CC5380 49] LinuxAArch64, [0000021AAEAB2200][0000021AA6D0D4C0 49] LinuxNoEditor, [0000021AAEA9D500][0000021AA6D11600 49] LinuxAArch64NoEditor, [0000021AAEAB2A00][0000021AA6D19780 49] LinuxClient, [0000021AAEA9F200][0000021AA6D1D900 49] LinuxAArch64Client, [0000021AAEAB1D00][0000021AA6D21A80 49] LinuxServer, [0000021AAEA9E200][0000021AA6D25C00 49] LinuxAArch64Server, [0000021AAEAB0400][0000021AA6D280C0 49] Android, [0000021AAEA9DE00][0000021AA6D2C240 49] Android_Low, [0000021AAEAB1000][0000021AA6D303C0 49] Android_Mid, [0000021AAEA9D100][0000021AA6D34540 49] Android_High, [0000021AAEAB1100][0000021AA6D386C0 49] Android_Default, [0000021AAEA9C700][0000021AA6D3C840 49] Android_Adreno4xx, [0000021AAEAB3300][0000021AA6D409C0 49] Android_Adreno5xx_Low, [0000021AAEA9C900][0000021AA6D44B40 49] Android_Adreno5xx, [0000021AAEAB3A00][0000021AA6D48CC0 49] Android_Adreno6xx, [0000021AAEA9D300][0000021AA6D4CE40 49] Android_Adreno6xx_Vulkan, [0000021AAEAB0D00][0000021AA6D50FC0 49] Android_Mali_T6xx, [0000021AAEA9E400][0000021AA6D55140 49] Android_Mali_T7xx, [0000021AAEAB3600][0000021AA6D592C0 49] Android_Mali_T8xx, [0000021AAEA9CC00][0000021AA6D15400 49] Android_Mali_G71, [0000021AAEAB1A00][0000021AA6D5D540 49] Android_Mali_G72, [0000021AAEA9F900][0000021AA6D61680 49] Android_Mali_G72_Vulkan, [0000021AAEAB1200][0000021AA6D657C0 49] Android_Mali_G76, [0000021AAEA9C300][0000021AA6D6D940 49] Android_Mali_G76_Vulkan, [0000021AAEAB2000][0000021AA6D71AC0 49] Android_Mali_G77, [0000021AAEA9C100][0000021AA6D75C40 49] Android_Mali_G77_Vulkan, [0000021AAEAB0100][0000021AA6D78100 49] Android_Vulkan_SM5, [0000021AAEA9DF00][0000021AA6D7C280 49] Android_PowerVR_G6xxx, [0000021AAEAB1B00][0000021AA6D80400 49] Android_PowerVR_GT7xxx, [0000021AAEA9CB00][0000021AA6D84580 49] Android_PowerVR_GE8xxx, [0000021AAEAB2D00][0000021AA6D88700 49] Android_PowerVR_GM9xxx, [0000021AAEA9FD00][0000021AA6D8C880 49] Android_PowerVR_GM9xxx_Vulkan, [0000021AAEAB2100][0000021AA6922A00 49] Android_TegraK1, [0000021AAEA9E900][0000021AA6926B80 49] Android_Unknown_Vulkan, [0000021AAEAB0E00][0000021AA692AD00 49] Lumin, [0000021AAEA9E700][0000021AA692EE80 49] Lumin_Desktop, [0000021AAEAB0800][0000021AA6933000 49] HoloLens, 
+[2022.05.08-20.44.11:357][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.08-20.44.11:357][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.08-20.44.11:357][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.08-20.44.11:357][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.08-20.44.11:357][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.08-20.44.11:375][  0]LogNetVersion: Antz 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3621329341)
+[2022.05.08-20.44.11:650][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.05.08-20.44.11:801][  0]LogMoviePlayer: Initializing movie player
+[2022.05.08-20.44.11:929][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.08-20.44.11:934][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.08-20.44.12:189][  0]SourceControl: Source control is disabled
+[2022.05.08-20.44.12:189][  0]SourceControl: Source control is disabled
+[2022.05.08-20.44.12:192][  0]SourceControl: Source control is disabled
+[2022.05.08-20.44.12:203][  0]LogUProjectInfo: Found projects:
+[2022.05.08-20.44.12:218][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.08-20.44.12:240][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.08-20.44.12:240][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.08-20.44.12:288][  0]LogOcInput: OculusInput pre-init called
+[2022.05.08-20.44.12:294][  0]LogUObjectArray: 20224 objects as part of root set at end of initial load.
+[2022.05.08-20.44.12:294][  0]LogUObjectAllocator: 5386176 out of 0 bytes used by permanent object pool.
+[2022.05.08-20.44.12:294][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.08-20.44.12:336][  0]LogEngine: Initializing Engine...
+[2022.05.08-20.44.12:337][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.08-20.44.12:337][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.05.08-20.44.12:339][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.08-20.44.12:427][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.08-20.44.12:427][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.08-20.44.12:432][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.08-20.44.12:432][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.08-20.44.12:432][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.08-20.44.12:432][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.08-20.44.12:432][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.08-20.44.12:432][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.08-20.44.12:432][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.08-20.44.12:432][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.08-20.44.12:432][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.08-20.44.12:432][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.08-20.44.12:433][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.08-20.44.12:433][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.08-20.44.12:453][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.08-20.44.12:453][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.05.08-20.44.12:483][  0]LogAudioMixer: Display: Using Audio Device Speakers (Conexant ISST Audio)
+[2022.05.08-20.44.12:486][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.08-20.44.12:488][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.08-20.44.12:488][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.08-20.44.12:490][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.08-20.44.12:490][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.08-20.44.12:490][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.08-20.44.12:491][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.08-20.44.12:491][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.08-20.44.12:491][  0]LogInit: FAudioDevice initialized.
+[2022.05.08-20.44.12:492][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.08-20.44.12:496][  0]LogInit: Texture streaming: Enabled
+[2022.05.08-20.44.12:572][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.08-20.44.12:573][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.08-20.44.12:573][  0]LogInit: Display: Game Engine Initialized.
+[2022.05.08-20.44.12:574][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2022.05.08-20.44.12:651][  0]LogInit: Display: Starting Game.
+[2022.05.08-20.44.12:651][  0]LogNet: Browse: /Game/Maps/Main_menu_Map?Name=Player
+[2022.05.08-20.44.12:651][  0]LogLoad: LoadMap: /Game/Maps/Main_menu_Map?Name=Player
+[2022.05.08-20.44.12:651][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.05.08-20.44.12:653][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-20.44.12:654][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-20.44.12:661][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.08-20.44.12:662][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.05.08-20.44.12:759][  0]LogUObjectGlobals: Warning: Failed to load '/Game/Maps/Main_menu_Map_BuiltData': Can't find file.
+[2022.05.08-20.44.12:903][  0]LogUObjectGlobals: Warning: [AssetLog] D:\Unreal Projects\Ants\IGS-2022\Antz\Content\Maps\Main_menu_Map.umap: Failed to load '/Game/Maps/Main_menu_Map_BuiltData': Can't find file.
+[2022.05.08-20.44.12:997][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_menu_Map'.
+[2022.05.08-20.44.13:005][  0]LogAIModule: Creating AISystem for world Main_menu_Map
+[2022.05.08-20.44.13:005][  0]LogLoad: Game class is 'BP_Main_Menu_GameMode_C'
+[2022.05.08-20.44.13:007][  0]LogWorld: Bringing World /Game/Maps/Main_menu_Map.Main_menu_Map up for play (max tick rate 0) at 2022.05.08-16.44.13
+[2022.05.08-20.44.13:008][  0]LogWorld: Bringing up level for play took: 0.000772
+[2022.05.08-20.44.13:008][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.05.08-20.44.13:020][  0]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-20.44.13:020][  0]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.05.08-20.44.13:020][  0]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.05.08-20.44.13:021][  0]LogLoad: Took 0.369997 seconds to LoadMap(/Game/Maps/Main_menu_Map)
+[2022.05.08-20.44.13:085][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2022.05.08-20.44.13:085][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.08-20.44.13:085][  0]LogLoad: (Engine Initialization) Total time: 5.66 seconds
+[2022.05.08-20.44.13:085][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.08-20.44.13:085][  0]LogInit: First time updating LLM stats...
+[2022.05.08-20.44.13:091][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.08-20.44.13:095][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-20.44.15:057][224]LogPackageName: SearchForPackageOnDisk took   0.160s to resolve Tutorial_Map0.umap.
+[2022.05.08-20.44.15:057][224]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.05.08-20.44.15:057][224]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-20.44.15:213][224]LogPackageName: SearchForPackageOnDisk took   0.156s to resolve Tutorial_Map0.umap.
+[2022.05.08-20.44.15:213][224]LogNet: Browse: /Game/Maps/Tutorial_Map0
+[2022.05.08-20.44.15:213][224]LogLoad: LoadMap: /Game/Maps/Tutorial_Map0
+[2022.05.08-20.44.15:213][224]LogWorld: BeginTearingDown for /Game/Maps/Main_menu_Map
+[2022.05.08-20.44.15:214][224]LogWorld: UWorld::CleanupWorld for Main_menu_Map, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-20.44.15:214][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-20.44.15:259][224]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.08-20.44.15:273][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.05.08-20.44.16:039][224]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial_Map0'.
+[2022.05.08-20.44.16:040][224]LogAIModule: Creating AISystem for world Tutorial_Map0
+[2022.05.08-20.44.16:042][224]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.05.08-20.44.16:088][224]LogWorld: Bringing World /Game/Maps/Tutorial_Map0.Tutorial_Map0 up for play (max tick rate 0) at 2022.05.08-16.44.16
+[2022.05.08-20.44.16:088][224]LogWorld: Bringing up level for play took: 0.045142
+[2022.05.08-20.44.16:096][224]LogLoad: Took 0.882195 seconds to LoadMap(/Game/Maps/Tutorial_Map0)
+[2022.05.08-20.44.24:654][ 93]LogBlueprintUserMessages: [BP_PlayerBase_C_0] 1
+[2022.05.08-20.44.24:655][ 93]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-20.44.24:655][ 93]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-20.44.24:655][ 93]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-20.44.24:655][ 93]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-20.44.24:655][ 93]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.05.08-20.44.24:656][ 93]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.08-20.44.47:550][483]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.05.08-20.44.47:550][483]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-20.45.15:201][429]LogBlueprintUserMessages: [BP_PlayerBase_C_0] 1
+[2022.05.08-20.45.15:201][429]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-20.45.15:201][429]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-20.45.15:201][429]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-20.45.15:202][429]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-20.45.15:202][429]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.05.08-20.45.25:422][492]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.05.08-20.45.25:422][492]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-20.45.27:227][682]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-20.45.27:227][682]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-20.45.27:729][734]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.05.08-20.45.27:730][734]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-20.47.07:295][136]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	My_Violet_Locked_Door_V3A_Sprite_BP2_C /Game/Maps/Tutorial_Map0.Tutorial_Map0:PersistentLevel.My_Violet_Locked_Door_V3A_Sprite_BP2_2
+	Function /Game/Blueprints/Doors_Keys/My_Violet_Locked_Door_V3A_Sprite_BP2.My_Violet_Locked_Door_V3A_Sprite_BP2_C:ExecuteUbergraph_My_Violet_Locked_Door_V3A_Sprite_BP2:0324
+[2022.05.08-20.47.07:295][136]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Violet_Locked_Door_V3A_Sprite_BP2.My_Violet_Locked_Door_V3A_Sprite_BP2_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Violet_Locked_Door_V3A_Sprite_BP2.My_Violet_Locked_Door_V3A_Sprite_BP2_C:ExecuteUbergraph_My_Violet_Locked_Door_V3A_Sprite_BP2
+
+[2022.05.08-20.47.07:295][136]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	My_Violet_Locked_Door_V3A_Sprite_BP2_C /Game/Maps/Tutorial_Map0.Tutorial_Map0:PersistentLevel.My_Violet_Locked_Door_V3A_Sprite_BP2_2
+	Function /Game/Blueprints/Doors_Keys/My_Violet_Locked_Door_V3A_Sprite_BP2.My_Violet_Locked_Door_V3A_Sprite_BP2_C:ExecuteUbergraph_My_Violet_Locked_Door_V3A_Sprite_BP2:0348
+[2022.05.08-20.47.07:295][136]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Violet_Locked_Door_V3A_Sprite_BP2.My_Violet_Locked_Door_V3A_Sprite_BP2_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Violet_Locked_Door_V3A_Sprite_BP2.My_Violet_Locked_Door_V3A_Sprite_BP2_C:ExecuteUbergraph_My_Violet_Locked_Door_V3A_Sprite_BP2
+
+[2022.05.08-20.47.08:623][265]LogPackageName: SearchForPackageOnDisk took   0.158s to resolve Hub_Map.umap.
+[2022.05.08-20.47.08:787][266]LogPackageName: SearchForPackageOnDisk took   0.159s to resolve Hub_Map.umap.
+[2022.05.08-20.47.08:787][266]LogNet: Browse: /Game/Maps/Hub_Map
+[2022.05.08-20.47.08:787][266]LogLoad: LoadMap: /Game/Maps/Hub_Map
+[2022.05.08-20.47.08:787][266]LogWorld: BeginTearingDown for /Game/Maps/Tutorial_Map0
+[2022.05.08-20.47.08:788][266]LogWorld: UWorld::CleanupWorld for Tutorial_Map0, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-20.47.08:789][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-20.47.08:833][266]LogAudio: Display: Waited 43.170002 ms for audio thread.
+[2022.05.08-20.47.08:855][266]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.08-20.47.08:876][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.05.08-20.47.09:550][266]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hub_Map'.
+[2022.05.08-20.47.09:551][266]LogAIModule: Creating AISystem for world Hub_Map
+[2022.05.08-20.47.09:551][266]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.05.08-20.47.09:562][266]LogWorld: Bringing World /Game/Maps/Hub_Map.Hub_Map up for play (max tick rate 0) at 2022.05.08-16.47.09
+[2022.05.08-20.47.09:562][266]LogWorld: Bringing up level for play took: 0.009884
+[2022.05.08-20.47.09:569][266]LogLoad: Took 0.782157 seconds to LoadMap(/Game/Maps/Hub_Map)
+[2022.05.08-20.47.24:927][750]LogBlueprintUserMessages: [BP_PlayerBase_C_0] 1
+[2022.05.08-20.47.24:928][750]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-20.47.24:928][750]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-20.47.24:928][750]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-20.47.44:304][630]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.05.08-20.47.44:304][630]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-20.47.46:530][845]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-20.47.46:530][845]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-20.47.47:314][921]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.05.08-20.47.47:314][921]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-20.47.48:228][ 11]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-20.47.48:228][ 11]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-20.47.48:228][ 11]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.05.08-20.47.52:341][409]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.05.08-20.47.52:341][409]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-20.48.10:994][214]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	My_Yellow_Locked_Door_V3A_Sprite_BP1_C /Game/Maps/Hub_Map.Hub_Map:PersistentLevel.My_Yellow_Locked_Door_V3A_Sprite_BP2_5
+	Function /Game/Blueprints/Doors_Keys/My_Yellow_Locked_Door_V3A_Sprite_BP1.My_Yellow_Locked_Door_V3A_Sprite_BP1_C:ExecuteUbergraph_My_Yellow_Locked_Door_V3A_Sprite_BP1:0324
+[2022.05.08-20.48.10:994][214]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Yellow_Locked_Door_V3A_Sprite_BP1.My_Yellow_Locked_Door_V3A_Sprite_BP1_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Yellow_Locked_Door_V3A_Sprite_BP1.My_Yellow_Locked_Door_V3A_Sprite_BP1_C:ExecuteUbergraph_My_Yellow_Locked_Door_V3A_Sprite_BP1
+
+[2022.05.08-20.48.15:830][667]LogPackageName: SearchForPackageOnDisk took   0.161s to resolve Area1_Map1.umap.
+[2022.05.08-20.48.15:989][668]LogPackageName: SearchForPackageOnDisk took   0.157s to resolve Area1_Map1.umap.
+[2022.05.08-20.48.15:989][668]LogNet: Browse: /Game/Maps/Area1_Map1
+[2022.05.08-20.48.15:989][668]LogLoad: LoadMap: /Game/Maps/Area1_Map1
+[2022.05.08-20.48.15:989][668]LogWorld: BeginTearingDown for /Game/Maps/Hub_Map
+[2022.05.08-20.48.15:989][668]LogWorld: UWorld::CleanupWorld for Hub_Map, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-20.48.15:991][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-20.48.16:033][668]LogAudio: Display: Waited 40.732304 ms for audio thread.
+[2022.05.08-20.48.16:045][668]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.08-20.48.16:052][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.05.08-20.48.16:763][668]LogAudio: Display: Audio Device (ID: 1) registered with world 'Area1_Map1'.
+[2022.05.08-20.48.16:764][668]LogAIModule: Creating AISystem for world Area1_Map1
+[2022.05.08-20.48.16:764][668]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.05.08-20.48.16:779][668]LogWorld: Bringing World /Game/Maps/Area1_Map1.Area1_Map1 up for play (max tick rate 0) at 2022.05.08-16.48.16
+[2022.05.08-20.48.16:779][668]LogWorld: Bringing up level for play took: 0.013627
+[2022.05.08-20.48.16:785][668]LogLoad: Took 0.795955 seconds to LoadMap(/Game/Maps/Area1_Map1)
+[2022.05.08-20.48.25:345][596]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP_2
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0324
+[2022.05.08-20.48.25:345][596]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-20.48.31:482][288]LogBlueprintUserMessages: [BP_PlayerBase_C_0] 1
+[2022.05.08-20.48.31:482][288]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-20.48.31:482][288]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-20.48.31:482][288]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-20.48.31:483][288]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-20.48.31:483][288]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.05.08-20.48.34:636][645]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.05.08-20.48.34:636][645]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-20.48.42:539][542]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-20.48.42:539][542]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-20.48.43:181][616]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.05.08-20.48.43:181][616]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-20.48.43:786][686]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-20.48.43:786][686]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-20.48.43:786][686]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.05.08-20.48.45:591][893]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.05.08-20.48.45:591][893]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-20.57.03:264][803]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP2
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0324
+[2022.05.08-20.57.03:264][803]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-20.57.16:342][259]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP4
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0324
+[2022.05.08-20.57.16:342][259]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-20.57.29:747][731]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP5
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0324
+[2022.05.08-20.57.29:747][731]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-20.57.42:805][176]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-20.57.42:805][176]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-20.57.43:543][257]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.05.08-20.57.43:543][257]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-20.58.07:107][843]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP3
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0324
+[2022.05.08-20.58.07:107][843]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-20.58.10:377][201]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP3
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0324
+[2022.05.08-20.58.10:377][201]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-20.59.30:882][122]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP2
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0324
+[2022.05.08-20.59.30:882][122]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-20.59.30:882][122]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP2
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0348
+[2022.05.08-20.59.30:882][122]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-20.59.48:011][ 12]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP_2
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0324
+[2022.05.08-20.59.48:011][ 12]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-20.59.48:011][ 12]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP_2
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0348
+[2022.05.08-20.59.48:011][ 12]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-21.00.28:881][579]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP5
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0324
+[2022.05.08-21.00.28:881][579]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-21.00.28:881][579]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP5
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0348
+[2022.05.08-21.00.28:881][579]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-21.00.48:720][756]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.00.48:720][756]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.00.51:361][ 45]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.05.08-21.00.51:361][ 45]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.01.49:959][537]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.01.49:959][537]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.01.50:630][611]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.05.08-21.01.50:630][611]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.01.57:376][364]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP4
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0324
+[2022.05.08-21.01.57:376][364]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-21.01.57:376][364]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP4
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0348
+[2022.05.08-21.01.57:376][364]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-21.02.29:891][989]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.02.29:891][989]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.02.30:445][ 51]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.05.08-21.02.30:445][ 51]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.04.24:857][738]LogBlueprintUserMessages: [BP_PlayerBase_C_0] 1
+[2022.05.08-21.04.24:858][738]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-21.04.24:858][738]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.04.24:858][738]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.04.24:858][738]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-21.04.24:858][738]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.05.08-21.05.50:661][381]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.05.08-21.05.50:661][381]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.05.57:724][154]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP3
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0324
+[2022.05.08-21.05.57:724][154]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-21.05.57:724][154]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP3
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0348
+[2022.05.08-21.05.57:724][154]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-21.06.00:103][418]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.06.00:103][418]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.06.00:539][466]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.05.08-21.06.00:539][466]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.06.05:225][956]LogPackageName: SearchForPackageOnDisk took   0.238s to resolve Hub_Map.umap.
+[2022.05.08-21.06.05:463][957]LogPackageName: SearchForPackageOnDisk took   0.236s to resolve Hub_Map.umap.
+[2022.05.08-21.06.05:463][957]LogNet: Browse: /Game/Maps/Hub_Map
+[2022.05.08-21.06.05:463][957]LogLoad: LoadMap: /Game/Maps/Hub_Map
+[2022.05.08-21.06.05:463][957]LogWorld: BeginTearingDown for /Game/Maps/Area1_Map1
+[2022.05.08-21.06.05:464][957]LogWorld: UWorld::CleanupWorld for Area1_Map1, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-21.06.05:466][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-21.06.05:505][957]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.08-21.06.05:511][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.05.08-21.06.06:301][957]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hub_Map'.
+[2022.05.08-21.06.06:303][957]LogAIModule: Creating AISystem for world Hub_Map
+[2022.05.08-21.06.06:303][957]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.05.08-21.06.06:321][957]LogWorld: Bringing World /Game/Maps/Hub_Map.Hub_Map up for play (max tick rate 0) at 2022.05.08-17.06.06
+[2022.05.08-21.06.06:321][957]LogWorld: Bringing up level for play took: 0.016188
+[2022.05.08-21.06.06:331][957]LogLoad: Took 0.868018 seconds to LoadMap(/Game/Maps/Hub_Map)
+[2022.05.08-21.07.10:444][143]LogBlueprintUserMessages: [BP_PlayerBase_C_0] 1
+[2022.05.08-21.07.10:445][143]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-21.07.10:445][143]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.07.10:445][143]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.07.32:417][247]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.05.08-21.07.32:417][247]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.07.33:992][398]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.07.33:992][398]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.07.35:200][514]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.05.08-21.07.35:200][514]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.07.35:630][555]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.07.35:630][555]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.07.35:631][555]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.05.08-21.07.39:962][967]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.05.08-21.07.39:962][967]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.07.44:483][403]LogBlueprintUserMessages: [BP_PlayerBase_C_0] 1
+[2022.05.08-21.07.44:484][403]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-21.07.44:484][403]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.07.44:484][403]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.08.52:708][929]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.05.08-21.08.52:708][929]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.09.14:023][973]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	My_Yellow_Locked_Door_V3A_Sprite_BP1_C /Game/Maps/Hub_Map.Hub_Map:PersistentLevel.My_Yellow_Locked_Door_V3A_Sprite_BP2_5
+	Function /Game/Blueprints/Doors_Keys/My_Yellow_Locked_Door_V3A_Sprite_BP1.My_Yellow_Locked_Door_V3A_Sprite_BP1_C:ExecuteUbergraph_My_Yellow_Locked_Door_V3A_Sprite_BP1:0324
+[2022.05.08-21.09.14:023][973]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Yellow_Locked_Door_V3A_Sprite_BP1.My_Yellow_Locked_Door_V3A_Sprite_BP1_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Yellow_Locked_Door_V3A_Sprite_BP1.My_Yellow_Locked_Door_V3A_Sprite_BP1_C:ExecuteUbergraph_My_Yellow_Locked_Door_V3A_Sprite_BP1
+
+[2022.05.08-21.09.14:023][973]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	My_Yellow_Locked_Door_V3A_Sprite_BP1_C /Game/Maps/Hub_Map.Hub_Map:PersistentLevel.My_Yellow_Locked_Door_V3A_Sprite_BP2_5
+	Function /Game/Blueprints/Doors_Keys/My_Yellow_Locked_Door_V3A_Sprite_BP1.My_Yellow_Locked_Door_V3A_Sprite_BP1_C:ExecuteUbergraph_My_Yellow_Locked_Door_V3A_Sprite_BP1:0348
+[2022.05.08-21.09.14:023][973]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Yellow_Locked_Door_V3A_Sprite_BP1.My_Yellow_Locked_Door_V3A_Sprite_BP1_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Yellow_Locked_Door_V3A_Sprite_BP1.My_Yellow_Locked_Door_V3A_Sprite_BP1_C:ExecuteUbergraph_My_Yellow_Locked_Door_V3A_Sprite_BP1
+
+[2022.05.08-21.10.31:505][453]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	My_Yellow_Locked_Door_V3A_Sprite_BP1_C /Game/Maps/Hub_Map.Hub_Map:PersistentLevel.My_Yellow_Locked_Door_V3A_Sprite_BP1_10
+	Function /Game/Blueprints/Doors_Keys/My_Yellow_Locked_Door_V3A_Sprite_BP1.My_Yellow_Locked_Door_V3A_Sprite_BP1_C:ExecuteUbergraph_My_Yellow_Locked_Door_V3A_Sprite_BP1:0324
+[2022.05.08-21.10.31:505][453]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Yellow_Locked_Door_V3A_Sprite_BP1.My_Yellow_Locked_Door_V3A_Sprite_BP1_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Yellow_Locked_Door_V3A_Sprite_BP1.My_Yellow_Locked_Door_V3A_Sprite_BP1_C:ExecuteUbergraph_My_Yellow_Locked_Door_V3A_Sprite_BP1
+
+[2022.05.08-21.10.31:505][453]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	My_Yellow_Locked_Door_V3A_Sprite_BP1_C /Game/Maps/Hub_Map.Hub_Map:PersistentLevel.My_Yellow_Locked_Door_V3A_Sprite_BP1_10
+	Function /Game/Blueprints/Doors_Keys/My_Yellow_Locked_Door_V3A_Sprite_BP1.My_Yellow_Locked_Door_V3A_Sprite_BP1_C:ExecuteUbergraph_My_Yellow_Locked_Door_V3A_Sprite_BP1:0348
+[2022.05.08-21.10.31:505][453]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Yellow_Locked_Door_V3A_Sprite_BP1.My_Yellow_Locked_Door_V3A_Sprite_BP1_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Yellow_Locked_Door_V3A_Sprite_BP1.My_Yellow_Locked_Door_V3A_Sprite_BP1_C:ExecuteUbergraph_My_Yellow_Locked_Door_V3A_Sprite_BP1
+
+[2022.05.08-21.10.37:250][  3]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.05.08-21.10.37:250][  3]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.10.42:500][484]LogPackageName: SearchForPackageOnDisk took   0.190s to resolve Main_menu_Map.umap.
+[2022.05.08-21.10.42:692][484]LogPackageName: SearchForPackageOnDisk took   0.192s to resolve Main_menu_Map.umap.
+[2022.05.08-21.10.42:692][484]LogNet: Browse: /Game/Maps/Main_menu_Map
+[2022.05.08-21.10.42:692][484]LogLoad: LoadMap: /Game/Maps/Main_menu_Map
+[2022.05.08-21.10.42:692][484]LogWorld: BeginTearingDown for /Game/Maps/Hub_Map
+[2022.05.08-21.10.42:693][484]LogWorld: UWorld::CleanupWorld for Hub_Map, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-21.10.42:695][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-21.10.42:742][484]LogAudio: Display: Waited 46.429298 ms for audio thread.
+[2022.05.08-21.10.42:754][484]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.08-21.10.42:770][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.05.08-21.10.42:889][484]LogUObjectGlobals: Warning: Failed to load '/Game/Maps/Main_menu_Map_BuiltData': Can't find file.
+[2022.05.08-21.10.43:060][484]LogUObjectGlobals: Warning: [AssetLog] D:\Unreal Projects\Ants\IGS-2022\Antz\Content\Maps\Main_menu_Map.umap: Failed to load '/Game/Maps/Main_menu_Map_BuiltData': Can't find file.
+[2022.05.08-21.10.43:145][484]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_menu_Map'.
+[2022.05.08-21.10.43:146][484]LogAIModule: Creating AISystem for world Main_menu_Map
+[2022.05.08-21.10.43:147][484]LogLoad: Game class is 'BP_Main_Menu_GameMode_C'
+[2022.05.08-21.10.43:148][484]LogWorld: Bringing World /Game/Maps/Main_menu_Map.Main_menu_Map up for play (max tick rate 0) at 2022.05.08-17.10.43
+[2022.05.08-21.10.43:148][484]LogWorld: Bringing up level for play took: 0.000411
+[2022.05.08-21.10.43:149][484]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.05.08-21.10.43:150][484]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-21.10.43:150][484]LogLoad: Took 0.458000 seconds to LoadMap(/Game/Maps/Main_menu_Map)
+[2022.05.08-21.10.46:199][909]LogPackageName: SearchForPackageOnDisk took   0.193s to resolve Tutorial_Map0.umap.
+[2022.05.08-21.10.46:199][909]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.05.08-21.10.46:199][909]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.10.46:395][909]LogPackageName: SearchForPackageOnDisk took   0.196s to resolve Tutorial_Map0.umap.
+[2022.05.08-21.10.46:395][909]LogNet: Browse: /Game/Maps/Tutorial_Map0
+[2022.05.08-21.10.46:395][909]LogLoad: LoadMap: /Game/Maps/Tutorial_Map0
+[2022.05.08-21.10.46:395][909]LogWorld: BeginTearingDown for /Game/Maps/Main_menu_Map
+[2022.05.08-21.10.46:396][909]LogWorld: UWorld::CleanupWorld for Main_menu_Map, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-21.10.46:396][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-21.10.46:432][909]LogAudio: Display: Waited 35.367100 ms for audio thread.
+[2022.05.08-21.10.46:432][909]LogAudio: Display: Waited 36.443100 ms for audio thread.
+[2022.05.08-21.10.46:443][909]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.08-21.10.46:448][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.08-21.10.47:254][909]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial_Map0'.
+[2022.05.08-21.10.47:256][909]LogAIModule: Creating AISystem for world Tutorial_Map0
+[2022.05.08-21.10.47:256][909]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.05.08-21.10.47:316][909]LogWorld: Bringing World /Game/Maps/Tutorial_Map0.Tutorial_Map0 up for play (max tick rate 0) at 2022.05.08-17.10.47
+[2022.05.08-21.10.47:316][909]LogWorld: Bringing up level for play took: 0.059097
+[2022.05.08-21.10.47:324][909]LogLoad: Took 0.929623 seconds to LoadMap(/Game/Maps/Tutorial_Map0)
+[2022.05.08-21.10.53:329][531]LogBlueprintUserMessages: [BP_PlayerBase_C_0] 1
+[2022.05.08-21.10.53:330][531]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-21.10.53:330][531]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.10.53:330][531]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.10.53:330][531]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-21.10.53:330][531]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.05.08-21.10.55:823][785]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.05.08-21.10.55:823][785]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.10.57:013][908]LogBlueprintUserMessages: [BP_PlayerBase_C_0] 1
+[2022.05.08-21.10.57:014][908]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-21.10.57:014][908]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.10.57:014][908]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.10.57:014][908]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-21.10.57:014][908]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.05.08-21.11.03:851][614]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.05.08-21.11.03:851][614]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.11.06:172][854]LogBlueprintUserMessages: [BP_PlayerBase_C_0] 1
+[2022.05.08-21.11.06:172][854]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-21.11.06:172][854]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.11.06:172][854]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.11.06:173][854]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-21.11.06:173][854]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.05.08-21.12.18:380][313]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.05.08-21.12.18:380][313]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.12.50:215][665]LogBlueprintUserMessages: [BP_PlayerBase_C_0] 1
+[2022.05.08-21.12.50:215][665]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-21.12.50:215][665]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.12.50:215][665]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.12.50:216][665]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-21.12.50:216][665]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.05.08-21.13.37:671][578]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.05.08-21.13.37:671][578]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.14.10:369][ 43]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	My_Violet_Locked_Door_V3A_Sprite_BP2_C /Game/Maps/Tutorial_Map0.Tutorial_Map0:PersistentLevel.My_Violet_Locked_Door_V3A_Sprite_BP2_2
+	Function /Game/Blueprints/Doors_Keys/My_Violet_Locked_Door_V3A_Sprite_BP2.My_Violet_Locked_Door_V3A_Sprite_BP2_C:ExecuteUbergraph_My_Violet_Locked_Door_V3A_Sprite_BP2:0324
+[2022.05.08-21.14.10:369][ 43]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Violet_Locked_Door_V3A_Sprite_BP2.My_Violet_Locked_Door_V3A_Sprite_BP2_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Violet_Locked_Door_V3A_Sprite_BP2.My_Violet_Locked_Door_V3A_Sprite_BP2_C:ExecuteUbergraph_My_Violet_Locked_Door_V3A_Sprite_BP2
+
+[2022.05.08-21.14.10:369][ 43]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	My_Violet_Locked_Door_V3A_Sprite_BP2_C /Game/Maps/Tutorial_Map0.Tutorial_Map0:PersistentLevel.My_Violet_Locked_Door_V3A_Sprite_BP2_2
+	Function /Game/Blueprints/Doors_Keys/My_Violet_Locked_Door_V3A_Sprite_BP2.My_Violet_Locked_Door_V3A_Sprite_BP2_C:ExecuteUbergraph_My_Violet_Locked_Door_V3A_Sprite_BP2:0348
+[2022.05.08-21.14.10:369][ 43]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Violet_Locked_Door_V3A_Sprite_BP2.My_Violet_Locked_Door_V3A_Sprite_BP2_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Violet_Locked_Door_V3A_Sprite_BP2.My_Violet_Locked_Door_V3A_Sprite_BP2_C:ExecuteUbergraph_My_Violet_Locked_Door_V3A_Sprite_BP2
+
+[2022.05.08-21.14.11:945][195]LogPackageName: SearchForPackageOnDisk took   0.182s to resolve Hub_Map.umap.
+[2022.05.08-21.14.12:135][196]LogPackageName: SearchForPackageOnDisk took   0.187s to resolve Hub_Map.umap.
+[2022.05.08-21.14.12:135][196]LogNet: Browse: /Game/Maps/Hub_Map
+[2022.05.08-21.14.12:135][196]LogLoad: LoadMap: /Game/Maps/Hub_Map
+[2022.05.08-21.14.12:135][196]LogWorld: BeginTearingDown for /Game/Maps/Tutorial_Map0
+[2022.05.08-21.14.12:135][196]LogWorld: UWorld::CleanupWorld for Tutorial_Map0, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-21.14.12:137][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-21.14.12:178][196]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.08-21.14.12:186][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.05.08-21.14.12:838][196]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hub_Map'.
+[2022.05.08-21.14.12:840][196]LogAIModule: Creating AISystem for world Hub_Map
+[2022.05.08-21.14.12:840][196]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.05.08-21.14.12:854][196]LogWorld: Bringing World /Game/Maps/Hub_Map.Hub_Map up for play (max tick rate 0) at 2022.05.08-17.14.12
+[2022.05.08-21.14.12:854][196]LogWorld: Bringing up level for play took: 0.012744
+[2022.05.08-21.14.12:862][196]LogLoad: Took 0.728263 seconds to LoadMap(/Game/Maps/Hub_Map)
+[2022.05.08-21.14.38:947][695]LogBlueprintUserMessages: [BP_PlayerBase_C_0] 1
+[2022.05.08-21.14.38:947][695]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-21.14.38:947][695]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.14.38:947][695]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.14.56:998][419]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.05.08-21.14.56:998][419]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.14.58:461][557]LogBlueprintUserMessages: [BP_PlayerBase_C_0] 1
+[2022.05.08-21.14.58:462][557]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-21.14.58:462][557]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.14.58:462][557]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.15.10:996][757]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.05.08-21.15.10:996][757]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.15.12:510][903]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.15.12:510][903]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.15.12:511][903]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.05.08-21.15.13:043][954]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.05.08-21.15.13:044][954]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.15.14:823][125]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.15.14:823][125]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.15.14:823][125]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.05.08-21.15.15:654][205]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.05.08-21.15.15:654][205]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.15.34:951][ 42]LogPackageName: SearchForPackageOnDisk took   0.185s to resolve Area1_Map1.umap.
+[2022.05.08-21.15.35:138][ 43]LogPackageName: SearchForPackageOnDisk took   0.185s to resolve Area1_Map1.umap.
+[2022.05.08-21.15.35:138][ 43]LogNet: Browse: /Game/Maps/Area1_Map1
+[2022.05.08-21.15.35:138][ 43]LogLoad: LoadMap: /Game/Maps/Area1_Map1
+[2022.05.08-21.15.35:138][ 43]LogWorld: BeginTearingDown for /Game/Maps/Hub_Map
+[2022.05.08-21.15.35:139][ 43]LogWorld: UWorld::CleanupWorld for Hub_Map, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-21.15.35:141][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-21.15.35:185][ 43]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.08-21.15.35:196][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.05.08-21.15.35:830][ 43]LogAudio: Display: Audio Device (ID: 1) registered with world 'Area1_Map1'.
+[2022.05.08-21.15.35:831][ 43]LogAIModule: Creating AISystem for world Area1_Map1
+[2022.05.08-21.15.35:832][ 43]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.05.08-21.15.35:853][ 43]LogWorld: Bringing World /Game/Maps/Area1_Map1.Area1_Map1 up for play (max tick rate 0) at 2022.05.08-17.15.35
+[2022.05.08-21.15.35:853][ 43]LogWorld: Bringing up level for play took: 0.020179
+[2022.05.08-21.15.35:861][ 43]LogLoad: Took 0.722455 seconds to LoadMap(/Game/Maps/Area1_Map1)
+[2022.05.08-21.21.14:681][112]LogBlueprintUserMessages: [BP_PlayerBase_C_0] 1
+[2022.05.08-21.21.14:681][112]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-21.21.14:681][112]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.21.14:681][112]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.21.14:681][112]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-21.21.14:681][112]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.05.08-21.21.23:537][103]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.05.08-21.21.23:537][103]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.21.26:437][427]LogBlueprintUserMessages: [BP_PlayerBase_C_0] 1
+[2022.05.08-21.21.26:438][427]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-21.21.26:438][427]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.21.26:438][427]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.21.26:438][427]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.05.08-21.21.26:438][427]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.05.08-21.21.31:795][ 27]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.05.08-21.21.31:795][ 27]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.21.37:388][657]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP_2
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0324
+[2022.05.08-21.21.37:388][657]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-21.21.37:388][657]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP_2
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0348
+[2022.05.08-21.21.37:388][657]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-21.21.53:045][417]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP3
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0324
+[2022.05.08-21.21.53:045][417]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-21.21.53:046][417]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP3
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0348
+[2022.05.08-21.21.53:046][417]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-21.23.43:101][665]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP2
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0324
+[2022.05.08-21.23.43:101][665]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-21.23.43:101][665]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP2
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0348
+[2022.05.08-21.23.43:101][665]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-21.24.48:276][948]LogScript: Warning: Accessed None trying to read property QuestLogUI
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP5
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0324
+[2022.05.08-21.24.48:276][948]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-21.24.48:276][948]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	My_Locked_Door_V3A_Sprite_BP_C /Game/Maps/Area1_Map1.Area1_Map1:PersistentLevel.My_Locked_Door_V3A_Sprite_BP5
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP:0348
+[2022.05.08-21.24.48:276][948]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:BndEvt__My_Locked_Door_V3A_Sprite_BP_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Doors_Keys/My_Locked_Door_V3A_Sprite_BP.My_Locked_Door_V3A_Sprite_BP_C:ExecuteUbergraph_My_Locked_Door_V3A_Sprite_BP
+
+[2022.05.08-21.25.23:643][865]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.25.23:643][865]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.25.24:338][943]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.05.08-21.25.24:338][943]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.26.50:021][469]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.05.08-21.26.50:021][469]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.05.08-21.26.50:943][573]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.05.08-21.26.50:943][573]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.08-21.30.44:516][486]LogPackageName: SearchForPackageOnDisk took   0.201s to resolve Hub_Map.umap.
+[2022.05.08-21.30.44:713][486]LogPackageName: SearchForPackageOnDisk took   0.196s to resolve Hub_Map.umap.
+[2022.05.08-21.30.44:907][486]LogPackageName: SearchForPackageOnDisk took   0.193s to resolve Hub_Map.umap.
+[2022.05.08-21.30.44:907][486]LogNet: Browse: /Game/Maps/Hub_Map
+[2022.05.08-21.30.44:907][486]LogLoad: LoadMap: /Game/Maps/Hub_Map
+[2022.05.08-21.30.44:907][486]LogWorld: BeginTearingDown for /Game/Maps/Area1_Map1
+[2022.05.08-21.30.44:908][486]LogWorld: UWorld::CleanupWorld for Area1_Map1, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-21.30.44:910][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-21.30.44:944][486]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.08-21.30.44:949][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.05.08-21.30.45:603][486]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hub_Map'.
+[2022.05.08-21.30.45:604][486]LogAIModule: Creating AISystem for world Hub_Map
+[2022.05.08-21.30.45:605][486]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.05.08-21.30.45:689][486]LogWorld: Bringing World /Game/Maps/Hub_Map.Hub_Map up for play (max tick rate 0) at 2022.05.08-17.30.45
+[2022.05.08-21.30.45:689][486]LogWorld: Bringing up level for play took: 0.082715
+[2022.05.08-21.30.45:699][486]LogLoad: Took 0.791363 seconds to LoadMap(/Game/Maps/Hub_Map)
+[2022.05.08-21.30.54:208][292]Closing by request
+[2022.05.08-21.30.54:208][292]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.05.08-21.30.54:208][292]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.05.08-21.30.54:218][293]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.05.08-21.30.54:219][293]LogInit: Display: PreExit Game.
+[2022.05.08-21.30.54:372][293]LogWorld: BeginTearingDown for /Game/Maps/Hub_Map
+[2022.05.08-21.30.54:372][293]LogWorld: UWorld::CleanupWorld for Hub_Map, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-21.30.54:374][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-21.30.54:940][293]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.05.08-21.30.54:940][293]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.05.08-21.30.54:940][293]LogAudio: Display: Audio Device unregistered from world 'Hub_Map'.
+[2022.05.08-21.30.54:983][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.08-21.30.54:985][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.08-21.30.54:999][293]LogAudio: Display: Audio Device Manager Shutdown
+[2022.05.08-21.30.55:007][293]LogSlate: Window 'Antz (64-bit Development PCD3D_SM5) ' being destroyed
+[2022.05.08-21.30.55:008][293]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.08-21.30.55:013][293]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.08-21.30.55:021][293]LogExit: Preparing to exit.
+[2022.05.08-21.30.55:349][293]LogMoviePlayer: Shutting down movie player
+[2022.05.08-21.30.55:464][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAFDF00] Windows
+[2022.05.08-21.30.55:464][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAFDE00] Default__DeviceProfile
+[2022.05.08-21.30.55:464][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAEE300] WindowsNoEditor
+[2022.05.08-21.30.55:464][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAFFA00] WindowsServer
+[2022.05.08-21.30.55:464][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAEC800] WindowsClient
+[2022.05.08-21.30.55:464][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAFC900] IOS
+[2022.05.08-21.30.55:464][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAEF200] iPadAir
+[2022.05.08-21.30.55:464][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAFD600] iPadAir2
+[2022.05.08-21.30.55:464][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9F600] IPadPro
+[2022.05.08-21.30.55:464][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9F700] iPadAir3
+[2022.05.08-21.30.55:464][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAFD300] iPadAir4
+[2022.05.08-21.30.55:464][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9F800] iPadMini2
+[2022.05.08-21.30.55:464][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAFE300] iPadMini3
+[2022.05.08-21.30.55:464][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9E500] iPadMini4
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAFFD00] iPadMini5
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB2E00] iPhone6
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB2F00] iPodTouch6
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9FF00] iPhone7
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9F500] iPodTouch7
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB2700] iPhone5S
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9F400] iPhone6Plus
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB3E00] iPhone6S
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9D000] iPhone6SPlus
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB2900] iPhone7Plus
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9E800] iPhoneSE
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB2800] iPhone8
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9D400] iPhone8Plus
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB1F00] iPhoneX
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9DB00] iPhoneXS
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB0600] iPhoneXSMax
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9C200] iPhoneXR
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB3400] iPhone11
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9F300] iPhone11Pro
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB0700] iPhone11ProMax
+[2022.05.08-21.30.55:465][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9C800] iPhoneSE2
+[2022.05.08-21.30.55:466][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB1C00] iPhone12Mini
+[2022.05.08-21.30.55:466][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9DD00] iPhone12
+[2022.05.08-21.30.55:466][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB1600] iPhone12Pro
+[2022.05.08-21.30.55:466][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9F100] iPhone12ProMax
+[2022.05.08-21.30.55:466][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB2400] iPadPro105
+[2022.05.08-21.30.55:466][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9FB00] iPadPro129
+[2022.05.08-21.30.55:466][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB3C00] iPadPro97
+[2022.05.08-21.30.55:466][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9D900] iPadPro2_129
+[2022.05.08-21.30.55:466][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAED300] iPad5
+[2022.05.08-21.30.55:466][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB3700] iPad6
+[2022.05.08-21.30.55:466][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAEDE00] iPad7
+[2022.05.08-21.30.55:466][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB0B00] iPad8
+[2022.05.08-21.30.55:466][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAED000] iPadPro11
+[2022.05.08-21.30.55:466][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB3800] iPadPro2_11
+[2022.05.08-21.30.55:466][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAEFF00] iPadPro3_129
+[2022.05.08-21.30.55:466][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB2300] iPadPro4_129
+[2022.05.08-21.30.55:466][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAEDF00] AppleTV
+[2022.05.08-21.30.55:466][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB1E00] AppleTV4K
+[2022.05.08-21.30.55:466][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAEC600] TVOS
+[2022.05.08-21.30.55:466][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB0C00] Mac
+[2022.05.08-21.30.55:467][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9CD00] MacClient
+[2022.05.08-21.30.55:467][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAEF500] MacNoEditor
+[2022.05.08-21.30.55:467][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9E600] MacServer
+[2022.05.08-21.30.55:467][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB0500] Linux
+[2022.05.08-21.30.55:467][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9D200] LinuxAArch64
+[2022.05.08-21.30.55:467][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB2200] LinuxNoEditor
+[2022.05.08-21.30.55:467][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9D500] LinuxAArch64NoEditor
+[2022.05.08-21.30.55:467][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB2A00] LinuxClient
+[2022.05.08-21.30.55:467][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9F200] LinuxAArch64Client
+[2022.05.08-21.30.55:467][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB1D00] LinuxServer
+[2022.05.08-21.30.55:467][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9E200] LinuxAArch64Server
+[2022.05.08-21.30.55:467][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB0400] Android
+[2022.05.08-21.30.55:467][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9DE00] Android_Low
+[2022.05.08-21.30.55:467][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB1000] Android_Mid
+[2022.05.08-21.30.55:467][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9D100] Android_High
+[2022.05.08-21.30.55:467][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB1100] Android_Default
+[2022.05.08-21.30.55:467][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9C700] Android_Adreno4xx
+[2022.05.08-21.30.55:468][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB3300] Android_Adreno5xx_Low
+[2022.05.08-21.30.55:468][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9C900] Android_Adreno5xx
+[2022.05.08-21.30.55:468][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB3A00] Android_Adreno6xx
+[2022.05.08-21.30.55:468][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9D300] Android_Adreno6xx_Vulkan
+[2022.05.08-21.30.55:468][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB0D00] Android_Mali_T6xx
+[2022.05.08-21.30.55:468][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9E400] Android_Mali_T7xx
+[2022.05.08-21.30.55:468][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB3600] Android_Mali_T8xx
+[2022.05.08-21.30.55:468][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9CC00] Android_Mali_G71
+[2022.05.08-21.30.55:468][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB1A00] Android_Mali_G72
+[2022.05.08-21.30.55:468][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9F900] Android_Mali_G72_Vulkan
+[2022.05.08-21.30.55:468][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB1200] Android_Mali_G76
+[2022.05.08-21.30.55:468][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9C300] Android_Mali_G76_Vulkan
+[2022.05.08-21.30.55:468][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB2000] Android_Mali_G77
+[2022.05.08-21.30.55:468][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9C100] Android_Mali_G77_Vulkan
+[2022.05.08-21.30.55:468][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB0100] Android_Vulkan_SM5
+[2022.05.08-21.30.55:468][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9DF00] Android_PowerVR_G6xxx
+[2022.05.08-21.30.55:468][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB1B00] Android_PowerVR_GT7xxx
+[2022.05.08-21.30.55:468][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9CB00] Android_PowerVR_GE8xxx
+[2022.05.08-21.30.55:468][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB2D00] Android_PowerVR_GM9xxx
+[2022.05.08-21.30.55:468][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9FD00] Android_PowerVR_GM9xxx_Vulkan
+[2022.05.08-21.30.55:469][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB2100] Android_TegraK1
+[2022.05.08-21.30.55:469][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9E900] Android_Unknown_Vulkan
+[2022.05.08-21.30.55:469][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB0E00] Lumin
+[2022.05.08-21.30.55:469][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEA9E700] Lumin_Desktop
+[2022.05.08-21.30.55:469][293]LogDeviceProfile: Device profile begin destroy: [0000021AAEAB0800] HoloLens
+[2022.05.08-21.30.55:498][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.08-21.30.55:516][293]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.05.08-21.30.55:530][293]LogExit: Game engine shut down
+[2022.05.08-21.30.55:607][293]LogExit: Object subsystem successfully closed.
+[2022.05.08-21.30.55:636][293]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.05.08-21.30.55:666][293]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (506)
+[2022.05.08-21.30.55:667][293]LogModuleManager: Shutting down and abandoning module SequenceRecorder (504)
+[2022.05.08-21.30.55:667][293]LogModuleManager: Shutting down and abandoning module AutomationController (502)
+[2022.05.08-21.30.55:667][293]LogModuleManager: Shutting down and abandoning module AutomationWorker (500)
+[2022.05.08-21.30.55:667][293]LogModuleManager: Shutting down and abandoning module Voice (498)
+[2022.05.08-21.30.55:667][293]LogModuleManager: Shutting down and abandoning module AIModule (496)
+[2022.05.08-21.30.55:667][293]LogModuleManager: Shutting down and abandoning module GameplayDebugger (495)
+[2022.05.08-21.30.55:668][293]LogModuleManager: Shutting down and abandoning module AITestSuite (493)
+[2022.05.08-21.30.55:668][293]LogModuleManager: Shutting down and abandoning module NavigationSystem (491)
+[2022.05.08-21.30.55:668][293]LogModuleManager: Shutting down and abandoning module SteamVREditor (488)
+[2022.05.08-21.30.55:668][293]LogModuleManager: Shutting down and abandoning module ToolMenus (487)
+[2022.05.08-21.30.55:668][293]LogModuleManager: Shutting down and abandoning module OculusMR (484)
+[2022.05.08-21.30.55:668][293]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (482)
+[2022.05.08-21.30.55:668][293]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (480)
+[2022.05.08-21.30.55:668][293]LogModuleManager: Shutting down and abandoning module WebMMedia (478)
+[2022.05.08-21.30.55:668][293]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (476)
+[2022.05.08-21.30.55:668][293]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (474)
+[2022.05.08-21.30.55:668][293]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (472)
+[2022.05.08-21.30.55:668][293]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (470)
+[2022.05.08-21.30.55:668][293]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (468)
+[2022.05.08-21.30.55:668][293]LogModuleManager: Shutting down and abandoning module PlanarCut (466)
+[2022.05.08-21.30.55:668][293]LogModuleManager: Shutting down and abandoning module CharacterAI (464)
+[2022.05.08-21.30.55:669][293]LogModuleManager: Shutting down and abandoning module SessionServices (462)
+[2022.05.08-21.30.55:669][293]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (460)
+[2022.05.08-21.30.55:669][293]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2022.05.08-21.30.55:669][293]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2022.05.08-21.30.55:669][293]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2022.05.08-21.30.55:669][293]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2022.05.08-21.30.55:669][293]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2022.05.08-21.30.55:669][293]LogModuleManager: Shutting down and abandoning module PortalServices (448)
+[2022.05.08-21.30.55:669][293]LogModuleManager: Shutting down and abandoning module PortalRpc (446)
+[2022.05.08-21.30.55:669][293]LogModuleManager: Shutting down and abandoning module MessagingRpc (444)
+[2022.05.08-21.30.55:669][293]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (442)
+[2022.05.08-21.30.55:669][293]LogModuleManager: Shutting down and abandoning module AudioMixerCore (441)
+[2022.05.08-21.30.55:669][293]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (438)
+[2022.05.08-21.30.55:672][293]LogModuleManager: Shutting down and abandoning module ProfilerService (436)
+[2022.05.08-21.30.55:679][293]LogModuleManager: Shutting down and abandoning module TaskGraph (434)
+[2022.05.08-21.30.55:680][293]LogModuleManager: Shutting down and abandoning module OculusInput (432)
+[2022.05.08-21.30.55:680][293]LogModuleManager: Shutting down and abandoning module Synthesis (430)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (428)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (426)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module GooglePAD (424)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module EditableMesh (422)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (420)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module CableComponent (418)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module AudioCapture (416)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (415)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module AssetTags (412)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (410)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (408)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module AppleImageUtils (406)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module AndroidPermission (404)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (402)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (400)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module HotReload (397)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (396)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module UObjectPlugin (392)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (390)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (388)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module SourceControl (387)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (384)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module TemplateSequence (382)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (380)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module MediaCompositing (378)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (376)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module ImgMedia (374)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (372)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (370)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (368)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module MotoSynth (366)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (364)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (363)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module MeshConversion (360)
+[2022.05.08-21.30.55:682][293]LogModuleManager: Shutting down and abandoning module DynamicMesh (358)
+[2022.05.08-21.30.55:683][293]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (356)
+[2022.05.08-21.30.55:684][293]LogModuleManager: Shutting down and abandoning module GeometricObjects (354)
+[2022.05.08-21.30.55:685][293]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (352)
+[2022.05.08-21.30.55:685][293]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (351)
+[2022.05.08-21.30.55:685][293]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2022.05.08-21.30.55:685][293]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2022.05.08-21.30.55:685][293]LogModuleManager: Shutting down and abandoning module ChaosNiagara (344)
+[2022.05.08-21.30.55:685][293]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (343)
+[2022.05.08-21.30.55:685][293]LogModuleManager: Shutting down and abandoning module AutomationUtils (340)
+[2022.05.08-21.30.55:685][293]LogModuleManager: Shutting down and abandoning module BackChannel (338)
+[2022.05.08-21.30.55:685][293]LogModuleManager: Shutting down and abandoning module SoundFields (336)
+[2022.05.08-21.30.55:685][293]LogModuleManager: Shutting down and abandoning module SignificanceManager (334)
+[2022.05.08-21.30.55:685][293]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (332)
+[2022.05.08-21.30.55:685][293]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (330)
+[2022.05.08-21.30.55:685][293]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (328)
+[2022.05.08-21.30.55:685][293]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (324)
+[2022.05.08-21.30.55:685][293]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (322)
+[2022.05.08-21.30.55:685][293]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (320)
+[2022.05.08-21.30.55:685][293]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (318)
+[2022.05.08-21.30.55:687][293]LogModuleManager: Shutting down and abandoning module AnimationSharing (316)
+[2022.05.08-21.30.55:687][293]LogModuleManager: Shutting down and abandoning module ActorSequence (314)
+[2022.05.08-21.30.55:687][293]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (312)
+[2022.05.08-21.30.55:687][293]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (310)
+[2022.05.08-21.30.55:687][293]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (308)
+[2022.05.08-21.30.55:687][293]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (306)
+[2022.05.08-21.30.55:687][293]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (304)
+[2022.05.08-21.30.55:687][293]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.05.08-21.30.55:687][293]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (302)
+[2022.05.08-21.30.55:687][293]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (300)
+[2022.05.08-21.30.55:687][293]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (298)
+[2022.05.08-21.30.55:687][293]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (296)
+[2022.05.08-21.30.55:687][293]LogModuleManager: Shutting down and abandoning module MagicLeapController (294)
+[2022.05.08-21.30.55:687][293]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.05.08-21.30.55:687][293]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (292)
+[2022.05.08-21.30.55:687][293]LogModuleManager: Shutting down and abandoning module MagicLeapAR (290)
+[2022.05.08-21.30.55:687][293]LogModuleManager: Shutting down and abandoning module AugmentedReality (289)
+[2022.05.08-21.30.55:687][293]LogModuleManager: Shutting down and abandoning module UdpMessaging (286)
+[2022.05.08-21.30.55:788][293]LogModuleManager: Shutting down and abandoning module TcpMessaging (284)
+[2022.05.08-21.30.55:889][293]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (282)
+[2022.05.08-21.30.55:889][293]LogModuleManager: Shutting down and abandoning module Niagara (280)
+[2022.05.08-21.30.55:889][293]LogModuleManager: Shutting down and abandoning module SignalProcessing (279)
+[2022.05.08-21.30.55:889][293]LogModuleManager: Shutting down and abandoning module NiagaraEditor (277)
+[2022.05.08-21.30.55:890][293]LogModuleManager: Shutting down and abandoning module NiagaraCore (274)
+[2022.05.08-21.30.55:890][293]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (272)
+[2022.05.08-21.30.55:890][293]LogModuleManager: Shutting down and abandoning module FacialAnimation (270)
+[2022.05.08-21.30.55:890][293]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2022.05.08-21.30.55:890][293]LogModuleManager: Shutting down and abandoning module TreeMap (267)
+[2022.05.08-21.30.55:890][293]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (264)
+[2022.05.08-21.30.55:890][293]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (262)
+[2022.05.08-21.30.55:892][293]LogModuleManager: Shutting down and abandoning module Paper2D (260)
+[2022.05.08-21.30.55:892][293]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (258)
+[2022.05.08-21.30.55:894][293]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (256)
+[2022.05.08-21.30.55:894][293]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (254)
+[2022.05.08-21.30.55:894][293]LogModuleManager: Shutting down and abandoning module PacketHandler (252)
+[2022.05.08-21.30.55:894][293]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (250)
+[2022.05.08-21.30.55:894][293]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (248)
+[2022.05.08-21.30.55:896][293]LogModuleManager: Shutting down and abandoning module MediaAssets (246)
+[2022.05.08-21.30.55:896][293]LogModuleManager: Shutting down and abandoning module Overlay (244)
+[2022.05.08-21.30.55:896][293]LogModuleManager: Shutting down and abandoning module OverlayEditor (243)
+[2022.05.08-21.30.55:896][293]LogModuleManager: Shutting down and abandoning module VREditor (240)
+[2022.05.08-21.30.55:897][293]LogModuleManager: Shutting down and abandoning module StringTableEditor (238)
+[2022.05.08-21.30.55:899][293]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (236)
+[2022.05.08-21.30.55:899][293]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (234)
+[2022.05.08-21.30.55:900][293]LogModuleManager: Shutting down and abandoning module FunctionalTesting (232)
+[2022.05.08-21.30.55:900][293]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (230)
+[2022.05.08-21.30.55:900][293]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (229)
+[2022.05.08-21.30.55:901][293]LogModuleManager: Shutting down and abandoning module UMG (226)
+[2022.05.08-21.30.55:901][293]LogModuleManager: Shutting down and abandoning module UMGEditor (225)
+[2022.05.08-21.30.55:902][293]LogModuleManager: Shutting down and abandoning module Sequencer (224)
+[2022.05.08-21.30.55:903][293]LogModuleManager: Shutting down and abandoning module MessageLog (221)
+[2022.05.08-21.30.55:903][293]LogModuleManager: Shutting down and abandoning module SlateReflector (216)
+[2022.05.08-21.30.55:904][293]LogModuleManager: Shutting down and abandoning module Slate (214)
+[2022.05.08-21.30.55:904][293]LogModuleManager: Shutting down and abandoning module SlateCore (212)
+[2022.05.08-21.30.55:908][293]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (210)
+[2022.05.08-21.30.55:908][293]LogModuleManager: Shutting down and abandoning module UnrealEd (208)
+[2022.05.08-21.30.55:908][293]LogModuleManager: Shutting down and abandoning module MRMesh (206)
+[2022.05.08-21.30.55:908][293]LogModuleManager: Shutting down and abandoning module Messaging (204)
+[2022.05.08-21.30.55:908][293]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (202)
+[2022.05.08-21.30.55:908][293]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (200)
+[2022.05.08-21.30.55:908][293]LogModuleManager: Shutting down and abandoning module XAudio2 (198)
+[2022.05.08-21.30.55:908][293]LogModuleManager: Shutting down and abandoning module Networking (196)
+[2022.05.08-21.30.55:908][293]LogModuleManager: Shutting down and abandoning module Core (194)
+[2022.05.08-21.30.55:908][293]LogModuleManager: Shutting down and abandoning module MaterialEditor (192)
+[2022.05.08-21.30.55:910][293]LogModuleManager: Shutting down and abandoning module MovieSceneTools (190)
+[2022.05.08-21.30.55:911][293]LogModuleManager: Shutting down and abandoning module EditorStyle (189)
+[2022.05.08-21.30.55:913][293]LogModuleManager: Shutting down and abandoning module KismetCompiler (186)
+[2022.05.08-21.30.55:913][293]LogModuleManager: Shutting down and abandoning module MeshBuilder (184)
+[2022.05.08-21.30.55:913][293]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2022.05.08-21.30.55:913][293]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2022.05.08-21.30.55:914][293]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2022.05.08-21.30.55:914][293]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (179)
+[2022.05.08-21.30.55:914][293]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (177)
+[2022.05.08-21.30.55:915][293]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2022.05.08-21.30.55:915][293]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2022.05.08-21.30.55:916][293]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2022.05.08-21.30.55:916][293]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (164)
+[2022.05.08-21.30.55:916][293]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (162)
+[2022.05.08-21.30.55:916][293]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2022.05.08-21.30.55:917][293]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2022.05.08-21.30.55:917][293]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2022.05.08-21.30.55:917][293]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2022.05.08-21.30.55:918][293]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2022.05.08-21.30.55:919][293]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2022.05.08-21.30.55:919][293]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2022.05.08-21.30.55:919][293]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2022.05.08-21.30.55:919][293]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2022.05.08-21.30.55:919][293]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (143)
+[2022.05.08-21.30.55:919][293]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2022.05.08-21.30.55:919][293]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2022.05.08-21.30.55:920][293]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2022.05.08-21.30.55:920][293]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2022.05.08-21.30.55:920][293]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2022.05.08-21.30.55:920][293]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2022.05.08-21.30.55:920][293]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2022.05.08-21.30.55:920][293]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (127)
+[2022.05.08-21.30.55:920][293]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (125)
+[2022.05.08-21.30.55:920][293]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (123)
+[2022.05.08-21.30.55:920][293]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (121)
+[2022.05.08-21.30.55:920][293]LogModuleManager: Shutting down and abandoning module InputCore (118)
+[2022.05.08-21.30.55:920][293]LogModuleManager: Shutting down and abandoning module Settings (116)
+[2022.05.08-21.30.55:920][293]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2022.05.08-21.30.55:920][293]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2022.05.08-21.30.55:921][293]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2022.05.08-21.30.55:921][293]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2022.05.08-21.30.55:921][293]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2022.05.08-21.30.55:922][293]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2022.05.08-21.30.55:922][293]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2022.05.08-21.30.55:922][293]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2022.05.08-21.30.55:922][293]LogHMD: Freeing OpenVRDLLHandle.
+[2022.05.08-21.30.55:922][293]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2022.05.08-21.30.55:922][293]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.05.08-21.30.55:923][293]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (94)
+[2022.05.08-21.30.55:923][293]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2022.05.08-21.30.55:923][293]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2022.05.08-21.30.55:923][293]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2022.05.08-21.30.55:925][293]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2022.05.08-21.30.55:925][293]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2022.05.08-21.30.55:953][293]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2022.05.08-21.30.55:954][293]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.05.08-21.30.55:975][293]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2022.05.08-21.30.55:976][293]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2022.05.08-21.30.55:978][293]LogModuleManager: Shutting down and abandoning module Media (71)
+[2022.05.08-21.30.55:979][293]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2022.05.08-21.30.55:979][293]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2022.05.08-21.30.55:979][293]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (64)
+[2022.05.08-21.30.55:979][293]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2022.05.08-21.30.55:979][293]LogModuleManager: Shutting down and abandoning module VariantManagerContent (60)
+[2022.05.08-21.30.55:979][293]LogModuleManager: Shutting down and abandoning module DatasmithContent (58)
+[2022.05.08-21.30.55:980][293]LogModuleManager: Shutting down and abandoning module ChaosCloth (56)
+[2022.05.08-21.30.55:980][293]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (54)
+[2022.05.08-21.30.55:980][293]LogModuleManager: Shutting down and abandoning module NiagaraShader (52)
+[2022.05.08-21.30.55:980][293]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.05.08-21.30.55:980][293]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.05.08-21.30.55:980][293]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2022.05.08-21.30.55:980][293]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2022.05.08-21.30.55:980][293]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2022.05.08-21.30.55:980][293]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2022.05.08-21.30.55:980][293]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.05.08-21.30.55:981][293]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.05.08-21.30.55:981][293]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.05.08-21.30.55:982][293]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.05.08-21.30.55:982][293]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.05.08-21.30.55:982][293]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.05.08-21.30.55:982][293]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.05.08-21.30.55:982][293]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.05.08-21.30.55:983][293]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.05.08-21.30.55:983][293]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.05.08-21.30.55:983][293]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.05.08-21.30.55:983][293]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.05.08-21.30.55:983][293]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.05.08-21.30.55:983][293]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.05.08-21.30.55:984][293]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.05.08-21.30.55:984][293]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.05.08-21.30.55:984][293]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.05.08-21.30.55:984][293]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.05.08-21.30.55:984][293]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.05.08-21.30.55:984][293]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.05.08-21.30.55:985][293]LogD3D11RHI: Shutdown
+[2022.05.08-21.30.55:985][293]LogD3D11RHI: CleanupD3DDevice
+[2022.05.08-21.30.56:001][293]LogExit: Exiting.
+[2022.05.08-21.30.56:005][293]Log file closed, 05/08/22 17:30:56
